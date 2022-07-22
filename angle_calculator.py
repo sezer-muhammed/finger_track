@@ -2,7 +2,8 @@ import numpy as np
 import math
 
 class AngleCalculator():
-    def __init__(self) -> None:
+    def __init__(self, logger) -> None:
+        self.logger = logger
         self.__all_angles = []
         pass
 
@@ -16,6 +17,7 @@ class AngleCalculator():
             angle = self.__calculate_angle(joints[keys[i-1]], joints[keys[i]], joints[keys[i+1]])
             angles[angle_name] = angle
         self.__all_angles.append(angles)
+        self.logger.info(f"Getting Angle Dict")
         return angles
         
     def get_all(self):
@@ -23,4 +25,4 @@ class AngleCalculator():
 
     def __calculate_angle(self, a, b, c):
         ang = math.degrees(math.atan2(c[1]-b[1], c[0]-b[0]) - math.atan2(a[1]-b[1], a[0]-b[0]))
-        return ang + 360 if ang < 0 else ang
+        return 360 - (ang + 360 if ang < 0 else ang)

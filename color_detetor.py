@@ -2,13 +2,15 @@ import numpy as np
 import cv2
 
 class ColorManager():
-    def __init__(self) -> None:
+    def __init__(self, logger) -> None:
         self.h_min = 0
         self.s_min = 0
         self.v_min = 0
         self.h_max = 180
         self.s_max = 222
         self.v_max = 255
+
+        self.logger = logger
 
         self.kernel = np.ones((5,5),np.uint8)
 
@@ -29,6 +31,7 @@ class ColorManager():
         hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
         mask = cv2.inRange(hsv, self.lower, self.upper)
         self.mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, self.kernel)
+        self.logger.info(f"Filtering Done & Mask Created")
 
 
     def get_points(self):
@@ -39,4 +42,5 @@ class ColorManager():
             if cv2.contourArea(cnt) > 80:
                 (x,y),radius = cv2.minEnclosingCircle(cnt)
                 points.append([x, y])
+        self.logger.info(f"{len(points)} Points Detected on the Image")
         return np.array(points)

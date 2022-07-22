@@ -27,8 +27,10 @@ def match_numba(points, joints_coords):
 
 
 class EklemTracker():
-    def __init__(self) -> None:
+    def __init__(self, logger) -> None:
         cv2.setMouseCallback('Image', self.get_input)
+
+        self.logger = logger
 
         self.click_x = 0
         self.click_y = 0
@@ -55,11 +57,15 @@ class EklemTracker():
             frame = cv2.putText(frame_origin.copy(), message, (20, 50), cv2.FONT_HERSHEY_COMPLEX, 1.4, (25, 0, 255), 2, cv2.LINE_AA)
             cv2.imshow("Image", frame)
             cv2.waitKey(0)
+            self.logger.info(f"{joint} Has Been Created. Coordinates: x: {self.click_x}, y: {self.click_y}")
             self.__last_joint_coords[joint] = [self.click_x, self.click_y]
         self.__all_coords.append(self.__last_joint_coords)
 
     def match(self, points):
         result = match_numba(points, np.array(list(self.__last_joint_coords.values())))
+
+        self.logger.info(f"Results Matched for New Frame")
+
         for i, joint in enumerate(self.__last_joint_coords):
             if result[i] == -1:
                 continue
@@ -72,7 +78,8 @@ class EklemTracker():
     def draw(self, frame):
         for joint in self.__last_joint_coords:
             coord = (int(self.__last_joint_coords[joint][0]), int(self.__last_joint_coords[joint][1]))
-            frame = cv2.putText(frame, joint, coord, cv2.FONT_HERSHEY_COMPLEX, 1, (0, 100, 255), 1, cv2.LINE_AA)
+            frame = cv2.putText(frame, joint, coord, cv2.FONT_HERSHEY_COMPLEX, 0.3, (0, 100, 255), 1, cv2.LINE_AA)
+        self.logger.info(f"Joint Points & Names Now Are on the Frame")
         return frame
 
     def get_input(self, event, x, y, flags, param):
@@ -83,4 +90,5 @@ class EklemTracker():
 
 
     def get_joints(self):
+        self.logger.info(f"Getting Joints Dict")
         return self.__last_joint_coords
