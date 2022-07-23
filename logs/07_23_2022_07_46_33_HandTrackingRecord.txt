@@ -1,0 +1,2115 @@
+INFO | 334 | keypoint | Camera Started: mavi-el-resized.mp4
+INFO | 351 | keypoint | Resolution H: 720, W: 1280. Writer Object Created with the Name: mavi-el-resized-output.mp4.
+INFO | 351 | keypoint | Filtering Values Set. Hue Min: 93, Saturation Min: 44, Value Min: 38, Hue Max: 170, Saturation Max: 232, Value Max: 255
+INFO | 1775 | eklem_tracker | isaret_uc Has Been Created. Coordinates: x: 463, y: 284
+INFO | 2215 | eklem_tracker | isaret_DIP Has Been Created. Coordinates: x: 542, y: 268
+INFO | 2783 | eklem_tracker | isaret_PIP Has Been Created. Coordinates: x: 601, y: 241
+INFO | 3414 | eklem_tracker | isaret_MP Has Been Created. Coordinates: x: 709, y: 305
+INFO | 3975 | eklem_tracker | CMC Has Been Created. Coordinates: x: 811, y: 421
+INFO | 4415 | eklem_tracker | bas_PIP Has Been Created. Coordinates: x: 694, y: 439
+INFO | 4919 | eklem_tracker | bas_DIP Has Been Created. Coordinates: x: 559, y: 443
+INFO | 5295 | eklem_tracker | bas_uc Has Been Created. Coordinates: x: 492, y: 444
+INFO | 5295 | keypoint | Starting Loop For video. 
+
+
+
+INFO | 5298 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 5300 | color_detetor | Filtering Done & Mask Created
+INFO | 5300 | color_detetor | 9 Points Detected on the Image
+INFO | 5662 | eklem_tracker | Results Matched for New Frame
+INFO | 5662 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 5662 | eklem_tracker | Getting Joints Dict
+INFO | 5662 | angle_calculator | Getting Angle Dict
+INFO | 5662 | keypoint | Angles & Lines Are on the Image
+INFO | 8181 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8184 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8185 | color_detetor | Filtering Done & Mask Created
+INFO | 8186 | color_detetor | 9 Points Detected on the Image
+INFO | 8328 | eklem_tracker | Results Matched for New Frame
+INFO | 8328 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8328 | eklem_tracker | Getting Joints Dict
+INFO | 8328 | angle_calculator | Getting Angle Dict
+INFO | 8328 | keypoint | Angles & Lines Are on the Image
+INFO | 8688 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8691 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8693 | color_detetor | Filtering Done & Mask Created
+INFO | 8693 | color_detetor | 9 Points Detected on the Image
+INFO | 8693 | eklem_tracker | Results Matched for New Frame
+INFO | 8694 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8694 | eklem_tracker | Getting Joints Dict
+INFO | 8694 | angle_calculator | Getting Angle Dict
+INFO | 8694 | keypoint | Angles & Lines Are on the Image
+INFO | 8719 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8721 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8723 | color_detetor | Filtering Done & Mask Created
+INFO | 8724 | color_detetor | 9 Points Detected on the Image
+INFO | 8724 | eklem_tracker | Results Matched for New Frame
+INFO | 8724 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8724 | eklem_tracker | Getting Joints Dict
+INFO | 8725 | angle_calculator | Getting Angle Dict
+INFO | 8725 | keypoint | Angles & Lines Are on the Image
+INFO | 8750 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8752 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8754 | color_detetor | Filtering Done & Mask Created
+INFO | 8755 | color_detetor | 9 Points Detected on the Image
+INFO | 8755 | eklem_tracker | Results Matched for New Frame
+INFO | 8755 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8755 | eklem_tracker | Getting Joints Dict
+INFO | 8755 | angle_calculator | Getting Angle Dict
+INFO | 8755 | keypoint | Angles & Lines Are on the Image
+INFO | 8782 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8784 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8787 | color_detetor | Filtering Done & Mask Created
+INFO | 8788 | color_detetor | 9 Points Detected on the Image
+INFO | 8788 | eklem_tracker | Results Matched for New Frame
+INFO | 8788 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8788 | eklem_tracker | Getting Joints Dict
+INFO | 8788 | angle_calculator | Getting Angle Dict
+INFO | 8788 | keypoint | Angles & Lines Are on the Image
+INFO | 8814 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8817 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8818 | color_detetor | Filtering Done & Mask Created
+INFO | 8819 | color_detetor | 9 Points Detected on the Image
+INFO | 8819 | eklem_tracker | Results Matched for New Frame
+INFO | 8819 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8819 | eklem_tracker | Getting Joints Dict
+INFO | 8819 | angle_calculator | Getting Angle Dict
+INFO | 8819 | keypoint | Angles & Lines Are on the Image
+INFO | 8846 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8849 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8850 | color_detetor | Filtering Done & Mask Created
+INFO | 8851 | color_detetor | 9 Points Detected on the Image
+INFO | 8851 | eklem_tracker | Results Matched for New Frame
+INFO | 8851 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8852 | eklem_tracker | Getting Joints Dict
+INFO | 8852 | angle_calculator | Getting Angle Dict
+INFO | 8852 | keypoint | Angles & Lines Are on the Image
+INFO | 8893 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8896 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8898 | color_detetor | Filtering Done & Mask Created
+INFO | 8899 | color_detetor | 10 Points Detected on the Image
+INFO | 8899 | eklem_tracker | Results Matched for New Frame
+INFO | 8900 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8900 | eklem_tracker | Getting Joints Dict
+INFO | 8900 | angle_calculator | Getting Angle Dict
+INFO | 8900 | keypoint | Angles & Lines Are on the Image
+INFO | 8924 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8927 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8929 | color_detetor | Filtering Done & Mask Created
+INFO | 8929 | color_detetor | 10 Points Detected on the Image
+INFO | 8929 | eklem_tracker | Results Matched for New Frame
+INFO | 8930 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8930 | eklem_tracker | Getting Joints Dict
+INFO | 8930 | angle_calculator | Getting Angle Dict
+INFO | 8930 | keypoint | Angles & Lines Are on the Image
+INFO | 8956 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8958 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8960 | color_detetor | Filtering Done & Mask Created
+INFO | 8961 | color_detetor | 9 Points Detected on the Image
+INFO | 8961 | eklem_tracker | Results Matched for New Frame
+INFO | 8961 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8961 | eklem_tracker | Getting Joints Dict
+INFO | 8961 | angle_calculator | Getting Angle Dict
+INFO | 8961 | keypoint | Angles & Lines Are on the Image
+INFO | 8987 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8989 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8991 | color_detetor | Filtering Done & Mask Created
+INFO | 8992 | color_detetor | 9 Points Detected on the Image
+INFO | 8992 | eklem_tracker | Results Matched for New Frame
+INFO | 8992 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 8992 | eklem_tracker | Getting Joints Dict
+INFO | 8992 | angle_calculator | Getting Angle Dict
+INFO | 8992 | keypoint | Angles & Lines Are on the Image
+INFO | 9019 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9022 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9023 | color_detetor | Filtering Done & Mask Created
+INFO | 9024 | color_detetor | 9 Points Detected on the Image
+INFO | 9024 | eklem_tracker | Results Matched for New Frame
+INFO | 9024 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9024 | eklem_tracker | Getting Joints Dict
+INFO | 9024 | angle_calculator | Getting Angle Dict
+INFO | 9024 | keypoint | Angles & Lines Are on the Image
+INFO | 9049 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9052 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9054 | color_detetor | Filtering Done & Mask Created
+INFO | 9056 | color_detetor | 8 Points Detected on the Image
+INFO | 9056 | eklem_tracker | Results Matched for New Frame
+INFO | 9056 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9056 | eklem_tracker | Getting Joints Dict
+INFO | 9056 | angle_calculator | Getting Angle Dict
+INFO | 9057 | keypoint | Angles & Lines Are on the Image
+INFO | 9080 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9082 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9084 | color_detetor | Filtering Done & Mask Created
+INFO | 9085 | color_detetor | 8 Points Detected on the Image
+INFO | 9085 | eklem_tracker | Results Matched for New Frame
+INFO | 9085 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9085 | eklem_tracker | Getting Joints Dict
+INFO | 9085 | angle_calculator | Getting Angle Dict
+INFO | 9085 | keypoint | Angles & Lines Are on the Image
+INFO | 9112 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9115 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9117 | color_detetor | Filtering Done & Mask Created
+INFO | 9117 | color_detetor | 8 Points Detected on the Image
+INFO | 9117 | eklem_tracker | Results Matched for New Frame
+INFO | 9117 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9118 | eklem_tracker | Getting Joints Dict
+INFO | 9118 | angle_calculator | Getting Angle Dict
+INFO | 9118 | keypoint | Angles & Lines Are on the Image
+INFO | 9144 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9147 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9149 | color_detetor | Filtering Done & Mask Created
+INFO | 9150 | color_detetor | 8 Points Detected on the Image
+INFO | 9150 | eklem_tracker | Results Matched for New Frame
+INFO | 9150 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9150 | eklem_tracker | Getting Joints Dict
+INFO | 9150 | angle_calculator | Getting Angle Dict
+INFO | 9150 | keypoint | Angles & Lines Are on the Image
+INFO | 9189 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9191 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9193 | color_detetor | Filtering Done & Mask Created
+INFO | 9194 | color_detetor | 8 Points Detected on the Image
+INFO | 9194 | eklem_tracker | Results Matched for New Frame
+INFO | 9194 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9194 | eklem_tracker | Getting Joints Dict
+INFO | 9194 | angle_calculator | Getting Angle Dict
+INFO | 9194 | keypoint | Angles & Lines Are on the Image
+INFO | 9220 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9223 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9224 | color_detetor | Filtering Done & Mask Created
+INFO | 9225 | color_detetor | 8 Points Detected on the Image
+INFO | 9225 | eklem_tracker | Results Matched for New Frame
+INFO | 9225 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9225 | eklem_tracker | Getting Joints Dict
+INFO | 9225 | angle_calculator | Getting Angle Dict
+INFO | 9226 | keypoint | Angles & Lines Are on the Image
+INFO | 9252 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9255 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9257 | color_detetor | Filtering Done & Mask Created
+INFO | 9257 | color_detetor | 8 Points Detected on the Image
+INFO | 9258 | eklem_tracker | Results Matched for New Frame
+INFO | 9258 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9258 | eklem_tracker | Getting Joints Dict
+INFO | 9258 | angle_calculator | Getting Angle Dict
+INFO | 9258 | keypoint | Angles & Lines Are on the Image
+INFO | 9283 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9286 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9287 | color_detetor | Filtering Done & Mask Created
+INFO | 9288 | color_detetor | 8 Points Detected on the Image
+INFO | 9288 | eklem_tracker | Results Matched for New Frame
+INFO | 9288 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9288 | eklem_tracker | Getting Joints Dict
+INFO | 9288 | angle_calculator | Getting Angle Dict
+INFO | 9288 | keypoint | Angles & Lines Are on the Image
+INFO | 9314 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9316 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9318 | color_detetor | Filtering Done & Mask Created
+INFO | 9319 | color_detetor | 8 Points Detected on the Image
+INFO | 9319 | eklem_tracker | Results Matched for New Frame
+INFO | 9319 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9319 | eklem_tracker | Getting Joints Dict
+INFO | 9319 | angle_calculator | Getting Angle Dict
+INFO | 9319 | keypoint | Angles & Lines Are on the Image
+INFO | 9346 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9348 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9349 | color_detetor | Filtering Done & Mask Created
+INFO | 9351 | color_detetor | 8 Points Detected on the Image
+INFO | 9351 | eklem_tracker | Results Matched for New Frame
+INFO | 9351 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9351 | eklem_tracker | Getting Joints Dict
+INFO | 9351 | angle_calculator | Getting Angle Dict
+INFO | 9351 | keypoint | Angles & Lines Are on the Image
+INFO | 9376 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9379 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9381 | color_detetor | Filtering Done & Mask Created
+INFO | 9382 | color_detetor | 8 Points Detected on the Image
+INFO | 9382 | eklem_tracker | Results Matched for New Frame
+INFO | 9382 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9382 | eklem_tracker | Getting Joints Dict
+INFO | 9382 | angle_calculator | Getting Angle Dict
+INFO | 9382 | keypoint | Angles & Lines Are on the Image
+INFO | 9407 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9410 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9412 | color_detetor | Filtering Done & Mask Created
+INFO | 9413 | color_detetor | 8 Points Detected on the Image
+INFO | 9413 | eklem_tracker | Results Matched for New Frame
+INFO | 9413 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9413 | eklem_tracker | Getting Joints Dict
+INFO | 9413 | angle_calculator | Getting Angle Dict
+INFO | 9413 | keypoint | Angles & Lines Are on the Image
+INFO | 9453 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9456 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9458 | color_detetor | Filtering Done & Mask Created
+INFO | 9458 | color_detetor | 8 Points Detected on the Image
+INFO | 9458 | eklem_tracker | Results Matched for New Frame
+INFO | 9459 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9459 | eklem_tracker | Getting Joints Dict
+INFO | 9459 | angle_calculator | Getting Angle Dict
+INFO | 9459 | keypoint | Angles & Lines Are on the Image
+INFO | 9484 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9486 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9488 | color_detetor | Filtering Done & Mask Created
+INFO | 9489 | color_detetor | 8 Points Detected on the Image
+INFO | 9489 | eklem_tracker | Results Matched for New Frame
+INFO | 9489 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9489 | eklem_tracker | Getting Joints Dict
+INFO | 9489 | angle_calculator | Getting Angle Dict
+INFO | 9489 | keypoint | Angles & Lines Are on the Image
+INFO | 9516 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9519 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9521 | color_detetor | Filtering Done & Mask Created
+INFO | 9522 | color_detetor | 8 Points Detected on the Image
+INFO | 9522 | eklem_tracker | Results Matched for New Frame
+INFO | 9522 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9522 | eklem_tracker | Getting Joints Dict
+INFO | 9522 | angle_calculator | Getting Angle Dict
+INFO | 9522 | keypoint | Angles & Lines Are on the Image
+INFO | 9548 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9550 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9552 | color_detetor | Filtering Done & Mask Created
+INFO | 9553 | color_detetor | 8 Points Detected on the Image
+INFO | 9553 | eklem_tracker | Results Matched for New Frame
+INFO | 9553 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9553 | eklem_tracker | Getting Joints Dict
+INFO | 9553 | angle_calculator | Getting Angle Dict
+INFO | 9553 | keypoint | Angles & Lines Are on the Image
+INFO | 9580 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9583 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9585 | color_detetor | Filtering Done & Mask Created
+INFO | 9586 | color_detetor | 8 Points Detected on the Image
+INFO | 9586 | eklem_tracker | Results Matched for New Frame
+INFO | 9586 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9586 | eklem_tracker | Getting Joints Dict
+INFO | 9586 | angle_calculator | Getting Angle Dict
+INFO | 9586 | keypoint | Angles & Lines Are on the Image
+INFO | 9612 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9615 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9616 | color_detetor | Filtering Done & Mask Created
+INFO | 9617 | color_detetor | 8 Points Detected on the Image
+INFO | 9617 | eklem_tracker | Results Matched for New Frame
+INFO | 9617 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9617 | eklem_tracker | Getting Joints Dict
+INFO | 9617 | angle_calculator | Getting Angle Dict
+INFO | 9617 | keypoint | Angles & Lines Are on the Image
+INFO | 9643 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9646 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9647 | color_detetor | Filtering Done & Mask Created
+INFO | 9648 | color_detetor | 8 Points Detected on the Image
+INFO | 9648 | eklem_tracker | Results Matched for New Frame
+INFO | 9648 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9648 | eklem_tracker | Getting Joints Dict
+INFO | 9649 | angle_calculator | Getting Angle Dict
+INFO | 9649 | keypoint | Angles & Lines Are on the Image
+INFO | 9675 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9677 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9679 | color_detetor | Filtering Done & Mask Created
+INFO | 9679 | color_detetor | 8 Points Detected on the Image
+INFO | 9680 | eklem_tracker | Results Matched for New Frame
+INFO | 9680 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9680 | eklem_tracker | Getting Joints Dict
+INFO | 9680 | angle_calculator | Getting Angle Dict
+INFO | 9680 | keypoint | Angles & Lines Are on the Image
+INFO | 9705 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9707 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9709 | color_detetor | Filtering Done & Mask Created
+INFO | 9710 | color_detetor | 8 Points Detected on the Image
+INFO | 9710 | eklem_tracker | Results Matched for New Frame
+INFO | 9710 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9710 | eklem_tracker | Getting Joints Dict
+INFO | 9710 | angle_calculator | Getting Angle Dict
+INFO | 9710 | keypoint | Angles & Lines Are on the Image
+INFO | 9750 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9753 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9755 | color_detetor | Filtering Done & Mask Created
+INFO | 9755 | color_detetor | 8 Points Detected on the Image
+INFO | 9755 | eklem_tracker | Results Matched for New Frame
+INFO | 9756 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9756 | eklem_tracker | Getting Joints Dict
+INFO | 9756 | angle_calculator | Getting Angle Dict
+INFO | 9756 | keypoint | Angles & Lines Are on the Image
+INFO | 9782 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9784 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9786 | color_detetor | Filtering Done & Mask Created
+INFO | 9787 | color_detetor | 8 Points Detected on the Image
+INFO | 9787 | eklem_tracker | Results Matched for New Frame
+INFO | 9787 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9787 | eklem_tracker | Getting Joints Dict
+INFO | 9787 | angle_calculator | Getting Angle Dict
+INFO | 9787 | keypoint | Angles & Lines Are on the Image
+INFO | 9815 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9817 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9819 | color_detetor | Filtering Done & Mask Created
+INFO | 9820 | color_detetor | 8 Points Detected on the Image
+INFO | 9820 | eklem_tracker | Results Matched for New Frame
+INFO | 9820 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9820 | eklem_tracker | Getting Joints Dict
+INFO | 9820 | angle_calculator | Getting Angle Dict
+INFO | 9820 | keypoint | Angles & Lines Are on the Image
+INFO | 9846 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9849 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9851 | color_detetor | Filtering Done & Mask Created
+INFO | 9852 | color_detetor | 8 Points Detected on the Image
+INFO | 9852 | eklem_tracker | Results Matched for New Frame
+INFO | 9852 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9852 | eklem_tracker | Getting Joints Dict
+INFO | 9852 | angle_calculator | Getting Angle Dict
+INFO | 9852 | keypoint | Angles & Lines Are on the Image
+INFO | 9877 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9880 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9881 | color_detetor | Filtering Done & Mask Created
+INFO | 9882 | color_detetor | 8 Points Detected on the Image
+INFO | 9882 | eklem_tracker | Results Matched for New Frame
+INFO | 9882 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9883 | eklem_tracker | Getting Joints Dict
+INFO | 9883 | angle_calculator | Getting Angle Dict
+INFO | 9883 | keypoint | Angles & Lines Are on the Image
+INFO | 9910 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9913 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9914 | color_detetor | Filtering Done & Mask Created
+INFO | 9915 | color_detetor | 8 Points Detected on the Image
+INFO | 9915 | eklem_tracker | Results Matched for New Frame
+INFO | 9915 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9915 | eklem_tracker | Getting Joints Dict
+INFO | 9915 | angle_calculator | Getting Angle Dict
+INFO | 9916 | keypoint | Angles & Lines Are on the Image
+INFO | 9940 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9943 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9944 | color_detetor | Filtering Done & Mask Created
+INFO | 9945 | color_detetor | 8 Points Detected on the Image
+INFO | 9945 | eklem_tracker | Results Matched for New Frame
+INFO | 9945 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9945 | eklem_tracker | Getting Joints Dict
+INFO | 9945 | angle_calculator | Getting Angle Dict
+INFO | 9945 | keypoint | Angles & Lines Are on the Image
+INFO | 9972 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9974 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9976 | color_detetor | Filtering Done & Mask Created
+INFO | 9976 | color_detetor | 8 Points Detected on the Image
+INFO | 9976 | eklem_tracker | Results Matched for New Frame
+INFO | 9977 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 9977 | eklem_tracker | Getting Joints Dict
+INFO | 9977 | angle_calculator | Getting Angle Dict
+INFO | 9977 | keypoint | Angles & Lines Are on the Image
+INFO | 10004 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10007 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10009 | color_detetor | Filtering Done & Mask Created
+INFO | 10010 | color_detetor | 8 Points Detected on the Image
+INFO | 10010 | eklem_tracker | Results Matched for New Frame
+INFO | 10010 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10010 | eklem_tracker | Getting Joints Dict
+INFO | 10010 | angle_calculator | Getting Angle Dict
+INFO | 10010 | keypoint | Angles & Lines Are on the Image
+INFO | 10036 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10038 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10040 | color_detetor | Filtering Done & Mask Created
+INFO | 10041 | color_detetor | 8 Points Detected on the Image
+INFO | 10041 | eklem_tracker | Results Matched for New Frame
+INFO | 10041 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10041 | eklem_tracker | Getting Joints Dict
+INFO | 10041 | angle_calculator | Getting Angle Dict
+INFO | 10041 | keypoint | Angles & Lines Are on the Image
+INFO | 10067 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10070 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10072 | color_detetor | Filtering Done & Mask Created
+INFO | 10073 | color_detetor | 8 Points Detected on the Image
+INFO | 10073 | eklem_tracker | Results Matched for New Frame
+INFO | 10073 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10073 | eklem_tracker | Getting Joints Dict
+INFO | 10073 | angle_calculator | Getting Angle Dict
+INFO | 10073 | keypoint | Angles & Lines Are on the Image
+INFO | 10113 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10116 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10118 | color_detetor | Filtering Done & Mask Created
+INFO | 10119 | color_detetor | 8 Points Detected on the Image
+INFO | 10119 | eklem_tracker | Results Matched for New Frame
+INFO | 10119 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10119 | eklem_tracker | Getting Joints Dict
+INFO | 10119 | angle_calculator | Getting Angle Dict
+INFO | 10119 | keypoint | Angles & Lines Are on the Image
+INFO | 10144 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10147 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10149 | color_detetor | Filtering Done & Mask Created
+INFO | 10150 | color_detetor | 8 Points Detected on the Image
+INFO | 10150 | eklem_tracker | Results Matched for New Frame
+INFO | 10150 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10150 | eklem_tracker | Getting Joints Dict
+INFO | 10150 | angle_calculator | Getting Angle Dict
+INFO | 10150 | keypoint | Angles & Lines Are on the Image
+INFO | 10175 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10177 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10179 | color_detetor | Filtering Done & Mask Created
+INFO | 10180 | color_detetor | 8 Points Detected on the Image
+INFO | 10180 | eklem_tracker | Results Matched for New Frame
+INFO | 10180 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10180 | eklem_tracker | Getting Joints Dict
+INFO | 10180 | angle_calculator | Getting Angle Dict
+INFO | 10180 | keypoint | Angles & Lines Are on the Image
+INFO | 10207 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10210 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10212 | color_detetor | Filtering Done & Mask Created
+INFO | 10213 | color_detetor | 8 Points Detected on the Image
+INFO | 10213 | eklem_tracker | Results Matched for New Frame
+INFO | 10213 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10213 | eklem_tracker | Getting Joints Dict
+INFO | 10213 | angle_calculator | Getting Angle Dict
+INFO | 10213 | keypoint | Angles & Lines Are on the Image
+INFO | 10240 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10243 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10245 | color_detetor | Filtering Done & Mask Created
+INFO | 10246 | color_detetor | 8 Points Detected on the Image
+INFO | 10246 | eklem_tracker | Results Matched for New Frame
+INFO | 10246 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10246 | eklem_tracker | Getting Joints Dict
+INFO | 10246 | angle_calculator | Getting Angle Dict
+INFO | 10246 | keypoint | Angles & Lines Are on the Image
+INFO | 10270 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10273 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10275 | color_detetor | Filtering Done & Mask Created
+INFO | 10275 | color_detetor | 8 Points Detected on the Image
+INFO | 10276 | eklem_tracker | Results Matched for New Frame
+INFO | 10276 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10276 | eklem_tracker | Getting Joints Dict
+INFO | 10276 | angle_calculator | Getting Angle Dict
+INFO | 10276 | keypoint | Angles & Lines Are on the Image
+INFO | 10300 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10302 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10304 | color_detetor | Filtering Done & Mask Created
+INFO | 10305 | color_detetor | 8 Points Detected on the Image
+INFO | 10305 | eklem_tracker | Results Matched for New Frame
+INFO | 10305 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10305 | eklem_tracker | Getting Joints Dict
+INFO | 10305 | angle_calculator | Getting Angle Dict
+INFO | 10305 | keypoint | Angles & Lines Are on the Image
+INFO | 10331 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10333 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10336 | color_detetor | Filtering Done & Mask Created
+INFO | 10336 | color_detetor | 8 Points Detected on the Image
+INFO | 10336 | eklem_tracker | Results Matched for New Frame
+INFO | 10337 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10337 | eklem_tracker | Getting Joints Dict
+INFO | 10337 | angle_calculator | Getting Angle Dict
+INFO | 10337 | keypoint | Angles & Lines Are on the Image
+INFO | 10363 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10366 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10368 | color_detetor | Filtering Done & Mask Created
+INFO | 10369 | color_detetor | 8 Points Detected on the Image
+INFO | 10369 | eklem_tracker | Results Matched for New Frame
+INFO | 10369 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10369 | eklem_tracker | Getting Joints Dict
+INFO | 10369 | angle_calculator | Getting Angle Dict
+INFO | 10369 | keypoint | Angles & Lines Are on the Image
+INFO | 10410 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10412 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10414 | color_detetor | Filtering Done & Mask Created
+INFO | 10415 | color_detetor | 8 Points Detected on the Image
+INFO | 10415 | eklem_tracker | Results Matched for New Frame
+INFO | 10415 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10415 | eklem_tracker | Getting Joints Dict
+INFO | 10415 | angle_calculator | Getting Angle Dict
+INFO | 10415 | keypoint | Angles & Lines Are on the Image
+INFO | 10440 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10443 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10445 | color_detetor | Filtering Done & Mask Created
+INFO | 10445 | color_detetor | 8 Points Detected on the Image
+INFO | 10446 | eklem_tracker | Results Matched for New Frame
+INFO | 10446 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10446 | eklem_tracker | Getting Joints Dict
+INFO | 10446 | angle_calculator | Getting Angle Dict
+INFO | 10446 | keypoint | Angles & Lines Are on the Image
+INFO | 10471 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10473 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10475 | color_detetor | Filtering Done & Mask Created
+INFO | 10476 | color_detetor | 8 Points Detected on the Image
+INFO | 10476 | eklem_tracker | Results Matched for New Frame
+INFO | 10476 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10476 | eklem_tracker | Getting Joints Dict
+INFO | 10476 | angle_calculator | Getting Angle Dict
+INFO | 10476 | keypoint | Angles & Lines Are on the Image
+INFO | 10504 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10506 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10508 | color_detetor | Filtering Done & Mask Created
+INFO | 10509 | color_detetor | 8 Points Detected on the Image
+INFO | 10509 | eklem_tracker | Results Matched for New Frame
+INFO | 10509 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10509 | eklem_tracker | Getting Joints Dict
+INFO | 10509 | angle_calculator | Getting Angle Dict
+INFO | 10509 | keypoint | Angles & Lines Are on the Image
+INFO | 10534 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10537 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10538 | color_detetor | Filtering Done & Mask Created
+INFO | 10539 | color_detetor | 8 Points Detected on the Image
+INFO | 10539 | eklem_tracker | Results Matched for New Frame
+INFO | 10539 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10539 | eklem_tracker | Getting Joints Dict
+INFO | 10539 | angle_calculator | Getting Angle Dict
+INFO | 10539 | keypoint | Angles & Lines Are on the Image
+INFO | 10565 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10567 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10570 | color_detetor | Filtering Done & Mask Created
+INFO | 10570 | color_detetor | 8 Points Detected on the Image
+INFO | 10571 | eklem_tracker | Results Matched for New Frame
+INFO | 10571 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10571 | eklem_tracker | Getting Joints Dict
+INFO | 10571 | angle_calculator | Getting Angle Dict
+INFO | 10571 | keypoint | Angles & Lines Are on the Image
+INFO | 10597 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10599 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10601 | color_detetor | Filtering Done & Mask Created
+INFO | 10602 | color_detetor | 8 Points Detected on the Image
+INFO | 10602 | eklem_tracker | Results Matched for New Frame
+INFO | 10602 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10602 | eklem_tracker | Getting Joints Dict
+INFO | 10602 | angle_calculator | Getting Angle Dict
+INFO | 10602 | keypoint | Angles & Lines Are on the Image
+INFO | 10628 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10631 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10633 | color_detetor | Filtering Done & Mask Created
+INFO | 10633 | color_detetor | 8 Points Detected on the Image
+INFO | 10633 | eklem_tracker | Results Matched for New Frame
+INFO | 10634 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10634 | eklem_tracker | Getting Joints Dict
+INFO | 10634 | angle_calculator | Getting Angle Dict
+INFO | 10634 | keypoint | Angles & Lines Are on the Image
+INFO | 10660 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10662 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10664 | color_detetor | Filtering Done & Mask Created
+INFO | 10665 | color_detetor | 8 Points Detected on the Image
+INFO | 10665 | eklem_tracker | Results Matched for New Frame
+INFO | 10665 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10665 | eklem_tracker | Getting Joints Dict
+INFO | 10665 | angle_calculator | Getting Angle Dict
+INFO | 10665 | keypoint | Angles & Lines Are on the Image
+INFO | 10706 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10709 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10711 | color_detetor | Filtering Done & Mask Created
+INFO | 10712 | color_detetor | 8 Points Detected on the Image
+INFO | 10712 | eklem_tracker | Results Matched for New Frame
+INFO | 10712 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10712 | eklem_tracker | Getting Joints Dict
+INFO | 10712 | angle_calculator | Getting Angle Dict
+INFO | 10712 | keypoint | Angles & Lines Are on the Image
+INFO | 10737 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10739 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10741 | color_detetor | Filtering Done & Mask Created
+INFO | 10741 | color_detetor | 8 Points Detected on the Image
+INFO | 10742 | eklem_tracker | Results Matched for New Frame
+INFO | 10742 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10742 | eklem_tracker | Getting Joints Dict
+INFO | 10742 | angle_calculator | Getting Angle Dict
+INFO | 10742 | keypoint | Angles & Lines Are on the Image
+INFO | 10769 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10771 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10773 | color_detetor | Filtering Done & Mask Created
+INFO | 10774 | color_detetor | 8 Points Detected on the Image
+INFO | 10774 | eklem_tracker | Results Matched for New Frame
+INFO | 10774 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10774 | eklem_tracker | Getting Joints Dict
+INFO | 10774 | angle_calculator | Getting Angle Dict
+INFO | 10774 | keypoint | Angles & Lines Are on the Image
+INFO | 10799 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10801 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10803 | color_detetor | Filtering Done & Mask Created
+INFO | 10804 | color_detetor | 8 Points Detected on the Image
+INFO | 10804 | eklem_tracker | Results Matched for New Frame
+INFO | 10804 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10804 | eklem_tracker | Getting Joints Dict
+INFO | 10804 | angle_calculator | Getting Angle Dict
+INFO | 10804 | keypoint | Angles & Lines Are on the Image
+INFO | 10830 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10832 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10834 | color_detetor | Filtering Done & Mask Created
+INFO | 10835 | color_detetor | 8 Points Detected on the Image
+INFO | 10835 | eklem_tracker | Results Matched for New Frame
+INFO | 10835 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10835 | eklem_tracker | Getting Joints Dict
+INFO | 10835 | angle_calculator | Getting Angle Dict
+INFO | 10835 | keypoint | Angles & Lines Are on the Image
+INFO | 10861 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10864 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10866 | color_detetor | Filtering Done & Mask Created
+INFO | 10867 | color_detetor | 8 Points Detected on the Image
+INFO | 10867 | eklem_tracker | Results Matched for New Frame
+INFO | 10867 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10867 | eklem_tracker | Getting Joints Dict
+INFO | 10867 | angle_calculator | Getting Angle Dict
+INFO | 10867 | keypoint | Angles & Lines Are on the Image
+INFO | 10892 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10894 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10896 | color_detetor | Filtering Done & Mask Created
+INFO | 10897 | color_detetor | 8 Points Detected on the Image
+INFO | 10897 | eklem_tracker | Results Matched for New Frame
+INFO | 10897 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10897 | eklem_tracker | Getting Joints Dict
+INFO | 10897 | angle_calculator | Getting Angle Dict
+INFO | 10897 | keypoint | Angles & Lines Are on the Image
+INFO | 10938 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10941 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10943 | color_detetor | Filtering Done & Mask Created
+INFO | 10944 | color_detetor | 8 Points Detected on the Image
+INFO | 10944 | eklem_tracker | Results Matched for New Frame
+INFO | 10944 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10944 | eklem_tracker | Getting Joints Dict
+INFO | 10944 | angle_calculator | Getting Angle Dict
+INFO | 10944 | keypoint | Angles & Lines Are on the Image
+INFO | 10970 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10973 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10975 | color_detetor | Filtering Done & Mask Created
+INFO | 10976 | color_detetor | 8 Points Detected on the Image
+INFO | 10976 | eklem_tracker | Results Matched for New Frame
+INFO | 10976 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 10976 | eklem_tracker | Getting Joints Dict
+INFO | 10976 | angle_calculator | Getting Angle Dict
+INFO | 10976 | keypoint | Angles & Lines Are on the Image
+INFO | 11000 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11002 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11004 | color_detetor | Filtering Done & Mask Created
+INFO | 11005 | color_detetor | 8 Points Detected on the Image
+INFO | 11005 | eklem_tracker | Results Matched for New Frame
+INFO | 11006 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11006 | eklem_tracker | Getting Joints Dict
+INFO | 11006 | angle_calculator | Getting Angle Dict
+INFO | 11006 | keypoint | Angles & Lines Are on the Image
+INFO | 11031 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11034 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11036 | color_detetor | Filtering Done & Mask Created
+INFO | 11036 | color_detetor | 8 Points Detected on the Image
+INFO | 11036 | eklem_tracker | Results Matched for New Frame
+INFO | 11037 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11037 | eklem_tracker | Getting Joints Dict
+INFO | 11037 | angle_calculator | Getting Angle Dict
+INFO | 11037 | keypoint | Angles & Lines Are on the Image
+INFO | 11063 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11066 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11068 | color_detetor | Filtering Done & Mask Created
+INFO | 11068 | color_detetor | 8 Points Detected on the Image
+INFO | 11068 | eklem_tracker | Results Matched for New Frame
+INFO | 11069 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11069 | eklem_tracker | Getting Joints Dict
+INFO | 11069 | angle_calculator | Getting Angle Dict
+INFO | 11069 | keypoint | Angles & Lines Are on the Image
+INFO | 11095 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11097 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11100 | color_detetor | Filtering Done & Mask Created
+INFO | 11101 | color_detetor | 8 Points Detected on the Image
+INFO | 11101 | eklem_tracker | Results Matched for New Frame
+INFO | 11101 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11101 | eklem_tracker | Getting Joints Dict
+INFO | 11101 | angle_calculator | Getting Angle Dict
+INFO | 11101 | keypoint | Angles & Lines Are on the Image
+INFO | 11127 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11129 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11131 | color_detetor | Filtering Done & Mask Created
+INFO | 11131 | color_detetor | 8 Points Detected on the Image
+INFO | 11132 | eklem_tracker | Results Matched for New Frame
+INFO | 11132 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11132 | eklem_tracker | Getting Joints Dict
+INFO | 11132 | angle_calculator | Getting Angle Dict
+INFO | 11132 | keypoint | Angles & Lines Are on the Image
+INFO | 11159 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11161 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11163 | color_detetor | Filtering Done & Mask Created
+INFO | 11164 | color_detetor | 8 Points Detected on the Image
+INFO | 11164 | eklem_tracker | Results Matched for New Frame
+INFO | 11164 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11165 | eklem_tracker | Getting Joints Dict
+INFO | 11165 | angle_calculator | Getting Angle Dict
+INFO | 11165 | keypoint | Angles & Lines Are on the Image
+INFO | 11189 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11191 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11193 | color_detetor | Filtering Done & Mask Created
+INFO | 11194 | color_detetor | 8 Points Detected on the Image
+INFO | 11194 | eklem_tracker | Results Matched for New Frame
+INFO | 11194 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11194 | eklem_tracker | Getting Joints Dict
+INFO | 11194 | angle_calculator | Getting Angle Dict
+INFO | 11194 | keypoint | Angles & Lines Are on the Image
+INFO | 11235 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11237 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11239 | color_detetor | Filtering Done & Mask Created
+INFO | 11240 | color_detetor | 8 Points Detected on the Image
+INFO | 11240 | eklem_tracker | Results Matched for New Frame
+INFO | 11240 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11240 | eklem_tracker | Getting Joints Dict
+INFO | 11240 | angle_calculator | Getting Angle Dict
+INFO | 11240 | keypoint | Angles & Lines Are on the Image
+INFO | 11266 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11268 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11270 | color_detetor | Filtering Done & Mask Created
+INFO | 11271 | color_detetor | 8 Points Detected on the Image
+INFO | 11271 | eklem_tracker | Results Matched for New Frame
+INFO | 11271 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11271 | eklem_tracker | Getting Joints Dict
+INFO | 11271 | angle_calculator | Getting Angle Dict
+INFO | 11271 | keypoint | Angles & Lines Are on the Image
+INFO | 11298 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11300 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11302 | color_detetor | Filtering Done & Mask Created
+INFO | 11303 | color_detetor | 8 Points Detected on the Image
+INFO | 11303 | eklem_tracker | Results Matched for New Frame
+INFO | 11303 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11303 | eklem_tracker | Getting Joints Dict
+INFO | 11303 | angle_calculator | Getting Angle Dict
+INFO | 11303 | keypoint | Angles & Lines Are on the Image
+INFO | 11329 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11332 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11334 | color_detetor | Filtering Done & Mask Created
+INFO | 11334 | color_detetor | 8 Points Detected on the Image
+INFO | 11334 | eklem_tracker | Results Matched for New Frame
+INFO | 11335 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11335 | eklem_tracker | Getting Joints Dict
+INFO | 11335 | angle_calculator | Getting Angle Dict
+INFO | 11335 | keypoint | Angles & Lines Are on the Image
+INFO | 11362 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11364 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11366 | color_detetor | Filtering Done & Mask Created
+INFO | 11367 | color_detetor | 8 Points Detected on the Image
+INFO | 11367 | eklem_tracker | Results Matched for New Frame
+INFO | 11367 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11367 | eklem_tracker | Getting Joints Dict
+INFO | 11367 | angle_calculator | Getting Angle Dict
+INFO | 11367 | keypoint | Angles & Lines Are on the Image
+INFO | 11394 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11396 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11398 | color_detetor | Filtering Done & Mask Created
+INFO | 11399 | color_detetor | 9 Points Detected on the Image
+INFO | 11399 | eklem_tracker | Results Matched for New Frame
+INFO | 11400 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11400 | eklem_tracker | Getting Joints Dict
+INFO | 11400 | angle_calculator | Getting Angle Dict
+INFO | 11400 | keypoint | Angles & Lines Are on the Image
+INFO | 11425 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11427 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11430 | color_detetor | Filtering Done & Mask Created
+INFO | 11430 | color_detetor | 8 Points Detected on the Image
+INFO | 11431 | eklem_tracker | Results Matched for New Frame
+INFO | 11431 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11431 | eklem_tracker | Getting Joints Dict
+INFO | 11431 | angle_calculator | Getting Angle Dict
+INFO | 11431 | keypoint | Angles & Lines Are on the Image
+INFO | 11456 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11458 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11460 | color_detetor | Filtering Done & Mask Created
+INFO | 11461 | color_detetor | 8 Points Detected on the Image
+INFO | 11461 | eklem_tracker | Results Matched for New Frame
+INFO | 11461 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11461 | eklem_tracker | Getting Joints Dict
+INFO | 11461 | angle_calculator | Getting Angle Dict
+INFO | 11461 | keypoint | Angles & Lines Are on the Image
+INFO | 11487 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11489 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11491 | color_detetor | Filtering Done & Mask Created
+INFO | 11492 | color_detetor | 8 Points Detected on the Image
+INFO | 11492 | eklem_tracker | Results Matched for New Frame
+INFO | 11492 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11492 | eklem_tracker | Getting Joints Dict
+INFO | 11492 | angle_calculator | Getting Angle Dict
+INFO | 11492 | keypoint | Angles & Lines Are on the Image
+INFO | 11533 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11535 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11537 | color_detetor | Filtering Done & Mask Created
+INFO | 11538 | color_detetor | 8 Points Detected on the Image
+INFO | 11538 | eklem_tracker | Results Matched for New Frame
+INFO | 11538 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11538 | eklem_tracker | Getting Joints Dict
+INFO | 11538 | angle_calculator | Getting Angle Dict
+INFO | 11538 | keypoint | Angles & Lines Are on the Image
+INFO | 11564 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11566 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11568 | color_detetor | Filtering Done & Mask Created
+INFO | 11569 | color_detetor | 8 Points Detected on the Image
+INFO | 11569 | eklem_tracker | Results Matched for New Frame
+INFO | 11569 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11569 | eklem_tracker | Getting Joints Dict
+INFO | 11569 | angle_calculator | Getting Angle Dict
+INFO | 11570 | keypoint | Angles & Lines Are on the Image
+INFO | 11594 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11596 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11598 | color_detetor | Filtering Done & Mask Created
+INFO | 11599 | color_detetor | 8 Points Detected on the Image
+INFO | 11599 | eklem_tracker | Results Matched for New Frame
+INFO | 11599 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11599 | eklem_tracker | Getting Joints Dict
+INFO | 11599 | angle_calculator | Getting Angle Dict
+INFO | 11599 | keypoint | Angles & Lines Are on the Image
+INFO | 11626 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11628 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11630 | color_detetor | Filtering Done & Mask Created
+INFO | 11631 | color_detetor | 8 Points Detected on the Image
+INFO | 11631 | eklem_tracker | Results Matched for New Frame
+INFO | 11631 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11631 | eklem_tracker | Getting Joints Dict
+INFO | 11631 | angle_calculator | Getting Angle Dict
+INFO | 11631 | keypoint | Angles & Lines Are on the Image
+INFO | 11658 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11661 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11662 | color_detetor | Filtering Done & Mask Created
+INFO | 11663 | color_detetor | 8 Points Detected on the Image
+INFO | 11663 | eklem_tracker | Results Matched for New Frame
+INFO | 11663 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11663 | eklem_tracker | Getting Joints Dict
+INFO | 11663 | angle_calculator | Getting Angle Dict
+INFO | 11664 | keypoint | Angles & Lines Are on the Image
+INFO | 11689 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11691 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11693 | color_detetor | Filtering Done & Mask Created
+INFO | 11694 | color_detetor | 8 Points Detected on the Image
+INFO | 11694 | eklem_tracker | Results Matched for New Frame
+INFO | 11694 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11694 | eklem_tracker | Getting Joints Dict
+INFO | 11694 | angle_calculator | Getting Angle Dict
+INFO | 11694 | keypoint | Angles & Lines Are on the Image
+INFO | 11720 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11722 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11724 | color_detetor | Filtering Done & Mask Created
+INFO | 11725 | color_detetor | 8 Points Detected on the Image
+INFO | 11725 | eklem_tracker | Results Matched for New Frame
+INFO | 11725 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11725 | eklem_tracker | Getting Joints Dict
+INFO | 11725 | angle_calculator | Getting Angle Dict
+INFO | 11725 | keypoint | Angles & Lines Are on the Image
+INFO | 11750 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11752 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11754 | color_detetor | Filtering Done & Mask Created
+INFO | 11755 | color_detetor | 8 Points Detected on the Image
+INFO | 11755 | eklem_tracker | Results Matched for New Frame
+INFO | 11755 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11755 | eklem_tracker | Getting Joints Dict
+INFO | 11755 | angle_calculator | Getting Angle Dict
+INFO | 11755 | keypoint | Angles & Lines Are on the Image
+INFO | 11782 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11784 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11786 | color_detetor | Filtering Done & Mask Created
+INFO | 11787 | color_detetor | 9 Points Detected on the Image
+INFO | 11787 | eklem_tracker | Results Matched for New Frame
+INFO | 11787 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11787 | eklem_tracker | Getting Joints Dict
+INFO | 11787 | angle_calculator | Getting Angle Dict
+INFO | 11787 | keypoint | Angles & Lines Are on the Image
+INFO | 11830 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11833 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11835 | color_detetor | Filtering Done & Mask Created
+INFO | 11835 | color_detetor | 9 Points Detected on the Image
+INFO | 11835 | eklem_tracker | Results Matched for New Frame
+INFO | 11835 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11836 | eklem_tracker | Getting Joints Dict
+INFO | 11836 | angle_calculator | Getting Angle Dict
+INFO | 11836 | keypoint | Angles & Lines Are on the Image
+INFO | 11861 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11864 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11866 | color_detetor | Filtering Done & Mask Created
+INFO | 11867 | color_detetor | 9 Points Detected on the Image
+INFO | 11867 | eklem_tracker | Results Matched for New Frame
+INFO | 11867 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11867 | eklem_tracker | Getting Joints Dict
+INFO | 11868 | angle_calculator | Getting Angle Dict
+INFO | 11868 | keypoint | Angles & Lines Are on the Image
+INFO | 11894 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11896 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11898 | color_detetor | Filtering Done & Mask Created
+INFO | 11899 | color_detetor | 9 Points Detected on the Image
+INFO | 11899 | eklem_tracker | Results Matched for New Frame
+INFO | 11899 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11899 | eklem_tracker | Getting Joints Dict
+INFO | 11899 | angle_calculator | Getting Angle Dict
+INFO | 11899 | keypoint | Angles & Lines Are on the Image
+INFO | 11926 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11928 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11930 | color_detetor | Filtering Done & Mask Created
+INFO | 11931 | color_detetor | 9 Points Detected on the Image
+INFO | 11931 | eklem_tracker | Results Matched for New Frame
+INFO | 11931 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11931 | eklem_tracker | Getting Joints Dict
+INFO | 11931 | angle_calculator | Getting Angle Dict
+INFO | 11931 | keypoint | Angles & Lines Are on the Image
+INFO | 11957 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11960 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11962 | color_detetor | Filtering Done & Mask Created
+INFO | 11963 | color_detetor | 9 Points Detected on the Image
+INFO | 11963 | eklem_tracker | Results Matched for New Frame
+INFO | 11963 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11963 | eklem_tracker | Getting Joints Dict
+INFO | 11963 | angle_calculator | Getting Angle Dict
+INFO | 11963 | keypoint | Angles & Lines Are on the Image
+INFO | 11987 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11989 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11991 | color_detetor | Filtering Done & Mask Created
+INFO | 11992 | color_detetor | 9 Points Detected on the Image
+INFO | 11992 | eklem_tracker | Results Matched for New Frame
+INFO | 11992 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 11992 | eklem_tracker | Getting Joints Dict
+INFO | 11992 | angle_calculator | Getting Angle Dict
+INFO | 11992 | keypoint | Angles & Lines Are on the Image
+INFO | 12018 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12021 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12023 | color_detetor | Filtering Done & Mask Created
+INFO | 12024 | color_detetor | 9 Points Detected on the Image
+INFO | 12024 | eklem_tracker | Results Matched for New Frame
+INFO | 12024 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12024 | eklem_tracker | Getting Joints Dict
+INFO | 12024 | angle_calculator | Getting Angle Dict
+INFO | 12024 | keypoint | Angles & Lines Are on the Image
+INFO | 12049 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12052 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12053 | color_detetor | Filtering Done & Mask Created
+INFO | 12054 | color_detetor | 9 Points Detected on the Image
+INFO | 12054 | eklem_tracker | Results Matched for New Frame
+INFO | 12054 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12054 | eklem_tracker | Getting Joints Dict
+INFO | 12054 | angle_calculator | Getting Angle Dict
+INFO | 12055 | keypoint | Angles & Lines Are on the Image
+INFO | 12081 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12083 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12085 | color_detetor | Filtering Done & Mask Created
+INFO | 12086 | color_detetor | 9 Points Detected on the Image
+INFO | 12086 | eklem_tracker | Results Matched for New Frame
+INFO | 12086 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12086 | eklem_tracker | Getting Joints Dict
+INFO | 12086 | angle_calculator | Getting Angle Dict
+INFO | 12086 | keypoint | Angles & Lines Are on the Image
+INFO | 12113 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12115 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12117 | color_detetor | Filtering Done & Mask Created
+INFO | 12118 | color_detetor | 9 Points Detected on the Image
+INFO | 12118 | eklem_tracker | Results Matched for New Frame
+INFO | 12118 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12118 | eklem_tracker | Getting Joints Dict
+INFO | 12118 | angle_calculator | Getting Angle Dict
+INFO | 12118 | keypoint | Angles & Lines Are on the Image
+INFO | 12145 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12147 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12150 | color_detetor | Filtering Done & Mask Created
+INFO | 12150 | color_detetor | 9 Points Detected on the Image
+INFO | 12150 | eklem_tracker | Results Matched for New Frame
+INFO | 12151 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12151 | eklem_tracker | Getting Joints Dict
+INFO | 12151 | angle_calculator | Getting Angle Dict
+INFO | 12151 | keypoint | Angles & Lines Are on the Image
+INFO | 12193 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12196 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12197 | color_detetor | Filtering Done & Mask Created
+INFO | 12198 | color_detetor | 9 Points Detected on the Image
+INFO | 12198 | eklem_tracker | Results Matched for New Frame
+INFO | 12198 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12198 | eklem_tracker | Getting Joints Dict
+INFO | 12198 | angle_calculator | Getting Angle Dict
+INFO | 12199 | keypoint | Angles & Lines Are on the Image
+INFO | 12224 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12227 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12229 | color_detetor | Filtering Done & Mask Created
+INFO | 12230 | color_detetor | 8 Points Detected on the Image
+INFO | 12230 | eklem_tracker | Results Matched for New Frame
+INFO | 12230 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12230 | eklem_tracker | Getting Joints Dict
+INFO | 12230 | angle_calculator | Getting Angle Dict
+INFO | 12230 | keypoint | Angles & Lines Are on the Image
+INFO | 12254 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12256 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12258 | color_detetor | Filtering Done & Mask Created
+INFO | 12259 | color_detetor | 8 Points Detected on the Image
+INFO | 12259 | eklem_tracker | Results Matched for New Frame
+INFO | 12259 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12259 | eklem_tracker | Getting Joints Dict
+INFO | 12259 | angle_calculator | Getting Angle Dict
+INFO | 12259 | keypoint | Angles & Lines Are on the Image
+INFO | 12286 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12288 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12290 | color_detetor | Filtering Done & Mask Created
+INFO | 12291 | color_detetor | 8 Points Detected on the Image
+INFO | 12291 | eklem_tracker | Results Matched for New Frame
+INFO | 12291 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12291 | eklem_tracker | Getting Joints Dict
+INFO | 12291 | angle_calculator | Getting Angle Dict
+INFO | 12291 | keypoint | Angles & Lines Are on the Image
+INFO | 12317 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12320 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12321 | color_detetor | Filtering Done & Mask Created
+INFO | 12322 | color_detetor | 8 Points Detected on the Image
+INFO | 12322 | eklem_tracker | Results Matched for New Frame
+INFO | 12323 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12323 | eklem_tracker | Getting Joints Dict
+INFO | 12323 | angle_calculator | Getting Angle Dict
+INFO | 12323 | keypoint | Angles & Lines Are on the Image
+INFO | 12346 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12348 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12350 | color_detetor | Filtering Done & Mask Created
+INFO | 12351 | color_detetor | 8 Points Detected on the Image
+INFO | 12351 | eklem_tracker | Results Matched for New Frame
+INFO | 12351 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12351 | eklem_tracker | Getting Joints Dict
+INFO | 12351 | angle_calculator | Getting Angle Dict
+INFO | 12351 | keypoint | Angles & Lines Are on the Image
+INFO | 12377 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12380 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12382 | color_detetor | Filtering Done & Mask Created
+INFO | 12383 | color_detetor | 8 Points Detected on the Image
+INFO | 12383 | eklem_tracker | Results Matched for New Frame
+INFO | 12383 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12383 | eklem_tracker | Getting Joints Dict
+INFO | 12383 | angle_calculator | Getting Angle Dict
+INFO | 12383 | keypoint | Angles & Lines Are on the Image
+INFO | 12409 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12411 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12413 | color_detetor | Filtering Done & Mask Created
+INFO | 12414 | color_detetor | 8 Points Detected on the Image
+INFO | 12414 | eklem_tracker | Results Matched for New Frame
+INFO | 12414 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12414 | eklem_tracker | Getting Joints Dict
+INFO | 12414 | angle_calculator | Getting Angle Dict
+INFO | 12414 | keypoint | Angles & Lines Are on the Image
+INFO | 12455 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12457 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12459 | color_detetor | Filtering Done & Mask Created
+INFO | 12460 | color_detetor | 8 Points Detected on the Image
+INFO | 12460 | eklem_tracker | Results Matched for New Frame
+INFO | 12460 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12460 | eklem_tracker | Getting Joints Dict
+INFO | 12460 | angle_calculator | Getting Angle Dict
+INFO | 12460 | keypoint | Angles & Lines Are on the Image
+INFO | 12486 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12488 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12490 | color_detetor | Filtering Done & Mask Created
+INFO | 12491 | color_detetor | 8 Points Detected on the Image
+INFO | 12491 | eklem_tracker | Results Matched for New Frame
+INFO | 12491 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12491 | eklem_tracker | Getting Joints Dict
+INFO | 12491 | angle_calculator | Getting Angle Dict
+INFO | 12491 | keypoint | Angles & Lines Are on the Image
+INFO | 12517 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12519 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12521 | color_detetor | Filtering Done & Mask Created
+INFO | 12522 | color_detetor | 8 Points Detected on the Image
+INFO | 12522 | eklem_tracker | Results Matched for New Frame
+INFO | 12522 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12522 | eklem_tracker | Getting Joints Dict
+INFO | 12522 | angle_calculator | Getting Angle Dict
+INFO | 12522 | keypoint | Angles & Lines Are on the Image
+INFO | 12548 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12551 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12553 | color_detetor | Filtering Done & Mask Created
+INFO | 12554 | color_detetor | 8 Points Detected on the Image
+INFO | 12554 | eklem_tracker | Results Matched for New Frame
+INFO | 12554 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12554 | eklem_tracker | Getting Joints Dict
+INFO | 12554 | angle_calculator | Getting Angle Dict
+INFO | 12554 | keypoint | Angles & Lines Are on the Image
+INFO | 12580 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12582 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12584 | color_detetor | Filtering Done & Mask Created
+INFO | 12585 | color_detetor | 8 Points Detected on the Image
+INFO | 12585 | eklem_tracker | Results Matched for New Frame
+INFO | 12585 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12585 | eklem_tracker | Getting Joints Dict
+INFO | 12585 | angle_calculator | Getting Angle Dict
+INFO | 12585 | keypoint | Angles & Lines Are on the Image
+INFO | 12613 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12615 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12617 | color_detetor | Filtering Done & Mask Created
+INFO | 12618 | color_detetor | 8 Points Detected on the Image
+INFO | 12618 | eklem_tracker | Results Matched for New Frame
+INFO | 12618 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12618 | eklem_tracker | Getting Joints Dict
+INFO | 12618 | angle_calculator | Getting Angle Dict
+INFO | 12618 | keypoint | Angles & Lines Are on the Image
+INFO | 12644 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12647 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12648 | color_detetor | Filtering Done & Mask Created
+INFO | 12649 | color_detetor | 8 Points Detected on the Image
+INFO | 12649 | eklem_tracker | Results Matched for New Frame
+INFO | 12649 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12649 | eklem_tracker | Getting Joints Dict
+INFO | 12649 | angle_calculator | Getting Angle Dict
+INFO | 12649 | keypoint | Angles & Lines Are on the Image
+INFO | 12673 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12676 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12678 | color_detetor | Filtering Done & Mask Created
+INFO | 12678 | color_detetor | 8 Points Detected on the Image
+INFO | 12678 | eklem_tracker | Results Matched for New Frame
+INFO | 12679 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12679 | eklem_tracker | Getting Joints Dict
+INFO | 12679 | angle_calculator | Getting Angle Dict
+INFO | 12679 | keypoint | Angles & Lines Are on the Image
+INFO | 12719 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12721 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12723 | color_detetor | Filtering Done & Mask Created
+INFO | 12724 | color_detetor | 8 Points Detected on the Image
+INFO | 12724 | eklem_tracker | Results Matched for New Frame
+INFO | 12724 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12724 | eklem_tracker | Getting Joints Dict
+INFO | 12724 | angle_calculator | Getting Angle Dict
+INFO | 12724 | keypoint | Angles & Lines Are on the Image
+INFO | 12750 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12754 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12756 | color_detetor | Filtering Done & Mask Created
+INFO | 12757 | color_detetor | 8 Points Detected on the Image
+INFO | 12757 | eklem_tracker | Results Matched for New Frame
+INFO | 12757 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12757 | eklem_tracker | Getting Joints Dict
+INFO | 12757 | angle_calculator | Getting Angle Dict
+INFO | 12757 | keypoint | Angles & Lines Are on the Image
+INFO | 12782 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12784 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12786 | color_detetor | Filtering Done & Mask Created
+INFO | 12787 | color_detetor | 8 Points Detected on the Image
+INFO | 12787 | eklem_tracker | Results Matched for New Frame
+INFO | 12787 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12787 | eklem_tracker | Getting Joints Dict
+INFO | 12787 | angle_calculator | Getting Angle Dict
+INFO | 12787 | keypoint | Angles & Lines Are on the Image
+INFO | 12813 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12816 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12818 | color_detetor | Filtering Done & Mask Created
+INFO | 12818 | color_detetor | 8 Points Detected on the Image
+INFO | 12818 | eklem_tracker | Results Matched for New Frame
+INFO | 12819 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12819 | eklem_tracker | Getting Joints Dict
+INFO | 12819 | angle_calculator | Getting Angle Dict
+INFO | 12819 | keypoint | Angles & Lines Are on the Image
+INFO | 12845 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12848 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12849 | color_detetor | Filtering Done & Mask Created
+INFO | 12850 | color_detetor | 8 Points Detected on the Image
+INFO | 12850 | eklem_tracker | Results Matched for New Frame
+INFO | 12850 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12850 | eklem_tracker | Getting Joints Dict
+INFO | 12850 | angle_calculator | Getting Angle Dict
+INFO | 12850 | keypoint | Angles & Lines Are on the Image
+INFO | 12877 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12880 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12882 | color_detetor | Filtering Done & Mask Created
+INFO | 12882 | color_detetor | 8 Points Detected on the Image
+INFO | 12882 | eklem_tracker | Results Matched for New Frame
+INFO | 12882 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12883 | eklem_tracker | Getting Joints Dict
+INFO | 12883 | angle_calculator | Getting Angle Dict
+INFO | 12883 | keypoint | Angles & Lines Are on the Image
+INFO | 12908 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12911 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12912 | color_detetor | Filtering Done & Mask Created
+INFO | 12913 | color_detetor | 8 Points Detected on the Image
+INFO | 12913 | eklem_tracker | Results Matched for New Frame
+INFO | 12913 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12913 | eklem_tracker | Getting Joints Dict
+INFO | 12913 | angle_calculator | Getting Angle Dict
+INFO | 12913 | keypoint | Angles & Lines Are on the Image
+INFO | 12939 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12941 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12943 | color_detetor | Filtering Done & Mask Created
+INFO | 12944 | color_detetor | 8 Points Detected on the Image
+INFO | 12944 | eklem_tracker | Results Matched for New Frame
+INFO | 12944 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12944 | eklem_tracker | Getting Joints Dict
+INFO | 12944 | angle_calculator | Getting Angle Dict
+INFO | 12944 | keypoint | Angles & Lines Are on the Image
+INFO | 12970 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 12972 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 12974 | color_detetor | Filtering Done & Mask Created
+INFO | 12975 | color_detetor | 8 Points Detected on the Image
+INFO | 12975 | eklem_tracker | Results Matched for New Frame
+INFO | 12976 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 12976 | eklem_tracker | Getting Joints Dict
+INFO | 12976 | angle_calculator | Getting Angle Dict
+INFO | 12976 | keypoint | Angles & Lines Are on the Image
+INFO | 13016 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13019 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13021 | color_detetor | Filtering Done & Mask Created
+INFO | 13021 | color_detetor | 8 Points Detected on the Image
+INFO | 13021 | eklem_tracker | Results Matched for New Frame
+INFO | 13021 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13022 | eklem_tracker | Getting Joints Dict
+INFO | 13022 | angle_calculator | Getting Angle Dict
+INFO | 13022 | keypoint | Angles & Lines Are on the Image
+INFO | 13048 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13050 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13052 | color_detetor | Filtering Done & Mask Created
+INFO | 13053 | color_detetor | 8 Points Detected on the Image
+INFO | 13053 | eklem_tracker | Results Matched for New Frame
+INFO | 13053 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13053 | eklem_tracker | Getting Joints Dict
+INFO | 13053 | angle_calculator | Getting Angle Dict
+INFO | 13053 | keypoint | Angles & Lines Are on the Image
+INFO | 13080 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13082 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13084 | color_detetor | Filtering Done & Mask Created
+INFO | 13085 | color_detetor | 8 Points Detected on the Image
+INFO | 13085 | eklem_tracker | Results Matched for New Frame
+INFO | 13085 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13085 | eklem_tracker | Getting Joints Dict
+INFO | 13085 | angle_calculator | Getting Angle Dict
+INFO | 13085 | keypoint | Angles & Lines Are on the Image
+INFO | 13110 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13112 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13114 | color_detetor | Filtering Done & Mask Created
+INFO | 13115 | color_detetor | 8 Points Detected on the Image
+INFO | 13115 | eklem_tracker | Results Matched for New Frame
+INFO | 13115 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13115 | eklem_tracker | Getting Joints Dict
+INFO | 13115 | angle_calculator | Getting Angle Dict
+INFO | 13115 | keypoint | Angles & Lines Are on the Image
+INFO | 13142 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13144 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13146 | color_detetor | Filtering Done & Mask Created
+INFO | 13147 | color_detetor | 8 Points Detected on the Image
+INFO | 13147 | eklem_tracker | Results Matched for New Frame
+INFO | 13147 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13147 | eklem_tracker | Getting Joints Dict
+INFO | 13147 | angle_calculator | Getting Angle Dict
+INFO | 13147 | keypoint | Angles & Lines Are on the Image
+INFO | 13173 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13175 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13177 | color_detetor | Filtering Done & Mask Created
+INFO | 13177 | color_detetor | 8 Points Detected on the Image
+INFO | 13177 | eklem_tracker | Results Matched for New Frame
+INFO | 13178 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13178 | eklem_tracker | Getting Joints Dict
+INFO | 13178 | angle_calculator | Getting Angle Dict
+INFO | 13178 | keypoint | Angles & Lines Are on the Image
+INFO | 13204 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13206 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13209 | color_detetor | Filtering Done & Mask Created
+INFO | 13209 | color_detetor | 8 Points Detected on the Image
+INFO | 13209 | eklem_tracker | Results Matched for New Frame
+INFO | 13210 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13210 | eklem_tracker | Getting Joints Dict
+INFO | 13210 | angle_calculator | Getting Angle Dict
+INFO | 13210 | keypoint | Angles & Lines Are on the Image
+INFO | 13235 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13237 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13239 | color_detetor | Filtering Done & Mask Created
+INFO | 13240 | color_detetor | 8 Points Detected on the Image
+INFO | 13240 | eklem_tracker | Results Matched for New Frame
+INFO | 13240 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13240 | eklem_tracker | Getting Joints Dict
+INFO | 13240 | angle_calculator | Getting Angle Dict
+INFO | 13240 | keypoint | Angles & Lines Are on the Image
+INFO | 13281 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13284 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13286 | color_detetor | Filtering Done & Mask Created
+INFO | 13287 | color_detetor | 8 Points Detected on the Image
+INFO | 13287 | eklem_tracker | Results Matched for New Frame
+INFO | 13287 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13287 | eklem_tracker | Getting Joints Dict
+INFO | 13287 | angle_calculator | Getting Angle Dict
+INFO | 13287 | keypoint | Angles & Lines Are on the Image
+INFO | 13313 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13315 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13317 | color_detetor | Filtering Done & Mask Created
+INFO | 13318 | color_detetor | 8 Points Detected on the Image
+INFO | 13318 | eklem_tracker | Results Matched for New Frame
+INFO | 13318 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13318 | eklem_tracker | Getting Joints Dict
+INFO | 13318 | angle_calculator | Getting Angle Dict
+INFO | 13318 | keypoint | Angles & Lines Are on the Image
+INFO | 13344 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13347 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13350 | color_detetor | Filtering Done & Mask Created
+INFO | 13350 | color_detetor | 8 Points Detected on the Image
+INFO | 13350 | eklem_tracker | Results Matched for New Frame
+INFO | 13351 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13351 | eklem_tracker | Getting Joints Dict
+INFO | 13351 | angle_calculator | Getting Angle Dict
+INFO | 13351 | keypoint | Angles & Lines Are on the Image
+INFO | 13376 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13379 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13381 | color_detetor | Filtering Done & Mask Created
+INFO | 13382 | color_detetor | 8 Points Detected on the Image
+INFO | 13382 | eklem_tracker | Results Matched for New Frame
+INFO | 13382 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13382 | eklem_tracker | Getting Joints Dict
+INFO | 13382 | angle_calculator | Getting Angle Dict
+INFO | 13382 | keypoint | Angles & Lines Are on the Image
+INFO | 13408 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13410 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13412 | color_detetor | Filtering Done & Mask Created
+INFO | 13413 | color_detetor | 8 Points Detected on the Image
+INFO | 13413 | eklem_tracker | Results Matched for New Frame
+INFO | 13413 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13413 | eklem_tracker | Getting Joints Dict
+INFO | 13413 | angle_calculator | Getting Angle Dict
+INFO | 13413 | keypoint | Angles & Lines Are on the Image
+INFO | 13440 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13442 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13445 | color_detetor | Filtering Done & Mask Created
+INFO | 13445 | color_detetor | 8 Points Detected on the Image
+INFO | 13446 | eklem_tracker | Results Matched for New Frame
+INFO | 13446 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13446 | eklem_tracker | Getting Joints Dict
+INFO | 13446 | angle_calculator | Getting Angle Dict
+INFO | 13446 | keypoint | Angles & Lines Are on the Image
+INFO | 13470 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13473 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13475 | color_detetor | Filtering Done & Mask Created
+INFO | 13476 | color_detetor | 8 Points Detected on the Image
+INFO | 13476 | eklem_tracker | Results Matched for New Frame
+INFO | 13476 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13476 | eklem_tracker | Getting Joints Dict
+INFO | 13476 | angle_calculator | Getting Angle Dict
+INFO | 13476 | keypoint | Angles & Lines Are on the Image
+INFO | 13502 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13505 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13506 | color_detetor | Filtering Done & Mask Created
+INFO | 13507 | color_detetor | 8 Points Detected on the Image
+INFO | 13507 | eklem_tracker | Results Matched for New Frame
+INFO | 13507 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13507 | eklem_tracker | Getting Joints Dict
+INFO | 13507 | angle_calculator | Getting Angle Dict
+INFO | 13507 | keypoint | Angles & Lines Are on the Image
+INFO | 13533 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 13536 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 13538 | color_detetor | Filtering Done & Mask Created
+INFO | 13539 | color_detetor | 10 Points Detected on the Image
+INFO | 13539 | eklem_tracker | Results Matched for New Frame
+INFO | 13539 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 13539 | eklem_tracker | Getting Joints Dict
+INFO | 13539 | angle_calculator | Getting Angle Dict
+INFO | 13539 | keypoint | Angles & Lines Are on the Image
+INFO | 13879 | keypoint | All Joint Positions: [{'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}, {'isaret_uc': array([338.5, 253.5]), 'isaret_DIP': array([415.5, 246.5]), 'isaret_PIP': array([475.2215271 , 236.42405701]), 'isaret_MP': array([593.73748779, 279.54998779]), 'CMC': array([686.5, 401.5]), 'bas_PIP': array([573.5, 415.5]), 'bas_DIP': array([445.5, 418.5]), 'bas_uc': array([365.83786011, 419.04769897])}]
+
+
+
+
+INFO | 13880 | keypoint | All Joint Angles: [{'isaret_DIP': 191.25675702735188, 'isaret_PIP': 128.77219208286752, 'isaret_MP': 156.99774707198245, 'CMC': 60.46330513036827, 'bas_PIP': 170.09378498799626, 'bas_DIP': 174.73066646658074}, {'isaret_DIP': 191.54474132879957, 'isaret_PIP': 129.2457338024126, 'isaret_MP': 157.19539028224355, 'CMC': 60.65355822429103, 'bas_PIP': 169.31122262862394, 'bas_DIP': 175.2022310722216}, {'isaret_DIP': 191.3922162207975, 'isaret_PIP': 129.33656366443168, 'isaret_MP': 156.77903693495944, 'CMC': 60.34235429511682, 'bas_PIP': 170.03149509725358, 'bas_DIP': 174.07223395130725}, {'isaret_DIP': 191.1997232486788, 'isaret_PIP': 130.17680119053244, 'isaret_MP': 156.52961267825614, 'CMC': 60.111051455178995, 'bas_PIP': 170.0183373702131, 'bas_DIP': 177.9126639237454}, {'isaret_DIP': 191.08349818317583, 'isaret_PIP': 131.5565644796997, 'isaret_MP': 155.8891490064588, 'CMC': 60.05763083284097, 'bas_PIP': 169.5822359402469, 'bas_DIP': 175.71451445927448}, {'isaret_DIP': 190.53738248434223, 'isaret_PIP': 133.03630474288673, 'isaret_MP': 155.07766384249285, 'CMC': 59.806035398138874, 'bas_PIP': 170.42329300637843, 'bas_DIP': 176.06909671851838}, {'isaret_DIP': 190.2978412194037, 'isaret_PIP': 133.72228441897485, 'isaret_MP': 154.56409013785782, 'CMC': 59.84601666584848, 'bas_PIP': 169.5966712128738, 'bas_DIP': 177.27947115380067}, {'isaret_DIP': 190.00000753735654, 'isaret_PIP': 135.62943269096246, 'isaret_MP': 153.82049710363552, 'CMC': 60.005486071848225, 'bas_PIP': 170.0570779236224, 'bas_DIP': 175.77312814167487}, {'isaret_DIP': 189.79282436364417, 'isaret_PIP': 135.70764693428214, 'isaret_MP': 153.50496194157813, 'CMC': 60.316064240300875, 'bas_PIP': 169.8569054088208, 'bas_DIP': 175.29175248798495}, {'isaret_DIP': 188.7829381120313, 'isaret_PIP': 136.74371086612246, 'isaret_MP': 153.58049398021163, 'CMC': 59.51205710776895, 'bas_PIP': 170.67422064344132, 'bas_DIP': 174.95324496702204}, {'isaret_DIP': 187.9451413954957, 'isaret_PIP': 137.831772417504, 'isaret_MP': 152.62928205514467, 'CMC': 60.635051428793815, 'bas_PIP': 169.14488660799742, 'bas_DIP': 175.51906399346694}, {'isaret_DIP': 187.76292719667566, 'isaret_PIP': 137.78130886641617, 'isaret_MP': 152.14952665985078, 'CMC': 60.15934903682307, 'bas_PIP': 170.26058142118046, 'bas_DIP': 173.89697803932413}, {'isaret_DIP': 183.40102538543738, 'isaret_PIP': 141.53188031139422, 'isaret_MP': 151.4283532254842, 'CMC': 60.27134156396994, 'bas_PIP': 170.3227702954465, 'bas_DIP': 173.38358250965496}, {'isaret_DIP': 184.2778094308422, 'isaret_PIP': 139.71098877674976, 'isaret_MP': 152.31551688399594, 'CMC': 60.54657596377325, 'bas_PIP': 169.28845145443685, 'bas_DIP': 174.2223592898791}, {'isaret_DIP': 181.335848348286, 'isaret_PIP': 142.09616050510496, 'isaret_MP': 151.68164395212452, 'CMC': 59.81371474400373, 'bas_PIP': 170.1670051289218, 'bas_DIP': 173.78959958452498}, {'isaret_DIP': 182.7398318702396, 'isaret_PIP': 141.38110578886406, 'isaret_MP': 150.75047999690634, 'CMC': 60.66262593558827, 'bas_PIP': 169.83465094138793, 'bas_DIP': 174.6908189163055}, {'isaret_DIP': 182.22342405829593, 'isaret_PIP': 141.63476627807358, 'isaret_MP': 150.84050710664755, 'CMC': 60.77522599492096, 'bas_PIP': 169.65991107328185, 'bas_DIP': 174.20451383353733}, {'isaret_DIP': 182.1645621855629, 'isaret_PIP': 142.03470034539927, 'isaret_MP': 149.9988563529607, 'CMC': 61.25892291565549, 'bas_PIP': 169.10684467989375, 'bas_DIP': 173.85071463933835}, {'isaret_DIP': 183.1461234619023, 'isaret_PIP': 141.47890186672788, 'isaret_MP': 149.66710139883793, 'CMC': 60.799778606673215, 'bas_PIP': 169.9858053977973, 'bas_DIP': 173.0974820818058}, {'isaret_DIP': 182.1786920647061, 'isaret_PIP': 141.79344220196202, 'isaret_MP': 148.88314230703688, 'CMC': 60.95294562501596, 'bas_PIP': 170.37887994413762, 'bas_DIP': 170.07868884937469}, {'isaret_DIP': 183.79867032758648, 'isaret_PIP': 141.20522679348062, 'isaret_MP': 148.5924359383143, 'CMC': 60.90419285250687, 'bas_PIP': 170.12807905132846, 'bas_DIP': 172.3240430383865}, {'isaret_DIP': 183.29794270934144, 'isaret_PIP': 142.23110869160337, 'isaret_MP': 147.49711526080577, 'CMC': 61.045001195911254, 'bas_PIP': 169.85123759453563, 'bas_DIP': 172.48183856250634}, {'isaret_DIP': 182.88809362881136, 'isaret_PIP': 141.91507140068748, 'isaret_MP': 147.38194870930278, 'CMC': 61.379685213946175, 'bas_PIP': 169.92427302669103, 'bas_DIP': 170.8895854466793}, {'isaret_DIP': 182.21157770973696, 'isaret_PIP': 142.49607620172154, 'isaret_MP': 146.68061243331366, 'CMC': 60.97788042962236, 'bas_PIP': 170.58334984008883, 'bas_DIP': 170.6715103593332}, {'isaret_DIP': 180.81264409844766, 'isaret_PIP': 143.16273460152107, 'isaret_MP': 146.54462914550658, 'CMC': 60.8644810019706, 'bas_PIP': 170.61768752187373, 'bas_DIP': 170.97268101561835}, {'isaret_DIP': 182.47952065980468, 'isaret_PIP': 142.6944183616608, 'isaret_MP': 145.98927305916808, 'CMC': 61.3456373673377, 'bas_PIP': 170.5333740236218, 'bas_DIP': 169.43168428674036}, {'isaret_DIP': 182.0822899772597, 'isaret_PIP': 142.72541492629668, 'isaret_MP': 145.91164007742182, 'CMC': 60.96633780142787, 'bas_PIP': 170.3698653287993, 'bas_DIP': 170.2953972281227}, {'isaret_DIP': 180.25403453899287, 'isaret_PIP': 144.0946434629021, 'isaret_MP': 145.05254598028063, 'CMC': 61.31735517673485, 'bas_PIP': 170.45360492237998, 'bas_DIP': 168.61328218598615}, {'isaret_DIP': 182.54440995551283, 'isaret_PIP': 142.98217110544974, 'isaret_MP': 144.58108006566533, 'CMC': 60.643389419601704, 'bas_PIP': 171.0245856084607, 'bas_DIP': 168.8529856683851}, {'isaret_DIP': 181.5250958240484, 'isaret_PIP': 143.85148575828413, 'isaret_MP': 144.21771647886786, 'CMC': 60.072306583056104, 'bas_PIP': 172.05090761507364, 'bas_DIP': 167.8440539674706}, {'isaret_DIP': 182.61726873527024, 'isaret_PIP': 143.45729150739078, 'isaret_MP': 143.3495453635466, 'CMC': 60.43886203743534, 'bas_PIP': 171.95309578309906, 'bas_DIP': 167.5056058530834}, {'isaret_DIP': 183.38461875132393, 'isaret_PIP': 142.96187769074922, 'isaret_MP': 142.79413206807874, 'CMC': 61.20622667580193, 'bas_PIP': 171.2583334574124, 'bas_DIP': 167.99461163386707}, {'isaret_DIP': 181.7899106082461, 'isaret_PIP': 144.40540250453932, 'isaret_MP': 142.388338441914, 'CMC': 60.626073386808514, 'bas_PIP': 171.74605969852536, 'bas_DIP': 166.21778363832377}, {'isaret_DIP': 180.46307248464225, 'isaret_PIP': 144.37616483909395, 'isaret_MP': 142.59813602557062, 'CMC': 60.434707770643456, 'bas_PIP': 171.4794975055617, 'bas_DIP': 166.44281635404533}, {'isaret_DIP': 180.66768069182908, 'isaret_PIP': 144.56730735267774, 'isaret_MP': 142.17520587523165, 'CMC': 60.75761661192729, 'bas_PIP': 170.92073854041595, 'bas_DIP': 166.9440177213449}, {'isaret_DIP': 182.26895572653726, 'isaret_PIP': 143.58198100514116, 'isaret_MP': 141.81541039637614, 'CMC': 60.1530251353243, 'bas_PIP': 172.0464209350481, 'bas_DIP': 165.07552103683375}, {'isaret_DIP': 181.57707883391504, 'isaret_PIP': 143.05287459683927, 'isaret_MP': 142.68437780813832, 'CMC': 59.424563815785234, 'bas_PIP': 171.7193333652938, 'bas_DIP': 166.72309608965304}, {'isaret_DIP': 182.07354817199683, 'isaret_PIP': 143.74488688616375, 'isaret_MP': 141.89618875820355, 'CMC': 59.37501443397082, 'bas_PIP': 171.83910884840842, 'bas_DIP': 166.73571855013233}, {'isaret_DIP': 179.57117231748902, 'isaret_PIP': 144.46586836152898, 'isaret_MP': 141.90727654073285, 'CMC': 59.174452503286034, 'bas_PIP': 171.69293879000824, 'bas_DIP': 167.89821696776346}, {'isaret_DIP': 180.33415906054515, 'isaret_PIP': 143.46653652598476, 'isaret_MP': 141.0334002776531, 'CMC': 59.79595962985445, 'bas_PIP': 171.91395828179716, 'bas_DIP': 166.4189841356266}, {'isaret_DIP': 181.00491189754075, 'isaret_PIP': 143.90166622763095, 'isaret_MP': 139.49953695235644, 'CMC': 59.733601611870824, 'bas_PIP': 172.6376940326164, 'bas_DIP': 166.21965689008567}, {'isaret_DIP': 182.2914776043112, 'isaret_PIP': 142.95768879048504, 'isaret_MP': 139.60684198152444, 'CMC': 59.63359522716013, 'bas_PIP': 171.85467074953112, 'bas_DIP': 166.92511706937668}, {'isaret_DIP': 181.1069043566806, 'isaret_PIP': 144.5238511486812, 'isaret_MP': 138.22452240003628, 'CMC': 60.310928343470266, 'bas_PIP': 171.91758040549357, 'bas_DIP': 167.1105336101645}, {'isaret_DIP': 180.72295801416084, 'isaret_PIP': 144.5238511486812, 'isaret_MP': 138.38153704059806, 'CMC': 60.28022760734257, 'bas_PIP': 171.79080615533593, 'bas_DIP': 166.80070543371406}, {'isaret_DIP': 182.4424960341542, 'isaret_PIP': 142.83701758027178, 'isaret_MP': 139.48387250195313, 'CMC': 59.22533000100975, 'bas_PIP': 171.80728148060646, 'bas_DIP': 167.84611019706028}, {'isaret_DIP': 182.00673807056495, 'isaret_PIP': 142.27727651183508, 'isaret_MP': 140.1657060623429, 'CMC': 58.874730432362185, 'bas_PIP': 172.2135502979091, 'bas_DIP': 166.3256384344745}, {'isaret_DIP': 183.29801099596747, 'isaret_PIP': 141.86964355329565, 'isaret_MP': 140.37565597838892, 'CMC': 58.695351275737664, 'bas_PIP': 171.97593536471783, 'bas_DIP': 166.59040413290592}, {'isaret_DIP': 182.70168132606756, 'isaret_PIP': 142.68047288156689, 'isaret_MP': 138.89392892069347, 'CMC': 59.6029134362704, 'bas_PIP': 171.75892244380267, 'bas_DIP': 165.35641223321412}, {'isaret_DIP': 182.7738728296101, 'isaret_PIP': 142.0142081078734, 'isaret_MP': 139.49146807710943, 'CMC': 58.69185306902216, 'bas_PIP': 172.65615449730606, 'bas_DIP': 164.89976072921883}, {'isaret_DIP': 181.84955310370643, 'isaret_PIP': 143.21067921322103, 'isaret_MP': 138.5646751456201, 'CMC': 59.56622563659744, 'bas_PIP': 171.27506742562903, 'bas_DIP': 166.49926261601442}, {'isaret_DIP': 181.77362082443628, 'isaret_PIP': 143.27950903166143, 'isaret_MP': 139.1789186321407, 'CMC': 58.4076038710204, 'bas_PIP': 172.5238039003007, 'bas_DIP': 166.3305175163097}, {'isaret_DIP': 182.83770993422704, 'isaret_PIP': 142.12678044564123, 'isaret_MP': 139.006914642989, 'CMC': 59.372612632064204, 'bas_PIP': 171.61938677707232, 'bas_DIP': 166.13950377789917}, {'isaret_DIP': 181.67020586787777, 'isaret_PIP': 142.80998449251078, 'isaret_MP': 138.5646751456201, 'CMC': 59.24471631654069, 'bas_PIP': 172.16558427675355, 'bas_DIP': 165.33933684140032}, {'isaret_DIP': 182.5156419686712, 'isaret_PIP': 142.34667692413902, 'isaret_MP': 138.89257357838108, 'CMC': 58.56710861590892, 'bas_PIP': 172.43857157233305, 'bas_DIP': 165.96375653207352}, {'isaret_DIP': 182.55440434350155, 'isaret_PIP': 142.27756530744855, 'isaret_MP': 139.2054302566623, 'CMC': 58.56991299037276, 'bas_PIP': 172.3863978638936, 'bas_DIP': 165.3175891433702}, {'isaret_DIP': 182.204213990369, 'isaret_PIP': 141.7568871192709, 'isaret_MP': 139.80197556580708, 'CMC': 59.05501013960736, 'bas_PIP': 172.10785732470316, 'bas_DIP': 165.45180174260062}, {'isaret_DIP': 181.57788136461582, 'isaret_PIP': 142.2894536237592, 'isaret_MP': 140.1653475204193, 'CMC': 59.37085742747189, 'bas_PIP': 171.98548287243693, 'bas_DIP': 166.24273401704338}, {'isaret_DIP': 178.60793218145025, 'isaret_PIP': 144.1521266618992, 'isaret_MP': 140.52501080528214, 'CMC': 59.6202466636189, 'bas_PIP': 172.5635135130848, 'bas_DIP': 165.9767816719537}, {'isaret_DIP': 178.7063199587264, 'isaret_PIP': 144.8558719192799, 'isaret_MP': 141.9414859036556, 'CMC': 59.72846216283256, 'bas_PIP': 171.6264768142454, 'bas_DIP': 167.97584634856952}, {'isaret_DIP': 175.5842201275993, 'isaret_PIP': 146.01245045169406, 'isaret_MP': 144.19489446101534, 'CMC': 60.380301570240135, 'bas_PIP': 170.4054122987753, 'bas_DIP': 170.1134007267478}, {'isaret_DIP': 177.76722671185232, 'isaret_PIP': 145.09482518414077, 'isaret_MP': 146.14912467974057, 'CMC': 59.84643720152121, 'bas_PIP': 171.4040616026475, 'bas_DIP': 170.26587421631902}, {'isaret_DIP': 176.48887083938237, 'isaret_PIP': 146.7703264238791, 'isaret_MP': 146.78735339458993, 'CMC': 60.23804294940908, 'bas_PIP': 172.00063115389298, 'bas_DIP': 170.0781909905421}, {'isaret_DIP': 175.5205809456049, 'isaret_PIP': 147.0385279029598, 'isaret_MP': 148.80134138023422, 'CMC': 59.72001223639944, 'bas_PIP': 172.44194585698202, 'bas_DIP': 170.6555825440889}, {'isaret_DIP': 176.8741533364077, 'isaret_PIP': 146.79802323770286, 'isaret_MP': 149.64626820974382, 'CMC': 59.575976048222515, 'bas_PIP': 172.7096352629515, 'bas_DIP': 171.38696750736065}, {'isaret_DIP': 179.77759277288078, 'isaret_PIP': 145.8736789278594, 'isaret_MP': 149.74287541457434, 'CMC': 59.98013417074958, 'bas_PIP': 172.95719800388747, 'bas_DIP': 173.6292488534816}, {'isaret_DIP': 179.57353969278105, 'isaret_PIP': 145.6106743307315, 'isaret_MP': 150.143829892682, 'CMC': 60.22851916379631, 'bas_PIP': 172.68784513470177, 'bas_DIP': 174.57823660071298}, {'isaret_DIP': 177.83960655042077, 'isaret_PIP': 147.18792898869944, 'isaret_MP': 150.5331268348811, 'CMC': 59.54426792908356, 'bas_PIP': 174.57769278116558, 'bas_DIP': 173.4220883812324}, {'isaret_DIP': 178.21157649616268, 'isaret_PIP': 146.58025080429633, 'isaret_MP': 152.18856115840032, 'CMC': 59.22740135780157, 'bas_PIP': 173.42048063500584, 'bas_DIP': 174.68473023400992}, {'isaret_DIP': 178.33474822561536, 'isaret_PIP': 147.1354332075064, 'isaret_MP': 151.7155936065884, 'CMC': 59.56197994086983, 'bas_PIP': 174.03646133416302, 'bas_DIP': 172.84154135331184}, {'isaret_DIP': 177.2448918281841, 'isaret_PIP': 148.3029064582477, 'isaret_MP': 151.56393438688895, 'CMC': 59.5603300081558, 'bas_PIP': 173.68572028480978, 'bas_DIP': 173.74230967899186}, {'isaret_DIP': 179.73186285526484, 'isaret_PIP': 147.5091613221376, 'isaret_MP': 150.918768054734, 'CMC': 59.45460272786738, 'bas_PIP': 174.00977159863675, 'bas_DIP': 174.84423093156977}, {'isaret_DIP': 181.36327076267224, 'isaret_PIP': 146.6260063376529, 'isaret_MP': 151.1115004806239, 'CMC': 60.20743691352288, 'bas_PIP': 173.02435041177554, 'bas_DIP': 174.23148083476866}, {'isaret_DIP': 179.6983940308885, 'isaret_PIP': 147.99158336032588, 'isaret_MP': 150.89881468470548, 'CMC': 59.92493074934623, 'bas_PIP': 173.26364864495685, 'bas_DIP': 174.64212370151347}, {'isaret_DIP': 181.92590013633324, 'isaret_PIP': 146.95840776808788, 'isaret_MP': 150.7617957494017, 'CMC': 60.35389634617724, 'bas_PIP': 172.21623335777912, 'bas_DIP': 179.71015883742857}, {'isaret_DIP': 182.72288924126474, 'isaret_PIP': 147.00648350101827, 'isaret_MP': 150.99183752660178, 'CMC': 59.750163326264726, 'bas_PIP': 173.52049014916034, 'bas_DIP': 173.80328882245468}, {'isaret_DIP': 180.14160357141932, 'isaret_PIP': 148.47150783224222, 'isaret_MP': 150.014979061593, 'CMC': 60.330498884535416, 'bas_PIP': 173.07839580494613, 'bas_DIP': 174.1425356978771}, {'isaret_DIP': 179.54918664133208, 'isaret_PIP': 148.53167517312988, 'isaret_MP': 150.13321157574978, 'CMC': 60.032679519441615, 'bas_PIP': 173.72754891762474, 'bas_DIP': 173.55864757068062}, {'isaret_DIP': 179.45691085147485, 'isaret_PIP': 148.1273990313252, 'isaret_MP': 150.1909475640987, 'CMC': 60.52731986445957, 'bas_PIP': 172.34822846862124, 'bas_DIP': 175.19382282360587}, {'isaret_DIP': 181.0648862994361, 'isaret_PIP': 146.86599016732276, 'isaret_MP': 150.34243258352518, 'CMC': 60.03970310716562, 'bas_PIP': 173.04144011157214, 'bas_DIP': 173.99257812504618}, {'isaret_DIP': 182.01056996039307, 'isaret_PIP': 144.9854578766921, 'isaret_MP': 150.34742565810524, 'CMC': 60.51441978671397, 'bas_PIP': 172.30713377171855, 'bas_DIP': 174.76722928706178}, {'isaret_DIP': 180.18683544792864, 'isaret_PIP': 145.75085800212375, 'isaret_MP': 149.83125521282946, 'CMC': 59.877213487641086, 'bas_PIP': 173.7293853149198, 'bas_DIP': 173.92942805287558}, {'isaret_DIP': 179.70782544895215, 'isaret_PIP': 146.31308521144203, 'isaret_MP': 148.5433246526333, 'CMC': 61.42752263223559, 'bas_PIP': 171.73112173530257, 'bas_DIP': 174.82029259941854}, {'isaret_DIP': 177.84778166210174, 'isaret_PIP': 147.34732531753036, 'isaret_MP': 148.440391198012, 'CMC': 60.0672799484492, 'bas_PIP': 173.31154737590424, 'bas_DIP': 172.88306807340356}, {'isaret_DIP': 179.50914994643418, 'isaret_PIP': 145.52107407277182, 'isaret_MP': 148.2875758765685, 'CMC': 60.86850057728526, 'bas_PIP': 172.37027042753138, 'bas_DIP': 172.80972579035495}, {'isaret_DIP': 177.60998408301523, 'isaret_PIP': 146.10416540520933, 'isaret_MP': 148.09816962707237, 'CMC': 59.42974539386341, 'bas_PIP': 173.4943733543163, 'bas_DIP': 171.74915024329576}, {'isaret_DIP': 179.60220177302833, 'isaret_PIP': 145.01236970515455, 'isaret_MP': 146.9151823320729, 'CMC': 59.96699205144921, 'bas_PIP': 172.93515103467558, 'bas_DIP': 172.0875247622585}, {'isaret_DIP': 178.75541433490184, 'isaret_PIP': 145.294100953665, 'isaret_MP': 146.29211312345873, 'CMC': 60.0640771707358, 'bas_PIP': 172.0491618343445, 'bas_DIP': 172.9952532649862}, {'isaret_DIP': 177.64000951768156, 'isaret_PIP': 145.75333557625376, 'isaret_MP': 146.0670851928797, 'CMC': 59.41895772112258, 'bas_PIP': 172.56619157919062, 'bas_DIP': 172.38171251445158}, {'isaret_DIP': 180.30591135374513, 'isaret_PIP': 144.2059377625455, 'isaret_MP': 145.05111824736537, 'CMC': 59.866121304857415, 'bas_PIP': 172.41074373741264, 'bas_DIP': 172.29295326094706}, {'isaret_DIP': 180.62384672434132, 'isaret_PIP': 143.16066714619535, 'isaret_MP': 145.74598856224029, 'CMC': 59.658888188843946, 'bas_PIP': 172.043932156945, 'bas_DIP': 171.52526791300187}, {'isaret_DIP': 178.95694771168633, 'isaret_PIP': 144.6250880298966, 'isaret_MP': 144.2917280928496, 'CMC': 59.409493044746284, 'bas_PIP': 172.68109750972604, 'bas_DIP': 170.39837738056247}, {'isaret_DIP': 177.38278231370057, 'isaret_PIP': 144.73097268648604, 'isaret_MP': 144.120664355597, 'CMC': 59.595559655460875, 'bas_PIP': 172.50313463143476, 'bas_DIP': 170.24862091537895}, {'isaret_DIP': 176.11598741068994, 'isaret_PIP': 145.7596723250555, 'isaret_MP': 143.17191975961418, 'CMC': 59.223112353621445, 'bas_PIP': 173.01884175681076, 'bas_DIP': 170.23879286575766}, {'isaret_DIP': 176.43747538470762, 'isaret_PIP': 145.42366924991742, 'isaret_MP': 143.14116715378591, 'CMC': 58.99341944720601, 'bas_PIP': 172.98889101227638, 'bas_DIP': 169.20456845427682}, {'isaret_DIP': 174.95452557967047, 'isaret_PIP': 145.99766660088326, 'isaret_MP': 142.73397438358754, 'CMC': 58.94684765182626, 'bas_PIP': 172.91349354891605, 'bas_DIP': 168.99960707894095}, {'isaret_DIP': 175.44961922829955, 'isaret_PIP': 145.8793645814137, 'isaret_MP': 142.52133068766946, 'CMC': 58.36533401204184, 'bas_PIP': 173.75090204774796, 'bas_DIP': 167.85864844089517}, {'isaret_DIP': 176.9792564383775, 'isaret_PIP': 145.16018836710828, 'isaret_MP': 141.65825218947563, 'CMC': 58.97086323200671, 'bas_PIP': 172.4770027561549, 'bas_DIP': 169.51724152228985}, {'isaret_DIP': 175.36072428954213, 'isaret_PIP': 145.5333092279615, 'isaret_MP': 142.09734176324037, 'CMC': 58.834448318991065, 'bas_PIP': 172.1752028479523, 'bas_DIP': 168.87459858268832}, {'isaret_DIP': 174.1345452329859, 'isaret_PIP': 146.16297147403003, 'isaret_MP': 141.70124050046678, 'CMC': 58.78508631508197, 'bas_PIP': 172.53574594982734, 'bas_DIP': 168.30753219801687}, {'isaret_DIP': 175.5430286294175, 'isaret_PIP': 145.59424800135932, 'isaret_MP': 141.1896553614325, 'CMC': 58.25887358354305, 'bas_PIP': 173.258587747412, 'bas_DIP': 167.84991022282907}, {'isaret_DIP': 173.50833102585833, 'isaret_PIP': 146.21685657361704, 'isaret_MP': 141.17866683272024, 'CMC': 58.75178243082951, 'bas_PIP': 172.7360640968882, 'bas_DIP': 167.86038215143506}, {'isaret_DIP': 174.80223397694763, 'isaret_PIP': 145.48637398406925, 'isaret_MP': 141.16388899398902, 'CMC': 58.34026534230469, 'bas_PIP': 172.8352983204231, 'bas_DIP': 167.95691894081034}, {'isaret_DIP': 174.69780720608279, 'isaret_PIP': 145.7819822063229, 'isaret_MP': 140.66695275942405, 'CMC': 58.90742483396451, 'bas_PIP': 172.69419258336794, 'bas_DIP': 167.20011992657624}, {'isaret_DIP': 173.53286569053964, 'isaret_PIP': 146.18973551809424, 'isaret_MP': 141.0976742417122, 'CMC': 58.364197683802615, 'bas_PIP': 172.7349753961799, 'bas_DIP': 168.0988680228426}, {'isaret_DIP': 172.5765708311033, 'isaret_PIP': 146.67228580526418, 'isaret_MP': 140.2420186937517, 'CMC': 58.699825376430226, 'bas_PIP': 172.57623165599497, 'bas_DIP': 168.4291699668362}, {'isaret_DIP': 175.2896761352031, 'isaret_PIP': 144.24732057050522, 'isaret_MP': 141.04150497812324, 'CMC': 58.26269242330267, 'bas_PIP': 173.15313456469107, 'bas_DIP': 167.6970240608206}, {'isaret_DIP': 174.00626986151647, 'isaret_PIP': 145.87961627005055, 'isaret_MP': 140.04829822005647, 'CMC': 58.66726123501337, 'bas_PIP': 173.02444398531406, 'bas_DIP': 167.60350869911696}, {'isaret_DIP': 174.45859543132747, 'isaret_PIP': 145.63941107789944, 'isaret_MP': 140.37070182769398, 'CMC': 58.3149456272489, 'bas_PIP': 172.90425779726812, 'bas_DIP': 166.723764205742}, {'isaret_DIP': 175.44980785375859, 'isaret_PIP': 144.51673469140087, 'isaret_MP': 140.44838329269868, 'CMC': 58.80625858347207, 'bas_PIP': 172.29661281142094, 'bas_DIP': 166.43684746444683}, {'isaret_DIP': 172.61712778798312, 'isaret_PIP': 146.32783598168848, 'isaret_MP': 139.99712528925497, 'CMC': 58.77495892243326, 'bas_PIP': 172.36999468366994, 'bas_DIP': 166.26035410930382}, {'isaret_DIP': 176.279175920327, 'isaret_PIP': 143.1862759492109, 'isaret_MP': 139.8572419749654, 'CMC': 58.31892825203158, 'bas_PIP': 173.24087154261852, 'bas_DIP': 166.03769820391963}, {'isaret_DIP': 177.29930245892987, 'isaret_PIP': 143.5690780278024, 'isaret_MP': 140.14857129478833, 'CMC': 57.875760790101765, 'bas_PIP': 173.30096323650878, 'bas_DIP': 165.29498650570824}, {'isaret_DIP': 177.36605050105942, 'isaret_PIP': 143.67585497210425, 'isaret_MP': 138.93142050630095, 'CMC': 58.61204540843096, 'bas_PIP': 172.94956064237957, 'bas_DIP': 166.16191435928522}, {'isaret_DIP': 177.9732566320802, 'isaret_PIP': 142.94086848478617, 'isaret_MP': 139.54431899061433, 'CMC': 58.17066972687758, 'bas_PIP': 173.35269572884906, 'bas_DIP': 164.84241966504888}, {'isaret_DIP': 176.45469598129407, 'isaret_PIP': 142.82622334388117, 'isaret_MP': 139.225800333713, 'CMC': 58.779019285981576, 'bas_PIP': 172.65574822326786, 'bas_DIP': 165.49620765959506}, {'isaret_DIP': 177.50770954773876, 'isaret_PIP': 143.78010132592854, 'isaret_MP': 138.3020003336827, 'CMC': 58.59437141066229, 'bas_PIP': 173.3700847305249, 'bas_DIP': 165.1957489045997}, {'isaret_DIP': 177.70951449745405, 'isaret_PIP': 143.36926967035316, 'isaret_MP': 138.27280338712134, 'CMC': 58.60584510618838, 'bas_PIP': 173.51676936502628, 'bas_DIP': 164.69598840561125}, {'isaret_DIP': 177.48656887658115, 'isaret_PIP': 143.29610728402128, 'isaret_MP': 139.30631479808164, 'CMC': 58.41252309270061, 'bas_PIP': 173.29084340843258, 'bas_DIP': 165.03912711230626}, {'isaret_DIP': 179.40666459766112, 'isaret_PIP': 142.1560495739241, 'isaret_MP': 138.8410525359736, 'CMC': 59.03056992088358, 'bas_PIP': 172.53587237233907, 'bas_DIP': 165.8752572754277}, {'isaret_DIP': 180.0245238872264, 'isaret_PIP': 141.20461873883434, 'isaret_MP': 139.24195747677845, 'CMC': 58.8453623560697, 'bas_PIP': 172.1857519093545, 'bas_DIP': 165.97109906233393}, {'isaret_DIP': 180.0245238872264, 'isaret_PIP': 141.20461873883434, 'isaret_MP': 139.24195747677845, 'CMC': 58.8453623560697, 'bas_PIP': 172.1857519093545, 'bas_DIP': 165.97109906233393}, {'isaret_DIP': 179.0110591114798, 'isaret_PIP': 142.20977903788088, 'isaret_MP': 139.1627985430381, 'CMC': 58.56258215145567, 'bas_PIP': 172.82547089862726, 'bas_DIP': 165.24285068509815}, {'isaret_DIP': 178.48432733188537, 'isaret_PIP': 143.29915248293912, 'isaret_MP': 138.7144530334909, 'CMC': 58.443231466599116, 'bas_PIP': 173.7315644443166, 'bas_DIP': 163.87314695327686}, {'isaret_DIP': 177.2063913836829, 'isaret_PIP': 144.0404420225914, 'isaret_MP': 138.36136754685745, 'CMC': 59.149462041843435, 'bas_PIP': 172.41860942164632, 'bas_DIP': 166.09206216170784}, {'isaret_DIP': 177.7833507586909, 'isaret_PIP': 143.76771024515938, 'isaret_MP': 139.20249073313988, 'CMC': 58.15959318550324, 'bas_PIP': 173.36598215695994, 'bas_DIP': 165.7227522709537}, {'isaret_DIP': 177.39169016599607, 'isaret_PIP': 144.24219903344724, 'isaret_MP': 139.55894972028142, 'CMC': 58.72802748309391, 'bas_PIP': 173.21742255081688, 'bas_DIP': 165.97303440702296}, {'isaret_DIP': 180.72828082360962, 'isaret_PIP': 142.67630043128125, 'isaret_MP': 139.63769060846263, 'CMC': 59.62334342974714, 'bas_PIP': 173.7854779802663, 'bas_DIP': 166.3939439629303}, {'isaret_DIP': 177.60836012803446, 'isaret_PIP': 145.2402325337557, 'isaret_MP': 140.72791488593282, 'CMC': 60.4205127867462, 'bas_PIP': 173.69958415979627, 'bas_DIP': 166.65247507585508}, {'isaret_DIP': 177.20273269682212, 'isaret_PIP': 146.12317791905326, 'isaret_MP': 142.60372436487955, 'CMC': 60.175146446317, 'bas_PIP': 174.17666944434325, 'bas_DIP': 167.58819164725838}, {'isaret_DIP': 177.41635409733513, 'isaret_PIP': 145.5741931496885, 'isaret_MP': 144.7260557669681, 'CMC': 59.33225087741744, 'bas_PIP': 175.19674582938055, 'bas_DIP': 169.05193278829015}, {'isaret_DIP': 178.94725170446122, 'isaret_PIP': 145.69731994692475, 'isaret_MP': 146.54855261449524, 'CMC': 59.634144058215895, 'bas_PIP': 175.01735190093547, 'bas_DIP': 169.66113074565217}, {'isaret_DIP': 178.57794973070386, 'isaret_PIP': 144.53795029552163, 'isaret_MP': 149.28347595816948, 'CMC': 58.91816116586517, 'bas_PIP': 175.344588781091, 'bas_DIP': 170.4850841797886}, {'isaret_DIP': 178.16001442617628, 'isaret_PIP': 145.37567546529087, 'isaret_MP': 150.03292978522597, 'CMC': 59.563452729210155, 'bas_PIP': 174.60777101456003, 'bas_DIP': 171.8980692061918}, {'isaret_DIP': 177.62037496214302, 'isaret_PIP': 147.14466020665174, 'isaret_MP': 150.0664077697645, 'CMC': 59.18464303185283, 'bas_PIP': 174.64529029438094, 'bas_DIP': 172.142281457456}, {'isaret_DIP': 180.21427445333276, 'isaret_PIP': 148.4459680378184, 'isaret_MP': 148.85532614333178, 'CMC': 59.459201359706015, 'bas_PIP': 174.4695940881963, 'bas_DIP': 172.83369728916716}, {'isaret_DIP': 179.7547771069685, 'isaret_PIP': 149.68944581219935, 'isaret_MP': 148.27630301904262, 'CMC': 59.22122902564166, 'bas_PIP': 174.7703082040221, 'bas_DIP': 173.93822323188758}, {'isaret_DIP': 182.82200509875724, 'isaret_PIP': 149.23622770387104, 'isaret_MP': 147.9459582371064, 'CMC': 59.278518625605386, 'bas_PIP': 174.64727575862534, 'bas_DIP': 174.1234587442169}, {'isaret_DIP': 182.64512203884442, 'isaret_PIP': 150.31206951407094, 'isaret_MP': 148.0130050111427, 'CMC': 59.365923797447294, 'bas_PIP': 174.6438038770589, 'bas_DIP': 174.46482145756076}, {'isaret_DIP': 183.46504313614997, 'isaret_PIP': 149.2149883439505, 'isaret_MP': 148.11057980652242, 'CMC': 59.42339782421328, 'bas_PIP': 174.12443334350132, 'bas_DIP': 175.64798213383918}, {'isaret_DIP': 183.45380214023342, 'isaret_PIP': 150.30471721252044, 'isaret_MP': 147.7367532902633, 'CMC': 59.33906405572327, 'bas_PIP': 174.37954337986497, 'bas_DIP': 174.54308013743082}, {'isaret_DIP': 183.02242813041065, 'isaret_PIP': 151.16213850834524, 'isaret_MP': 147.84943927433673, 'CMC': 58.959972255867115, 'bas_PIP': 174.63773941206486, 'bas_DIP': 174.9555708578743}, {'isaret_DIP': 182.3376921363608, 'isaret_PIP': 152.01877760733834, 'isaret_MP': 147.81127356343038, 'CMC': 58.990505496900425, 'bas_PIP': 174.54088516541523, 'bas_DIP': 174.84423587344983}, {'isaret_DIP': 183.85624376885113, 'isaret_PIP': 150.78930393615104, 'isaret_MP': 147.94368563439608, 'CMC': 59.20653976911041, 'bas_PIP': 174.20635541681546, 'bas_DIP': 175.16583362596768}, {'isaret_DIP': 183.16786377235618, 'isaret_PIP': 152.23362999963305, 'isaret_MP': 147.2059874698135, 'CMC': 58.97304390962631, 'bas_PIP': 174.4797266934105, 'bas_DIP': 175.54110670348896}, {'isaret_DIP': 182.10257790982365, 'isaret_PIP': 153.78393293895215, 'isaret_MP': 146.4501668178076, 'CMC': 59.802641118278245, 'bas_PIP': 173.65354879155618, 'bas_DIP': 176.5344243829793}, {'isaret_DIP': 182.10221517106467, 'isaret_PIP': 154.11812254027893, 'isaret_MP': 146.12036431957324, 'CMC': 59.82591884350006, 'bas_PIP': 174.32614373948982, 'bas_DIP': 174.41423665309128}, {'isaret_DIP': 183.1401782497844, 'isaret_PIP': 152.1475376954345, 'isaret_MP': 147.230032488837, 'CMC': 59.2700300468253, 'bas_PIP': 174.12443334350132, 'bas_DIP': 174.84284116652933}, {'isaret_DIP': 183.4866796284494, 'isaret_PIP': 150.75698375275414, 'isaret_MP': 147.33681187301215, 'CMC': 59.119188834582644, 'bas_PIP': 174.74945881245014, 'bas_DIP': 178.8847080073808}, {'isaret_DIP': 183.93534178767607, 'isaret_PIP': 151.59549749706545, 'isaret_MP': 146.60712812953548, 'CMC': 60.78816791011997, 'bas_PIP': 173.0504776106815, 'bas_DIP': 178.6879981208381}, {'isaret_DIP': 184.3820680050872, 'isaret_PIP': 150.42792204611993, 'isaret_MP': 147.25438223130604, 'CMC': 59.80380148016775, 'bas_PIP': 174.28002135612198, 'bas_DIP': 179.05129390353719}]

@@ -25,4 +25,5 @@ class AngleCalculator():
 
     def __calculate_angle(self, a, b, c):
         ang = math.degrees(math.atan2(c[1]-b[1], c[0]-b[0]) - math.atan2(a[1]-b[1], a[0]-b[0]))
+
         return 360 - (ang + 360 if ang < 0 else ang)

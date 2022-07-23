@@ -27,6 +27,7 @@ h = int(cam.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
 output_name = "mavi-el-resized-output.mp4"
 video_writer = cv2.VideoWriter(output_name, cv2.VideoWriter_fourcc(*'mp4v'), fps, (1280, 720))
+empty_writer = cv2.VideoWriter("only-lines-" + output_name, cv2.VideoWriter_fourcc(*'mp4v'), fps, (1280, 720))
 
 logger.info(f"Resolution H: {h}, W: {w}. Writer Object Created with the Name: {output_name}.")
 
@@ -59,6 +60,7 @@ while True:
         break
 
     frame = cv2.resize(frame, (1280, 720))
+    empty = np.zeros((720, 1280, 3), np.uint8)
     logger.info(f"Frame read and resized to {frame.shape}.")
 
     color_manager.filter_points(frame)
@@ -78,12 +80,25 @@ while True:
     for i, j in enumerate(joints):
         try:
             cv2.line(frame, (int(joints[j][0]), int(joints[j][1])), (int(joints[joint_list[i+1]][0]), int(joints[joint_list[i+1]][1])), (0, 255, 0), 2, cv2.LINE_AA)
+            cv2.line(empty, (int(joints[j][0]), int(joints[j][1])), (int(joints[joint_list[i+1]][0]), int(joints[joint_list[i+1]][1])), (0, 255, 0), 2, cv2.LINE_AA)
         except:
             pass
 
-    for angle in angles:
+    for i, angle in enumerate(angles):
         cv2.putText(frame, f"{round(angles[angle], 1)}", (int(joints[angle][0]), int(joints[angle][1]) - 20), cv2.FONT_HERSHEY_COMPLEX, 0.4, (2, 10, 255), 1, cv2.LINE_AA)
+        # TODO ADD ARC
+        p1 = joints[joint_list[i+1+1]]
+        p2 = joints[angle]
+        p3 = joints[joint_list[i+1-1]]
 
+        world_angle = np.arctan( (p2[1] - p1[1]) / (p2[0] - p1[0]) ) * 180 / np.pi
+
+        if i > 2:
+            cv2.ellipse(frame, (int(p2[0]), int(p2[1])), (20, 20), world_angle - 180, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+            cv2.ellipse(empty, (int(p2[0]), int(p2[1])), (20, 20), world_angle - 180, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+        else:
+            cv2.ellipse(frame, (int(p2[0]), int(p2[1])), (20, 20), world_angle, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+            cv2.ellipse(empty, (int(p2[0]), int(p2[1])), (20, 20), world_angle, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
 
     cv2.imshow("Image", frame)
 
@@ -91,8 +106,10 @@ while True:
         break
 
     video_writer.write(frame)
+    empty_writer.write(empty)
     logger.info(f"Frame Saved.\n\n\n\n\n")
 
 logger.info(f"All Joint Positions: {joint_tracker.get_all()}\n\n\n\n")
 logger.info(f"All Joint Angles: {angle_calculator.get_all()}")
 video_writer.release()
+empty_writer.release()

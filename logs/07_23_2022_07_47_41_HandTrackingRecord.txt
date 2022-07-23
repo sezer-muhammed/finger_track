@@ -1,0 +1,29 @@
+INFO | 347 | keypoint | Camera Started: mavi-el-resized.mp4
+INFO | 367 | keypoint | Resolution H: 720, W: 1280. Writer Object Created with the Name: mavi-el-resized-output.mp4.
+INFO | 367 | keypoint | Filtering Values Set. Hue Min: 93, Saturation Min: 44, Value Min: 38, Hue Max: 170, Saturation Max: 232, Value Max: 255
+INFO | 1217 | eklem_tracker | isaret_uc Has Been Created. Coordinates: x: 457, y: 283
+INFO | 1537 | eklem_tracker | isaret_DIP Has Been Created. Coordinates: x: 537, y: 272
+INFO | 2041 | eklem_tracker | isaret_PIP Has Been Created. Coordinates: x: 594, y: 245
+INFO | 2529 | eklem_tracker | isaret_MP Has Been Created. Coordinates: x: 712, y: 309
+INFO | 2946 | eklem_tracker | CMC Has Been Created. Coordinates: x: 800, y: 423
+INFO | 3409 | eklem_tracker | bas_PIP Has Been Created. Coordinates: x: 691, y: 455
+INFO | 3833 | eklem_tracker | bas_DIP Has Been Created. Coordinates: x: 561, y: 452
+INFO | 4521 | eklem_tracker | bas_uc Has Been Created. Coordinates: x: 486, y: 441
+INFO | 4522 | keypoint | Starting Loop For video. 
+
+
+
+INFO | 4524 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 4526 | color_detetor | Filtering Done & Mask Created
+INFO | 4527 | color_detetor | 9 Points Detected on the Image
+INFO | 4886 | eklem_tracker | Results Matched for New Frame
+INFO | 4886 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 4886 | eklem_tracker | Getting Joints Dict
+INFO | 4886 | angle_calculator | Getting Angle Dict
+INFO | 4886 | keypoint | Angles & Lines Are on the Image
+INFO | 9378 | keypoint | All Joint Positions: [{'isaret_uc': array([462.5       , 282.13635254]), 'isaret_DIP': array([537.5, 265.5]), 'isaret_PIP': array([589.73809814, 242.5       ]), 'isaret_MP': array([702.94171143, 301.34048462]), 'CMC': array([805., 425.]), 'bas_PIP': array([688.70001221, 445.5       ]), 'bas_DIP': array([558.08728027, 445.70635986]), 'bas_uc': array([478.57693481, 438.5       ])}, {'isaret_uc': array([462.5       , 282.13635254]), 'isaret_DIP': array([537.5, 265.5]), 'isaret_PIP': array([589.73809814, 242.5       ]), 'isaret_MP': array([702.94171143, 301.34048462]), 'CMC': array([805., 425.]), 'bas_PIP': array([688.70001221, 445.5       ]), 'bas_DIP': array([558.08728027, 445.70635986]), 'bas_uc': array([478.57693481, 438.5       ])}]
+
+
+
+
+INFO | 9378 | keypoint | All Joint Angles: [{'isaret_DIP': 191.25675702735188, 'isaret_PIP': 128.77219208286752, 'isaret_MP': 156.99774707198245, 'CMC': 60.46330513036827, 'bas_PIP': 170.09378498799626, 'bas_DIP': 174.73066646658074}]
