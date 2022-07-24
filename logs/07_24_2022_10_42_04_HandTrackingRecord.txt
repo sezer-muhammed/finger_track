@@ -1,0 +1,3 @@
+INFO | 440 | keypoint | Camera Started: mavi-el-resized.mp4
+INFO | 463 | keypoint | Resolution H: 720, W: 1280. Writer Object Created with the Name: mavi-el-resized-output.mp4.
+INFO | 464 | keypoint | Filtering Values Set. Hue Min: 27, Saturation Min: 51, Value Min: 32, Hue Max: 88, Saturation Max: 255, Value Max: 222

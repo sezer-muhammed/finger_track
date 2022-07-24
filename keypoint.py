@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
-cam_name = "mavi-el-resized.mp4"
+cam_name = "yesil-el.mp4"
 cam = cv2.VideoCapture(cam_name)
 
 logger.info(f"Camera Started: {cam_name}")
@@ -25,7 +25,7 @@ fps = cam.get(cv2.CAP_PROP_FPS)
 w = int(cam.get(cv2.CAP_PROP_FRAME_WIDTH))
 h = int(cam.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
-output_name = "mavi-el-resized-output.mp4"
+output_name = "yesil-el-resized-output.mp4"
 video_writer = cv2.VideoWriter(output_name, cv2.VideoWriter_fourcc(*'mp4v'), fps, (1280, 720))
 empty_writer = cv2.VideoWriter("only-lines-" + output_name, cv2.VideoWriter_fourcc(*'mp4v'), fps, (1280, 720))
 
@@ -36,18 +36,19 @@ kernel = np.ones((5,5),np.uint8)
 color_manager = ColorManager(logger)
 joint_tracker = EklemTracker(logger)
 
-hMin = 93
-sMin = 44
-vMin = 38
-hMax = 170
-sMax = 232
-vMax = 255
+hMin = 27
+sMin = 51
+vMin = 32
+hMax = 88
+sMax = 255
+vMax = 222
 
 logger.info(f"Filtering Values Set. Hue Min: {hMin}, Saturation Min: {sMin}, Value Min: {vMin}, Hue Max: {hMax}, Saturation Max: {sMax}, Value Max: {vMax}")
 
 color_manager.update_color_range(hMin, sMin, vMin, hMax, sMax, vMax)
 
 _, frame = cam.read()
+frame = cv2.resize(frame, (1280, 720))
 frame = joint_tracker.initialize_joints(frame, color_manager)
 angle_calculator = AngleCalculator(logger)
 
