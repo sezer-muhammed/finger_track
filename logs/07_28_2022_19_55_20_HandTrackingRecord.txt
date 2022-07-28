@@ -1,0 +1,3 @@
+INFO | 163 | keypoint | Camera Started: yesil-el.mp4
+INFO | 181 | keypoint | Resolution H: 1080, W: 1920. Writer Object Created with the Name: manipulandum_red.mp4.
+INFO | 181 | keypoint | Filtering Values Set. Hue Min: 86, Saturation Min: 74, Value Min: 31, Hue Max: 163, Saturation Max: 255, Value Max: 255

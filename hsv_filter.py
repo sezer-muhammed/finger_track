@@ -25,7 +25,9 @@ cv2.setTrackbarPos('VMax', 'image', 255)
 hMin = sMin = vMin = hMax = sMax = vMax = 0
 phMin = psMin = pvMin = phMax = psMax = pvMax = 0
 
-img = cv2.imread('Screenshot_4.jpg')
+img = cv2.imread('Screenshot_5.jpg')
+img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+img = cv2.resize(img, (1000, 500))
 output = img
 waitTime = 33
 
