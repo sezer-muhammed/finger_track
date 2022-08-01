@@ -18,9 +18,6 @@ cam = cv2.VideoCapture(cam_name)
 
 logger.info(f"Camera Started: {cam_name}")
 
-for i in range(150):
-    _, frame = cam.read()
-
 cv2.namedWindow("Image")
 
 fps = cam.get(cv2.CAP_PROP_FPS)
@@ -48,6 +45,11 @@ vMax = 194
 logger.info(f"Filtering Values Set. Hue Min: {hMin}, Saturation Min: {sMin}, Value Min: {vMin}, Hue Max: {hMax}, Saturation Max: {sMax}, Value Max: {vMax}")
 
 color_manager.update_color_range(hMin, sMin, vMin, hMax, sMax, vMax)
+
+while True:
+    _, frame = cam.read()
+    if cv2.waitKey(1) == ord("q"):
+        break
 
 _, frame = cam.read()
 frame = cv2.resize(frame, (1280, 720))
