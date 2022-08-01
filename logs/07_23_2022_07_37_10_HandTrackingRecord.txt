@@ -1,6 +1,0 @@
-INFO | 331 | keypoint | Camera Started: mavi-el-resized.mp4
-INFO | 353 | keypoint | Resolution H: 720, W: 1280. Writer Object Created with the Name: mavi-el-resized-output.mp4.
-INFO | 353 | keypoint | Filtering Values Set. Hue Min: 93, Saturation Min: 44, Value Min: 38, Hue Max: 170, Saturation Max: 232, Value Max: 255
-INFO | 1443 | eklem_tracker | isaret_uc Has Been Created. Coordinates: x: 465, y: 285
-INFO | 1890 | eklem_tracker | isaret_DIP Has Been Created. Coordinates: x: 465, y: 285
-INFO | 4410 | eklem_tracker | isaret_PIP Has Been Created. Coordinates: x: 938, y: 499

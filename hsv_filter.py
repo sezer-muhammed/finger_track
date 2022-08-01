@@ -25,8 +25,7 @@ cv2.setTrackbarPos('VMax', 'image', 255)
 hMin = sMin = vMin = hMax = sMax = vMax = 0
 phMin = psMin = pvMin = phMax = psMax = pvMax = 0
 
-img = cv2.imread('Screenshot_5.jpg')
-img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+img = cv2.imread('Screenshot_4.jpg')
 img = cv2.resize(img, (1000, 500))
 output = img
 waitTime = 33
@@ -53,7 +52,8 @@ while(1):
 
     # Print if there is a change in HSV value
     if( (phMin != hMin) | (psMin != sMin) | (pvMin != vMin) | (phMax != hMax) | (psMax != sMax) | (pvMax != vMax) ):
-        print("(hMin = %d , sMin = %d, vMin = %d), (hMax = %d , sMax = %d, vMax = %d)" % (hMin , sMin , vMin, hMax, sMax , vMax))
+        print("-----------------------------------------")
+        print("hMin = %d\nsMin = %d\nvMin = %d\nhMax = %d\nsMax = %d\nvMax = %d" % (hMin , sMin , vMin, hMax, sMax , vMax))
         phMin = hMin
         psMin = sMin
         pvMin = vMin

@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
-cam_name = "manipulandum_red.mp4"
+cam_name = "yesil-el.mp4"
 cam = cv2.VideoCapture(cam_name)
 
 logger.info(f"Camera Started: {cam_name}")
@@ -38,21 +38,20 @@ kernel = np.ones((5,5),np.uint8)
 color_manager = ColorManager(logger)
 joint_tracker = EklemTracker(logger)
 
-hMin = 86
-sMin = 74
-vMin = 31
-hMax = 163
+hMin = 24
+sMin = 56
+vMin = 0
+hMax = 92
 sMax = 255
-vMax = 255
+vMax = 194
 
 logger.info(f"Filtering Values Set. Hue Min: {hMin}, Saturation Min: {sMin}, Value Min: {vMin}, Hue Max: {hMax}, Saturation Max: {sMax}, Value Max: {vMax}")
 
 color_manager.update_color_range(hMin, sMin, vMin, hMax, sMax, vMax)
 
 _, frame = cam.read()
-frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-frame_rgb = cv2.resize(frame_rgb, (1280, 720))
-frame = joint_tracker.initialize_joints(frame_rgb, color_manager)
+frame = cv2.resize(frame, (1280, 720))
+frame = joint_tracker.initialize_joints(frame, color_manager)
 angle_calculator = AngleCalculator(logger)
 
 
@@ -64,18 +63,14 @@ while True:
         break
 
     frame = cv2.resize(frame, (1280, 720))
-    frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     empty = np.zeros((720, 1280, 3), np.uint8)
     logger.info(f"Frame read and resized to {frame.shape}.")
 
-    color_manager.filter_points(frame_rgb)
+    color_manager.filter_points(frame)
     points = color_manager.get_points()
     joint_tracker.match(points)
     
     joint_tracker.draw(frame)
-
-#    for p in points:
-#        cv2.circle(frame, (int(p[0]), int(p[1])), 6, (255, 255, 255), -1, cv2.LINE_AA)
 
     joints = joint_tracker.get_joints()
     angles = angle_calculator.get_angle(joints)
