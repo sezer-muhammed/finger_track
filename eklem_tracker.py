@@ -73,14 +73,38 @@ class EklemTracker():
                 self.__last_joint_coords[joint] = points[result[i]]
             except:
                 pass
-        self.__all_coords.append(self.__last_joint_coords)
+        self.__all_coords.append(self.__last_joint_coords.copy())
 
-    def draw(self, frame):
+    def draw(self, frame, empty, angles):
         for joint in self.__last_joint_coords:
             coord = (int(self.__last_joint_coords[joint][0]), int(self.__last_joint_coords[joint][1]))
             frame = cv2.putText(frame, joint, coord, cv2.FONT_HERSHEY_COMPLEX, 0.3, (0, 100, 255), 1, cv2.LINE_AA)
         self.logger.info(f"Joint Points & Names Now Are on the Frame")
-        return frame
+        joint_list = list(self.__last_joint_coords.keys())
+        self.logger.info(f"Angles & Lines Are on the Image")
+        for i, j in enumerate(self.__last_joint_coords):
+            try:
+                cv2.line(frame, (int(self.__last_joint_coords[j][0]), int(self.__last_joint_coords[j][1])), (int(self.__last_joint_coords[joint_list[i+1]][0]), int(self.__last_joint_coords[joint_list[i+1]][1])), (0, 255, 0), 2, cv2.LINE_AA)
+                cv2.line(empty, (int(self.__last_joint_coords[j][0]), int(self.__last_joint_coords[j][1])), (int(self.__last_joint_coords[joint_list[i+1]][0]), int(self.__last_joint_coords[joint_list[i+1]][1])), (0, 255, 0), 2, cv2.LINE_AA)
+            except:
+                pass
+        joint_list = list(self.__last_joint_coords.keys())
+        for i, angle in enumerate(angles):
+            cv2.putText(frame, f"{round(angles[angle], 1)}", (int(self.__last_joint_coords[angle][0]), int(self.__last_joint_coords[angle][1]) - 20), cv2.FONT_HERSHEY_COMPLEX, 0.4, (2, 10, 255), 1, cv2.LINE_AA)
+            # TODO ADD ARC
+            p1 = self.__last_joint_coords[joint_list[i+1+1]]
+            p2 = self.__last_joint_coords[angle]
+
+            world_angle = np.arctan( (p2[1] - p1[1]) / (p2[0] - p1[0]) ) * 180 / np.pi
+
+            if i > 2:
+                cv2.ellipse(frame, (int(p2[0]), int(p2[1])), (20, 20), world_angle - 180, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+                cv2.ellipse(empty, (int(p2[0]), int(p2[1])), (20, 20), world_angle - 180, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+            else:
+                cv2.ellipse(frame, (int(p2[0]), int(p2[1])), (20, 20), world_angle, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+                cv2.ellipse(empty, (int(p2[0]), int(p2[1])), (20, 20), world_angle, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
+
+        return frame, empty
 
     def get_input(self, event, x, y, flags, param):
         if event == cv2.EVENT_LBUTTONDOWN:

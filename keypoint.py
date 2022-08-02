@@ -1,4 +1,5 @@
 import cv2
+from imageio import save
 import numpy as np
 from angle_calculator import AngleCalculator
 from color_detetor import ColorManager
@@ -6,6 +7,7 @@ from eklem_tracker import EklemTracker
 import logging
 from datetime import datetime
 import json
+import pandas as pd
 
 now = datetime.now().strftime("%m_%d_%Y_%H_%M_%S")
 logging.basicConfig(filename=f"logs/{now}_HandTrackingRecord.txt", filemode="w", format="%(levelname)s | %(relativeCreated)d | %(module)s | %(message)s", level=logging.INFO)
@@ -36,11 +38,11 @@ color_manager = ColorManager(logger)
 joint_tracker = EklemTracker(logger)
 
 hMin = 24
-sMin = 56
-vMin = 0
-hMax = 92
+sMin = 80
+vMin = 20
+hMax = 118
 sMax = 255
-vMax = 194
+vMax = 205
 
 logger.info(f"Filtering Values Set. Hue Min: {hMin}, Saturation Min: {sMin}, Value Min: {vMin}, Hue Max: {hMax}, Saturation Max: {sMax}, Value Max: {vMax}")
 
@@ -48,6 +50,8 @@ color_manager.update_color_range(hMin, sMin, vMin, hMax, sMax, vMax)
 
 while True:
     _, frame = cam.read()
+    frame = cv2.resize(frame, (1280, 720))
+    cv2.imshow("Image", frame)
     if cv2.waitKey(1) == ord("q"):
         break
 
@@ -55,7 +59,6 @@ _, frame = cam.read()
 frame = cv2.resize(frame, (1280, 720))
 frame = joint_tracker.initialize_joints(frame, color_manager)
 angle_calculator = AngleCalculator(logger)
-
 
 logger.info(f"Starting Loop For video. \n\n\n")
 while True:
@@ -71,36 +74,13 @@ while True:
     color_manager.filter_points(frame)
     points = color_manager.get_points()
     joint_tracker.match(points)
-    
-    joint_tracker.draw(frame)
 
     joints = joint_tracker.get_joints()
     angles = angle_calculator.get_angle(joints)
 
+    #frame, empty = joint_tracker.draw(frame, empty, angles)
+    
     joint_list = list(joints.keys())
-    logger.info(f"Angles & Lines Are on the Image")
-    for i, j in enumerate(joints):
-        try:
-            cv2.line(frame, (int(joints[j][0]), int(joints[j][1])), (int(joints[joint_list[i+1]][0]), int(joints[joint_list[i+1]][1])), (0, 255, 0), 2, cv2.LINE_AA)
-            cv2.line(empty, (int(joints[j][0]), int(joints[j][1])), (int(joints[joint_list[i+1]][0]), int(joints[joint_list[i+1]][1])), (0, 255, 0), 2, cv2.LINE_AA)
-        except:
-            pass
-
-    for i, angle in enumerate(angles):
-        cv2.putText(frame, f"{round(angles[angle], 1)}", (int(joints[angle][0]), int(joints[angle][1]) - 20), cv2.FONT_HERSHEY_COMPLEX, 0.4, (2, 10, 255), 1, cv2.LINE_AA)
-        # TODO ADD ARC
-        p1 = joints[joint_list[i+1+1]]
-        p2 = joints[angle]
-        p3 = joints[joint_list[i+1-1]]
-
-        world_angle = np.arctan( (p2[1] - p1[1]) / (p2[0] - p1[0]) ) * 180 / np.pi
-
-        if i > 2:
-            cv2.ellipse(frame, (int(p2[0]), int(p2[1])), (20, 20), world_angle - 180, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
-            cv2.ellipse(empty, (int(p2[0]), int(p2[1])), (20, 20), world_angle - 180, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
-        else:
-            cv2.ellipse(frame, (int(p2[0]), int(p2[1])), (20, 20), world_angle, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
-            cv2.ellipse(empty, (int(p2[0]), int(p2[1])), (20, 20), world_angle, 0, int(angles[angle]), (255, 205, 185), 2, cv2.LINE_AA)
 
     cv2.imshow("Image", frame)
 
@@ -111,7 +91,10 @@ while True:
     empty_writer.write(empty)
     logger.info(f"Frame Saved.\n\n\n\n\n")
 
-logger.info(f"All Joint Positions: {joint_tracker.get_all()}\n\n\n\n")
-logger.info(f"All Joint Angles: {angle_calculator.get_all()}")
+angle_data = pd.DataFrame(angle_calculator.get_all())
+angle_data = angle_data.add_suffix('_angle')
+
+angle_data.to_excel("joint_data.xlsx")
+
 video_writer.release()
 empty_writer.release()

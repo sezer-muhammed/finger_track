@@ -1,0 +1,23 @@
+INFO | 485 | keypoint | Camera Started: yesil-el.mp4
+INFO | 502 | keypoint | Resolution H: 1080, W: 1920. Writer Object Created with the Name: manipulandum_red_output.mp4.
+INFO | 502 | keypoint | Filtering Values Set. Hue Min: 24, Saturation Min: 80, Value Min: 20, Hue Max: 118, Saturation Max: 255, Value Max: 205
+INFO | 3153 | eklem_tracker | isaret_uc Has Been Created. Coordinates: x: 356, y: 275
+INFO | 3681 | eklem_tracker | isaret_DIP Has Been Created. Coordinates: x: 421, y: 260
+INFO | 4226 | eklem_tracker | isaret_PIP Has Been Created. Coordinates: x: 466, y: 230
+INFO | 4986 | eklem_tracker | isaret_MP Has Been Created. Coordinates: x: 585, y: 243
+INFO | 5411 | eklem_tracker | CMC Has Been Created. Coordinates: x: 718, y: 331
+INFO | 5874 | eklem_tracker | bas_PIP Has Been Created. Coordinates: x: 600, y: 376
+INFO | 6300 | eklem_tracker | bas_DIP Has Been Created. Coordinates: x: 503, y: 395
+INFO | 6642 | eklem_tracker | bas_uc Has Been Created. Coordinates: x: 411, y: 403
+INFO | 6643 | keypoint | Starting Loop For video. 
+
+
+
+INFO | 6647 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6648 | color_detetor | Filtering Done & Mask Created
+INFO | 6649 | color_detetor | 8 Points Detected on the Image
+INFO | 7061 | eklem_tracker | Results Matched for New Frame
+INFO | 7061 | eklem_tracker | Getting Joints Dict
+INFO | 7061 | angle_calculator | Getting Angle Dict
+INFO | 7061 | eklem_tracker | Joint Points & Names Now Are on the Frame
+INFO | 7061 | eklem_tracker | Angles & Lines Are on the Image

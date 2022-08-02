@@ -1,0 +1,3987 @@
+INFO | 446 | keypoint | Camera Started: yesil-el.mp4
+INFO | 465 | keypoint | Resolution H: 1080, W: 1920. Writer Object Created with the Name: manipulandum_red_output.mp4.
+INFO | 465 | keypoint | Filtering Values Set. Hue Min: 24, Saturation Min: 80, Value Min: 20, Hue Max: 118, Saturation Max: 255, Value Max: 205
+INFO | 1882 | eklem_tracker | isaret_uc Has Been Created. Coordinates: x: 410, y: 242
+INFO | 2298 | eklem_tracker | isaret_DIP Has Been Created. Coordinates: x: 463, y: 186
+INFO | 2722 | eklem_tracker | isaret_PIP Has Been Created. Coordinates: x: 491, y: 149
+INFO | 3330 | eklem_tracker | isaret_MP Has Been Created. Coordinates: x: 600, y: 200
+INFO | 4033 | eklem_tracker | CMC Has Been Created. Coordinates: x: 730, y: 311
+INFO | 4681 | eklem_tracker | bas_PIP Has Been Created. Coordinates: x: 638, y: 358
+INFO | 5202 | eklem_tracker | bas_DIP Has Been Created. Coordinates: x: 524, y: 377
+INFO | 5601 | eklem_tracker | bas_uc Has Been Created. Coordinates: x: 451, y: 380
+INFO | 5602 | keypoint | Starting Loop For video. 
+
+
+
+INFO | 5606 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 5607 | color_detetor | Filtering Done & Mask Created
+INFO | 5608 | color_detetor | 8 Points Detected on the Image
+INFO | 6013 | eklem_tracker | Results Matched for New Frame
+INFO | 6013 | eklem_tracker | Getting Joints Dict
+INFO | 6013 | angle_calculator | Getting Angle Dict
+INFO | 6025 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6028 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6030 | color_detetor | Filtering Done & Mask Created
+INFO | 6031 | color_detetor | 8 Points Detected on the Image
+INFO | 6178 | eklem_tracker | Results Matched for New Frame
+INFO | 6178 | eklem_tracker | Getting Joints Dict
+INFO | 6178 | angle_calculator | Getting Angle Dict
+INFO | 6186 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6190 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6192 | color_detetor | Filtering Done & Mask Created
+INFO | 6192 | color_detetor | 8 Points Detected on the Image
+INFO | 6192 | eklem_tracker | Results Matched for New Frame
+INFO | 6192 | eklem_tracker | Getting Joints Dict
+INFO | 6192 | angle_calculator | Getting Angle Dict
+INFO | 6212 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6216 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6217 | color_detetor | Filtering Done & Mask Created
+INFO | 6218 | color_detetor | 8 Points Detected on the Image
+INFO | 6218 | eklem_tracker | Results Matched for New Frame
+INFO | 6218 | eklem_tracker | Getting Joints Dict
+INFO | 6218 | angle_calculator | Getting Angle Dict
+INFO | 6228 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6232 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6234 | color_detetor | Filtering Done & Mask Created
+INFO | 6235 | color_detetor | 8 Points Detected on the Image
+INFO | 6235 | eklem_tracker | Results Matched for New Frame
+INFO | 6235 | eklem_tracker | Getting Joints Dict
+INFO | 6235 | angle_calculator | Getting Angle Dict
+INFO | 6244 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6248 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6249 | color_detetor | Filtering Done & Mask Created
+INFO | 6250 | color_detetor | 8 Points Detected on the Image
+INFO | 6250 | eklem_tracker | Results Matched for New Frame
+INFO | 6250 | eklem_tracker | Getting Joints Dict
+INFO | 6250 | angle_calculator | Getting Angle Dict
+INFO | 6259 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6263 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6265 | color_detetor | Filtering Done & Mask Created
+INFO | 6266 | color_detetor | 8 Points Detected on the Image
+INFO | 6266 | eklem_tracker | Results Matched for New Frame
+INFO | 6266 | eklem_tracker | Getting Joints Dict
+INFO | 6266 | angle_calculator | Getting Angle Dict
+INFO | 6275 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6279 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6281 | color_detetor | Filtering Done & Mask Created
+INFO | 6281 | color_detetor | 8 Points Detected on the Image
+INFO | 6281 | eklem_tracker | Results Matched for New Frame
+INFO | 6281 | eklem_tracker | Getting Joints Dict
+INFO | 6281 | angle_calculator | Getting Angle Dict
+INFO | 6292 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6296 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6297 | color_detetor | Filtering Done & Mask Created
+INFO | 6298 | color_detetor | 8 Points Detected on the Image
+INFO | 6298 | eklem_tracker | Results Matched for New Frame
+INFO | 6298 | eklem_tracker | Getting Joints Dict
+INFO | 6298 | angle_calculator | Getting Angle Dict
+INFO | 6307 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6311 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6313 | color_detetor | Filtering Done & Mask Created
+INFO | 6313 | color_detetor | 8 Points Detected on the Image
+INFO | 6313 | eklem_tracker | Results Matched for New Frame
+INFO | 6313 | eklem_tracker | Getting Joints Dict
+INFO | 6313 | angle_calculator | Getting Angle Dict
+INFO | 6322 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6326 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6328 | color_detetor | Filtering Done & Mask Created
+INFO | 6329 | color_detetor | 8 Points Detected on the Image
+INFO | 6329 | eklem_tracker | Results Matched for New Frame
+INFO | 6329 | eklem_tracker | Getting Joints Dict
+INFO | 6329 | angle_calculator | Getting Angle Dict
+INFO | 6338 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6341 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6343 | color_detetor | Filtering Done & Mask Created
+INFO | 6343 | color_detetor | 8 Points Detected on the Image
+INFO | 6344 | eklem_tracker | Results Matched for New Frame
+INFO | 6344 | eklem_tracker | Getting Joints Dict
+INFO | 6344 | angle_calculator | Getting Angle Dict
+INFO | 6353 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6356 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6358 | color_detetor | Filtering Done & Mask Created
+INFO | 6359 | color_detetor | 8 Points Detected on the Image
+INFO | 6359 | eklem_tracker | Results Matched for New Frame
+INFO | 6359 | eklem_tracker | Getting Joints Dict
+INFO | 6359 | angle_calculator | Getting Angle Dict
+INFO | 6370 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6374 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6375 | color_detetor | Filtering Done & Mask Created
+INFO | 6376 | color_detetor | 8 Points Detected on the Image
+INFO | 6376 | eklem_tracker | Results Matched for New Frame
+INFO | 6376 | eklem_tracker | Getting Joints Dict
+INFO | 6376 | angle_calculator | Getting Angle Dict
+INFO | 6384 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6388 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6390 | color_detetor | Filtering Done & Mask Created
+INFO | 6391 | color_detetor | 8 Points Detected on the Image
+INFO | 6391 | eklem_tracker | Results Matched for New Frame
+INFO | 6391 | eklem_tracker | Getting Joints Dict
+INFO | 6391 | angle_calculator | Getting Angle Dict
+INFO | 6400 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6404 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6406 | color_detetor | Filtering Done & Mask Created
+INFO | 6406 | color_detetor | 8 Points Detected on the Image
+INFO | 6406 | eklem_tracker | Results Matched for New Frame
+INFO | 6406 | eklem_tracker | Getting Joints Dict
+INFO | 6406 | angle_calculator | Getting Angle Dict
+INFO | 6416 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6420 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6422 | color_detetor | Filtering Done & Mask Created
+INFO | 6422 | color_detetor | 8 Points Detected on the Image
+INFO | 6422 | eklem_tracker | Results Matched for New Frame
+INFO | 6423 | eklem_tracker | Getting Joints Dict
+INFO | 6423 | angle_calculator | Getting Angle Dict
+INFO | 6432 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6436 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6439 | color_detetor | Filtering Done & Mask Created
+INFO | 6439 | color_detetor | 8 Points Detected on the Image
+INFO | 6439 | eklem_tracker | Results Matched for New Frame
+INFO | 6439 | eklem_tracker | Getting Joints Dict
+INFO | 6439 | angle_calculator | Getting Angle Dict
+INFO | 6450 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6454 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6455 | color_detetor | Filtering Done & Mask Created
+INFO | 6456 | color_detetor | 8 Points Detected on the Image
+INFO | 6456 | eklem_tracker | Results Matched for New Frame
+INFO | 6456 | eklem_tracker | Getting Joints Dict
+INFO | 6456 | angle_calculator | Getting Angle Dict
+INFO | 6464 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6468 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6469 | color_detetor | Filtering Done & Mask Created
+INFO | 6470 | color_detetor | 8 Points Detected on the Image
+INFO | 6470 | eklem_tracker | Results Matched for New Frame
+INFO | 6470 | eklem_tracker | Getting Joints Dict
+INFO | 6470 | angle_calculator | Getting Angle Dict
+INFO | 6478 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6482 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6484 | color_detetor | Filtering Done & Mask Created
+INFO | 6485 | color_detetor | 8 Points Detected on the Image
+INFO | 6485 | eklem_tracker | Results Matched for New Frame
+INFO | 6485 | eklem_tracker | Getting Joints Dict
+INFO | 6485 | angle_calculator | Getting Angle Dict
+INFO | 6494 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6498 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6500 | color_detetor | Filtering Done & Mask Created
+INFO | 6500 | color_detetor | 8 Points Detected on the Image
+INFO | 6500 | eklem_tracker | Results Matched for New Frame
+INFO | 6500 | eklem_tracker | Getting Joints Dict
+INFO | 6500 | angle_calculator | Getting Angle Dict
+INFO | 6510 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6514 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6516 | color_detetor | Filtering Done & Mask Created
+INFO | 6517 | color_detetor | 8 Points Detected on the Image
+INFO | 6517 | eklem_tracker | Results Matched for New Frame
+INFO | 6517 | eklem_tracker | Getting Joints Dict
+INFO | 6517 | angle_calculator | Getting Angle Dict
+INFO | 6526 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6530 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6532 | color_detetor | Filtering Done & Mask Created
+INFO | 6532 | color_detetor | 8 Points Detected on the Image
+INFO | 6533 | eklem_tracker | Results Matched for New Frame
+INFO | 6533 | eklem_tracker | Getting Joints Dict
+INFO | 6533 | angle_calculator | Getting Angle Dict
+INFO | 6542 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6546 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6548 | color_detetor | Filtering Done & Mask Created
+INFO | 6549 | color_detetor | 8 Points Detected on the Image
+INFO | 6549 | eklem_tracker | Results Matched for New Frame
+INFO | 6549 | eklem_tracker | Getting Joints Dict
+INFO | 6549 | angle_calculator | Getting Angle Dict
+INFO | 6560 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6564 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6565 | color_detetor | Filtering Done & Mask Created
+INFO | 6566 | color_detetor | 8 Points Detected on the Image
+INFO | 6566 | eklem_tracker | Results Matched for New Frame
+INFO | 6566 | eklem_tracker | Getting Joints Dict
+INFO | 6566 | angle_calculator | Getting Angle Dict
+INFO | 6575 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6579 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6581 | color_detetor | Filtering Done & Mask Created
+INFO | 6582 | color_detetor | 8 Points Detected on the Image
+INFO | 6582 | eklem_tracker | Results Matched for New Frame
+INFO | 6582 | eklem_tracker | Getting Joints Dict
+INFO | 6582 | angle_calculator | Getting Angle Dict
+INFO | 6592 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6596 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6597 | color_detetor | Filtering Done & Mask Created
+INFO | 6598 | color_detetor | 8 Points Detected on the Image
+INFO | 6598 | eklem_tracker | Results Matched for New Frame
+INFO | 6598 | eklem_tracker | Getting Joints Dict
+INFO | 6598 | angle_calculator | Getting Angle Dict
+INFO | 6605 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6609 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6611 | color_detetor | Filtering Done & Mask Created
+INFO | 6612 | color_detetor | 8 Points Detected on the Image
+INFO | 6612 | eklem_tracker | Results Matched for New Frame
+INFO | 6612 | eklem_tracker | Getting Joints Dict
+INFO | 6612 | angle_calculator | Getting Angle Dict
+INFO | 6621 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6625 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6626 | color_detetor | Filtering Done & Mask Created
+INFO | 6627 | color_detetor | 8 Points Detected on the Image
+INFO | 6627 | eklem_tracker | Results Matched for New Frame
+INFO | 6627 | eklem_tracker | Getting Joints Dict
+INFO | 6627 | angle_calculator | Getting Angle Dict
+INFO | 6636 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6640 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6642 | color_detetor | Filtering Done & Mask Created
+INFO | 6643 | color_detetor | 8 Points Detected on the Image
+INFO | 6643 | eklem_tracker | Results Matched for New Frame
+INFO | 6643 | eklem_tracker | Getting Joints Dict
+INFO | 6643 | angle_calculator | Getting Angle Dict
+INFO | 6653 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6657 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6658 | color_detetor | Filtering Done & Mask Created
+INFO | 6659 | color_detetor | 8 Points Detected on the Image
+INFO | 6659 | eklem_tracker | Results Matched for New Frame
+INFO | 6659 | eklem_tracker | Getting Joints Dict
+INFO | 6659 | angle_calculator | Getting Angle Dict
+INFO | 6667 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6671 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6673 | color_detetor | Filtering Done & Mask Created
+INFO | 6674 | color_detetor | 8 Points Detected on the Image
+INFO | 6674 | eklem_tracker | Results Matched for New Frame
+INFO | 6674 | eklem_tracker | Getting Joints Dict
+INFO | 6674 | angle_calculator | Getting Angle Dict
+INFO | 6682 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6687 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6688 | color_detetor | Filtering Done & Mask Created
+INFO | 6689 | color_detetor | 8 Points Detected on the Image
+INFO | 6689 | eklem_tracker | Results Matched for New Frame
+INFO | 6689 | eklem_tracker | Getting Joints Dict
+INFO | 6689 | angle_calculator | Getting Angle Dict
+INFO | 6697 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6701 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6703 | color_detetor | Filtering Done & Mask Created
+INFO | 6703 | color_detetor | 8 Points Detected on the Image
+INFO | 6704 | eklem_tracker | Results Matched for New Frame
+INFO | 6704 | eklem_tracker | Getting Joints Dict
+INFO | 6704 | angle_calculator | Getting Angle Dict
+INFO | 6715 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6718 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6721 | color_detetor | Filtering Done & Mask Created
+INFO | 6721 | color_detetor | 8 Points Detected on the Image
+INFO | 6721 | eklem_tracker | Results Matched for New Frame
+INFO | 6721 | eklem_tracker | Getting Joints Dict
+INFO | 6721 | angle_calculator | Getting Angle Dict
+INFO | 6748 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6752 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6753 | color_detetor | Filtering Done & Mask Created
+INFO | 6754 | color_detetor | 8 Points Detected on the Image
+INFO | 6754 | eklem_tracker | Results Matched for New Frame
+INFO | 6754 | eklem_tracker | Getting Joints Dict
+INFO | 6754 | angle_calculator | Getting Angle Dict
+INFO | 6788 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6792 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6794 | color_detetor | Filtering Done & Mask Created
+INFO | 6794 | color_detetor | 8 Points Detected on the Image
+INFO | 6794 | eklem_tracker | Results Matched for New Frame
+INFO | 6794 | eklem_tracker | Getting Joints Dict
+INFO | 6794 | angle_calculator | Getting Angle Dict
+INFO | 6808 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6812 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6815 | color_detetor | Filtering Done & Mask Created
+INFO | 6815 | color_detetor | 8 Points Detected on the Image
+INFO | 6816 | eklem_tracker | Results Matched for New Frame
+INFO | 6816 | eklem_tracker | Getting Joints Dict
+INFO | 6816 | angle_calculator | Getting Angle Dict
+INFO | 6825 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6829 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6831 | color_detetor | Filtering Done & Mask Created
+INFO | 6831 | color_detetor | 8 Points Detected on the Image
+INFO | 6831 | eklem_tracker | Results Matched for New Frame
+INFO | 6831 | eklem_tracker | Getting Joints Dict
+INFO | 6831 | angle_calculator | Getting Angle Dict
+INFO | 6839 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6843 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6845 | color_detetor | Filtering Done & Mask Created
+INFO | 6845 | color_detetor | 8 Points Detected on the Image
+INFO | 6845 | eklem_tracker | Results Matched for New Frame
+INFO | 6845 | eklem_tracker | Getting Joints Dict
+INFO | 6845 | angle_calculator | Getting Angle Dict
+INFO | 6868 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6872 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6874 | color_detetor | Filtering Done & Mask Created
+INFO | 6874 | color_detetor | 8 Points Detected on the Image
+INFO | 6874 | eklem_tracker | Results Matched for New Frame
+INFO | 6874 | eklem_tracker | Getting Joints Dict
+INFO | 6874 | angle_calculator | Getting Angle Dict
+INFO | 6883 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6887 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6889 | color_detetor | Filtering Done & Mask Created
+INFO | 6890 | color_detetor | 8 Points Detected on the Image
+INFO | 6890 | eklem_tracker | Results Matched for New Frame
+INFO | 6890 | eklem_tracker | Getting Joints Dict
+INFO | 6890 | angle_calculator | Getting Angle Dict
+INFO | 6899 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6903 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6905 | color_detetor | Filtering Done & Mask Created
+INFO | 6905 | color_detetor | 8 Points Detected on the Image
+INFO | 6905 | eklem_tracker | Results Matched for New Frame
+INFO | 6905 | eklem_tracker | Getting Joints Dict
+INFO | 6905 | angle_calculator | Getting Angle Dict
+INFO | 6915 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6919 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6921 | color_detetor | Filtering Done & Mask Created
+INFO | 6922 | color_detetor | 8 Points Detected on the Image
+INFO | 6922 | eklem_tracker | Results Matched for New Frame
+INFO | 6922 | eklem_tracker | Getting Joints Dict
+INFO | 6922 | angle_calculator | Getting Angle Dict
+INFO | 6931 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6934 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6936 | color_detetor | Filtering Done & Mask Created
+INFO | 6936 | color_detetor | 8 Points Detected on the Image
+INFO | 6936 | eklem_tracker | Results Matched for New Frame
+INFO | 6936 | eklem_tracker | Getting Joints Dict
+INFO | 6936 | angle_calculator | Getting Angle Dict
+INFO | 6946 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6950 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6952 | color_detetor | Filtering Done & Mask Created
+INFO | 6953 | color_detetor | 8 Points Detected on the Image
+INFO | 6953 | eklem_tracker | Results Matched for New Frame
+INFO | 6953 | eklem_tracker | Getting Joints Dict
+INFO | 6953 | angle_calculator | Getting Angle Dict
+INFO | 6962 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6966 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6968 | color_detetor | Filtering Done & Mask Created
+INFO | 6969 | color_detetor | 8 Points Detected on the Image
+INFO | 6969 | eklem_tracker | Results Matched for New Frame
+INFO | 6969 | eklem_tracker | Getting Joints Dict
+INFO | 6969 | angle_calculator | Getting Angle Dict
+INFO | 6978 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 6982 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 6984 | color_detetor | Filtering Done & Mask Created
+INFO | 6985 | color_detetor | 8 Points Detected on the Image
+INFO | 6985 | eklem_tracker | Results Matched for New Frame
+INFO | 6985 | eklem_tracker | Getting Joints Dict
+INFO | 6985 | angle_calculator | Getting Angle Dict
+INFO | 6996 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7000 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7002 | color_detetor | Filtering Done & Mask Created
+INFO | 7002 | color_detetor | 8 Points Detected on the Image
+INFO | 7002 | eklem_tracker | Results Matched for New Frame
+INFO | 7002 | eklem_tracker | Getting Joints Dict
+INFO | 7002 | angle_calculator | Getting Angle Dict
+INFO | 7010 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7014 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7016 | color_detetor | Filtering Done & Mask Created
+INFO | 7017 | color_detetor | 8 Points Detected on the Image
+INFO | 7017 | eklem_tracker | Results Matched for New Frame
+INFO | 7017 | eklem_tracker | Getting Joints Dict
+INFO | 7017 | angle_calculator | Getting Angle Dict
+INFO | 7025 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7029 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7031 | color_detetor | Filtering Done & Mask Created
+INFO | 7031 | color_detetor | 8 Points Detected on the Image
+INFO | 7031 | eklem_tracker | Results Matched for New Frame
+INFO | 7032 | eklem_tracker | Getting Joints Dict
+INFO | 7032 | angle_calculator | Getting Angle Dict
+INFO | 7040 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7044 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7046 | color_detetor | Filtering Done & Mask Created
+INFO | 7047 | color_detetor | 8 Points Detected on the Image
+INFO | 7047 | eklem_tracker | Results Matched for New Frame
+INFO | 7047 | eklem_tracker | Getting Joints Dict
+INFO | 7047 | angle_calculator | Getting Angle Dict
+INFO | 7057 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7061 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7062 | color_detetor | Filtering Done & Mask Created
+INFO | 7063 | color_detetor | 8 Points Detected on the Image
+INFO | 7063 | eklem_tracker | Results Matched for New Frame
+INFO | 7063 | eklem_tracker | Getting Joints Dict
+INFO | 7063 | angle_calculator | Getting Angle Dict
+INFO | 7072 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7076 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7078 | color_detetor | Filtering Done & Mask Created
+INFO | 7079 | color_detetor | 8 Points Detected on the Image
+INFO | 7079 | eklem_tracker | Results Matched for New Frame
+INFO | 7079 | eklem_tracker | Getting Joints Dict
+INFO | 7079 | angle_calculator | Getting Angle Dict
+INFO | 7088 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7092 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7094 | color_detetor | Filtering Done & Mask Created
+INFO | 7095 | color_detetor | 8 Points Detected on the Image
+INFO | 7095 | eklem_tracker | Results Matched for New Frame
+INFO | 7095 | eklem_tracker | Getting Joints Dict
+INFO | 7095 | angle_calculator | Getting Angle Dict
+INFO | 7104 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7109 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7111 | color_detetor | Filtering Done & Mask Created
+INFO | 7111 | color_detetor | 8 Points Detected on the Image
+INFO | 7111 | eklem_tracker | Results Matched for New Frame
+INFO | 7111 | eklem_tracker | Getting Joints Dict
+INFO | 7111 | angle_calculator | Getting Angle Dict
+INFO | 7120 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7124 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7126 | color_detetor | Filtering Done & Mask Created
+INFO | 7126 | color_detetor | 8 Points Detected on the Image
+INFO | 7126 | eklem_tracker | Results Matched for New Frame
+INFO | 7127 | eklem_tracker | Getting Joints Dict
+INFO | 7127 | angle_calculator | Getting Angle Dict
+INFO | 7136 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7141 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7143 | color_detetor | Filtering Done & Mask Created
+INFO | 7143 | color_detetor | 8 Points Detected on the Image
+INFO | 7143 | eklem_tracker | Results Matched for New Frame
+INFO | 7144 | eklem_tracker | Getting Joints Dict
+INFO | 7144 | angle_calculator | Getting Angle Dict
+INFO | 7152 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7156 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7158 | color_detetor | Filtering Done & Mask Created
+INFO | 7159 | color_detetor | 8 Points Detected on the Image
+INFO | 7159 | eklem_tracker | Results Matched for New Frame
+INFO | 7159 | eklem_tracker | Getting Joints Dict
+INFO | 7159 | angle_calculator | Getting Angle Dict
+INFO | 7168 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7172 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7174 | color_detetor | Filtering Done & Mask Created
+INFO | 7174 | color_detetor | 8 Points Detected on the Image
+INFO | 7175 | eklem_tracker | Results Matched for New Frame
+INFO | 7175 | eklem_tracker | Getting Joints Dict
+INFO | 7175 | angle_calculator | Getting Angle Dict
+INFO | 7186 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7190 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7192 | color_detetor | Filtering Done & Mask Created
+INFO | 7192 | color_detetor | 8 Points Detected on the Image
+INFO | 7192 | eklem_tracker | Results Matched for New Frame
+INFO | 7192 | eklem_tracker | Getting Joints Dict
+INFO | 7192 | angle_calculator | Getting Angle Dict
+INFO | 7215 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7219 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7221 | color_detetor | Filtering Done & Mask Created
+INFO | 7222 | color_detetor | 8 Points Detected on the Image
+INFO | 7222 | eklem_tracker | Results Matched for New Frame
+INFO | 7222 | eklem_tracker | Getting Joints Dict
+INFO | 7222 | angle_calculator | Getting Angle Dict
+INFO | 7231 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7235 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7237 | color_detetor | Filtering Done & Mask Created
+INFO | 7237 | color_detetor | 8 Points Detected on the Image
+INFO | 7237 | eklem_tracker | Results Matched for New Frame
+INFO | 7237 | eklem_tracker | Getting Joints Dict
+INFO | 7237 | angle_calculator | Getting Angle Dict
+INFO | 7247 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7251 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7253 | color_detetor | Filtering Done & Mask Created
+INFO | 7254 | color_detetor | 8 Points Detected on the Image
+INFO | 7254 | eklem_tracker | Results Matched for New Frame
+INFO | 7254 | eklem_tracker | Getting Joints Dict
+INFO | 7254 | angle_calculator | Getting Angle Dict
+INFO | 7262 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7266 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7268 | color_detetor | Filtering Done & Mask Created
+INFO | 7268 | color_detetor | 8 Points Detected on the Image
+INFO | 7268 | eklem_tracker | Results Matched for New Frame
+INFO | 7269 | eklem_tracker | Getting Joints Dict
+INFO | 7269 | angle_calculator | Getting Angle Dict
+INFO | 7277 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7281 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7283 | color_detetor | Filtering Done & Mask Created
+INFO | 7284 | color_detetor | 8 Points Detected on the Image
+INFO | 7284 | eklem_tracker | Results Matched for New Frame
+INFO | 7284 | eklem_tracker | Getting Joints Dict
+INFO | 7284 | angle_calculator | Getting Angle Dict
+INFO | 7293 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7297 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7299 | color_detetor | Filtering Done & Mask Created
+INFO | 7299 | color_detetor | 8 Points Detected on the Image
+INFO | 7299 | eklem_tracker | Results Matched for New Frame
+INFO | 7299 | eklem_tracker | Getting Joints Dict
+INFO | 7299 | angle_calculator | Getting Angle Dict
+INFO | 7308 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7312 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7314 | color_detetor | Filtering Done & Mask Created
+INFO | 7315 | color_detetor | 8 Points Detected on the Image
+INFO | 7315 | eklem_tracker | Results Matched for New Frame
+INFO | 7315 | eklem_tracker | Getting Joints Dict
+INFO | 7315 | angle_calculator | Getting Angle Dict
+INFO | 7323 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7327 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7329 | color_detetor | Filtering Done & Mask Created
+INFO | 7329 | color_detetor | 8 Points Detected on the Image
+INFO | 7329 | eklem_tracker | Results Matched for New Frame
+INFO | 7329 | eklem_tracker | Getting Joints Dict
+INFO | 7330 | angle_calculator | Getting Angle Dict
+INFO | 7338 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7342 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7344 | color_detetor | Filtering Done & Mask Created
+INFO | 7345 | color_detetor | 8 Points Detected on the Image
+INFO | 7345 | eklem_tracker | Results Matched for New Frame
+INFO | 7345 | eklem_tracker | Getting Joints Dict
+INFO | 7345 | angle_calculator | Getting Angle Dict
+INFO | 7353 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7357 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7359 | color_detetor | Filtering Done & Mask Created
+INFO | 7360 | color_detetor | 8 Points Detected on the Image
+INFO | 7360 | eklem_tracker | Results Matched for New Frame
+INFO | 7360 | eklem_tracker | Getting Joints Dict
+INFO | 7360 | angle_calculator | Getting Angle Dict
+INFO | 7369 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7373 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7375 | color_detetor | Filtering Done & Mask Created
+INFO | 7376 | color_detetor | 8 Points Detected on the Image
+INFO | 7376 | eklem_tracker | Results Matched for New Frame
+INFO | 7376 | eklem_tracker | Getting Joints Dict
+INFO | 7376 | angle_calculator | Getting Angle Dict
+INFO | 7387 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7391 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7393 | color_detetor | Filtering Done & Mask Created
+INFO | 7393 | color_detetor | 8 Points Detected on the Image
+INFO | 7393 | eklem_tracker | Results Matched for New Frame
+INFO | 7393 | eklem_tracker | Getting Joints Dict
+INFO | 7394 | angle_calculator | Getting Angle Dict
+INFO | 7415 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7419 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7420 | color_detetor | Filtering Done & Mask Created
+INFO | 7421 | color_detetor | 8 Points Detected on the Image
+INFO | 7421 | eklem_tracker | Results Matched for New Frame
+INFO | 7421 | eklem_tracker | Getting Joints Dict
+INFO | 7421 | angle_calculator | Getting Angle Dict
+INFO | 7431 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7434 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7436 | color_detetor | Filtering Done & Mask Created
+INFO | 7436 | color_detetor | 8 Points Detected on the Image
+INFO | 7436 | eklem_tracker | Results Matched for New Frame
+INFO | 7436 | eklem_tracker | Getting Joints Dict
+INFO | 7436 | angle_calculator | Getting Angle Dict
+INFO | 7446 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7450 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7452 | color_detetor | Filtering Done & Mask Created
+INFO | 7453 | color_detetor | 8 Points Detected on the Image
+INFO | 7453 | eklem_tracker | Results Matched for New Frame
+INFO | 7453 | eklem_tracker | Getting Joints Dict
+INFO | 7453 | angle_calculator | Getting Angle Dict
+INFO | 7463 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7467 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7468 | color_detetor | Filtering Done & Mask Created
+INFO | 7469 | color_detetor | 8 Points Detected on the Image
+INFO | 7469 | eklem_tracker | Results Matched for New Frame
+INFO | 7469 | eklem_tracker | Getting Joints Dict
+INFO | 7469 | angle_calculator | Getting Angle Dict
+INFO | 7478 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7482 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7484 | color_detetor | Filtering Done & Mask Created
+INFO | 7485 | color_detetor | 8 Points Detected on the Image
+INFO | 7485 | eklem_tracker | Results Matched for New Frame
+INFO | 7485 | eklem_tracker | Getting Joints Dict
+INFO | 7485 | angle_calculator | Getting Angle Dict
+INFO | 7494 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7498 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7500 | color_detetor | Filtering Done & Mask Created
+INFO | 7500 | color_detetor | 8 Points Detected on the Image
+INFO | 7500 | eklem_tracker | Results Matched for New Frame
+INFO | 7500 | eklem_tracker | Getting Joints Dict
+INFO | 7500 | angle_calculator | Getting Angle Dict
+INFO | 7510 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7514 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7516 | color_detetor | Filtering Done & Mask Created
+INFO | 7517 | color_detetor | 8 Points Detected on the Image
+INFO | 7517 | eklem_tracker | Results Matched for New Frame
+INFO | 7517 | eklem_tracker | Getting Joints Dict
+INFO | 7517 | angle_calculator | Getting Angle Dict
+INFO | 7526 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7530 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7532 | color_detetor | Filtering Done & Mask Created
+INFO | 7532 | color_detetor | 8 Points Detected on the Image
+INFO | 7532 | eklem_tracker | Results Matched for New Frame
+INFO | 7532 | eklem_tracker | Getting Joints Dict
+INFO | 7532 | angle_calculator | Getting Angle Dict
+INFO | 7542 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7546 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7548 | color_detetor | Filtering Done & Mask Created
+INFO | 7548 | color_detetor | 8 Points Detected on the Image
+INFO | 7549 | eklem_tracker | Results Matched for New Frame
+INFO | 7549 | eklem_tracker | Getting Joints Dict
+INFO | 7549 | angle_calculator | Getting Angle Dict
+INFO | 7558 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7562 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7564 | color_detetor | Filtering Done & Mask Created
+INFO | 7564 | color_detetor | 8 Points Detected on the Image
+INFO | 7564 | eklem_tracker | Results Matched for New Frame
+INFO | 7564 | eklem_tracker | Getting Joints Dict
+INFO | 7564 | angle_calculator | Getting Angle Dict
+INFO | 7574 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7578 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7580 | color_detetor | Filtering Done & Mask Created
+INFO | 7581 | color_detetor | 8 Points Detected on the Image
+INFO | 7581 | eklem_tracker | Results Matched for New Frame
+INFO | 7581 | eklem_tracker | Getting Joints Dict
+INFO | 7581 | angle_calculator | Getting Angle Dict
+INFO | 7592 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7596 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7597 | color_detetor | Filtering Done & Mask Created
+INFO | 7598 | color_detetor | 8 Points Detected on the Image
+INFO | 7598 | eklem_tracker | Results Matched for New Frame
+INFO | 7598 | eklem_tracker | Getting Joints Dict
+INFO | 7598 | angle_calculator | Getting Angle Dict
+INFO | 7607 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7611 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7613 | color_detetor | Filtering Done & Mask Created
+INFO | 7614 | color_detetor | 8 Points Detected on the Image
+INFO | 7614 | eklem_tracker | Results Matched for New Frame
+INFO | 7614 | eklem_tracker | Getting Joints Dict
+INFO | 7615 | angle_calculator | Getting Angle Dict
+INFO | 7624 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7628 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7630 | color_detetor | Filtering Done & Mask Created
+INFO | 7630 | color_detetor | 8 Points Detected on the Image
+INFO | 7630 | eklem_tracker | Results Matched for New Frame
+INFO | 7630 | eklem_tracker | Getting Joints Dict
+INFO | 7630 | angle_calculator | Getting Angle Dict
+INFO | 7663 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7670 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7672 | color_detetor | Filtering Done & Mask Created
+INFO | 7673 | color_detetor | 8 Points Detected on the Image
+INFO | 7673 | eklem_tracker | Results Matched for New Frame
+INFO | 7673 | eklem_tracker | Getting Joints Dict
+INFO | 7674 | angle_calculator | Getting Angle Dict
+INFO | 7683 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7687 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7689 | color_detetor | Filtering Done & Mask Created
+INFO | 7690 | color_detetor | 8 Points Detected on the Image
+INFO | 7690 | eklem_tracker | Results Matched for New Frame
+INFO | 7690 | eklem_tracker | Getting Joints Dict
+INFO | 7690 | angle_calculator | Getting Angle Dict
+INFO | 7697 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7701 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7703 | color_detetor | Filtering Done & Mask Created
+INFO | 7704 | color_detetor | 8 Points Detected on the Image
+INFO | 7704 | eklem_tracker | Results Matched for New Frame
+INFO | 7704 | eklem_tracker | Getting Joints Dict
+INFO | 7704 | angle_calculator | Getting Angle Dict
+INFO | 7717 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7720 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7722 | color_detetor | Filtering Done & Mask Created
+INFO | 7723 | color_detetor | 8 Points Detected on the Image
+INFO | 7723 | eklem_tracker | Results Matched for New Frame
+INFO | 7723 | eklem_tracker | Getting Joints Dict
+INFO | 7723 | angle_calculator | Getting Angle Dict
+INFO | 7731 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7735 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7737 | color_detetor | Filtering Done & Mask Created
+INFO | 7738 | color_detetor | 8 Points Detected on the Image
+INFO | 7738 | eklem_tracker | Results Matched for New Frame
+INFO | 7738 | eklem_tracker | Getting Joints Dict
+INFO | 7738 | angle_calculator | Getting Angle Dict
+INFO | 7746 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7750 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7752 | color_detetor | Filtering Done & Mask Created
+INFO | 7752 | color_detetor | 8 Points Detected on the Image
+INFO | 7752 | eklem_tracker | Results Matched for New Frame
+INFO | 7752 | eklem_tracker | Getting Joints Dict
+INFO | 7752 | angle_calculator | Getting Angle Dict
+INFO | 7762 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7766 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7768 | color_detetor | Filtering Done & Mask Created
+INFO | 7769 | color_detetor | 8 Points Detected on the Image
+INFO | 7769 | eklem_tracker | Results Matched for New Frame
+INFO | 7769 | eklem_tracker | Getting Joints Dict
+INFO | 7769 | angle_calculator | Getting Angle Dict
+INFO | 7778 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7782 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7784 | color_detetor | Filtering Done & Mask Created
+INFO | 7784 | color_detetor | 8 Points Detected on the Image
+INFO | 7784 | eklem_tracker | Results Matched for New Frame
+INFO | 7784 | eklem_tracker | Getting Joints Dict
+INFO | 7784 | angle_calculator | Getting Angle Dict
+INFO | 7794 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7798 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7800 | color_detetor | Filtering Done & Mask Created
+INFO | 7801 | color_detetor | 8 Points Detected on the Image
+INFO | 7801 | eklem_tracker | Results Matched for New Frame
+INFO | 7801 | eklem_tracker | Getting Joints Dict
+INFO | 7801 | angle_calculator | Getting Angle Dict
+INFO | 7812 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7816 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7817 | color_detetor | Filtering Done & Mask Created
+INFO | 7818 | color_detetor | 8 Points Detected on the Image
+INFO | 7818 | eklem_tracker | Results Matched for New Frame
+INFO | 7818 | eklem_tracker | Getting Joints Dict
+INFO | 7818 | angle_calculator | Getting Angle Dict
+INFO | 7827 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7831 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7833 | color_detetor | Filtering Done & Mask Created
+INFO | 7833 | color_detetor | 8 Points Detected on the Image
+INFO | 7833 | eklem_tracker | Results Matched for New Frame
+INFO | 7833 | eklem_tracker | Getting Joints Dict
+INFO | 7834 | angle_calculator | Getting Angle Dict
+INFO | 7842 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7846 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7848 | color_detetor | Filtering Done & Mask Created
+INFO | 7848 | color_detetor | 8 Points Detected on the Image
+INFO | 7848 | eklem_tracker | Results Matched for New Frame
+INFO | 7849 | eklem_tracker | Getting Joints Dict
+INFO | 7849 | angle_calculator | Getting Angle Dict
+INFO | 7858 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7862 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7864 | color_detetor | Filtering Done & Mask Created
+INFO | 7865 | color_detetor | 8 Points Detected on the Image
+INFO | 7865 | eklem_tracker | Results Matched for New Frame
+INFO | 7865 | eklem_tracker | Getting Joints Dict
+INFO | 7865 | angle_calculator | Getting Angle Dict
+INFO | 7873 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7877 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7879 | color_detetor | Filtering Done & Mask Created
+INFO | 7879 | color_detetor | 8 Points Detected on the Image
+INFO | 7879 | eklem_tracker | Results Matched for New Frame
+INFO | 7879 | eklem_tracker | Getting Joints Dict
+INFO | 7879 | angle_calculator | Getting Angle Dict
+INFO | 7887 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7891 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7893 | color_detetor | Filtering Done & Mask Created
+INFO | 7894 | color_detetor | 8 Points Detected on the Image
+INFO | 7894 | eklem_tracker | Results Matched for New Frame
+INFO | 7894 | eklem_tracker | Getting Joints Dict
+INFO | 7894 | angle_calculator | Getting Angle Dict
+INFO | 7903 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7907 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7909 | color_detetor | Filtering Done & Mask Created
+INFO | 7909 | color_detetor | 8 Points Detected on the Image
+INFO | 7909 | eklem_tracker | Results Matched for New Frame
+INFO | 7909 | eklem_tracker | Getting Joints Dict
+INFO | 7910 | angle_calculator | Getting Angle Dict
+INFO | 7919 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7922 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7924 | color_detetor | Filtering Done & Mask Created
+INFO | 7925 | color_detetor | 8 Points Detected on the Image
+INFO | 7925 | eklem_tracker | Results Matched for New Frame
+INFO | 7925 | eklem_tracker | Getting Joints Dict
+INFO | 7925 | angle_calculator | Getting Angle Dict
+INFO | 7933 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7937 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7939 | color_detetor | Filtering Done & Mask Created
+INFO | 7939 | color_detetor | 8 Points Detected on the Image
+INFO | 7939 | eklem_tracker | Results Matched for New Frame
+INFO | 7939 | eklem_tracker | Getting Joints Dict
+INFO | 7939 | angle_calculator | Getting Angle Dict
+INFO | 7949 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7953 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7955 | color_detetor | Filtering Done & Mask Created
+INFO | 7955 | color_detetor | 8 Points Detected on the Image
+INFO | 7955 | eklem_tracker | Results Matched for New Frame
+INFO | 7956 | eklem_tracker | Getting Joints Dict
+INFO | 7956 | angle_calculator | Getting Angle Dict
+INFO | 7965 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7969 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7971 | color_detetor | Filtering Done & Mask Created
+INFO | 7971 | color_detetor | 8 Points Detected on the Image
+INFO | 7971 | eklem_tracker | Results Matched for New Frame
+INFO | 7971 | eklem_tracker | Getting Joints Dict
+INFO | 7971 | angle_calculator | Getting Angle Dict
+INFO | 7981 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 7985 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 7987 | color_detetor | Filtering Done & Mask Created
+INFO | 7987 | color_detetor | 8 Points Detected on the Image
+INFO | 7988 | eklem_tracker | Results Matched for New Frame
+INFO | 7988 | eklem_tracker | Getting Joints Dict
+INFO | 7988 | angle_calculator | Getting Angle Dict
+INFO | 7998 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8002 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8003 | color_detetor | Filtering Done & Mask Created
+INFO | 8004 | color_detetor | 8 Points Detected on the Image
+INFO | 8004 | eklem_tracker | Results Matched for New Frame
+INFO | 8004 | eklem_tracker | Getting Joints Dict
+INFO | 8004 | angle_calculator | Getting Angle Dict
+INFO | 8034 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8041 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8043 | color_detetor | Filtering Done & Mask Created
+INFO | 8044 | color_detetor | 8 Points Detected on the Image
+INFO | 8044 | eklem_tracker | Results Matched for New Frame
+INFO | 8044 | eklem_tracker | Getting Joints Dict
+INFO | 8044 | angle_calculator | Getting Angle Dict
+INFO | 8053 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8057 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8058 | color_detetor | Filtering Done & Mask Created
+INFO | 8059 | color_detetor | 8 Points Detected on the Image
+INFO | 8059 | eklem_tracker | Results Matched for New Frame
+INFO | 8059 | eklem_tracker | Getting Joints Dict
+INFO | 8059 | angle_calculator | Getting Angle Dict
+INFO | 8074 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8078 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8080 | color_detetor | Filtering Done & Mask Created
+INFO | 8080 | color_detetor | 8 Points Detected on the Image
+INFO | 8081 | eklem_tracker | Results Matched for New Frame
+INFO | 8081 | eklem_tracker | Getting Joints Dict
+INFO | 8081 | angle_calculator | Getting Angle Dict
+INFO | 8090 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8094 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8096 | color_detetor | Filtering Done & Mask Created
+INFO | 8096 | color_detetor | 8 Points Detected on the Image
+INFO | 8096 | eklem_tracker | Results Matched for New Frame
+INFO | 8096 | eklem_tracker | Getting Joints Dict
+INFO | 8096 | angle_calculator | Getting Angle Dict
+INFO | 8106 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8110 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8112 | color_detetor | Filtering Done & Mask Created
+INFO | 8113 | color_detetor | 8 Points Detected on the Image
+INFO | 8113 | eklem_tracker | Results Matched for New Frame
+INFO | 8113 | eklem_tracker | Getting Joints Dict
+INFO | 8113 | angle_calculator | Getting Angle Dict
+INFO | 8122 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8126 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8128 | color_detetor | Filtering Done & Mask Created
+INFO | 8128 | color_detetor | 8 Points Detected on the Image
+INFO | 8128 | eklem_tracker | Results Matched for New Frame
+INFO | 8128 | eklem_tracker | Getting Joints Dict
+INFO | 8128 | angle_calculator | Getting Angle Dict
+INFO | 8138 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8142 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8144 | color_detetor | Filtering Done & Mask Created
+INFO | 8145 | color_detetor | 8 Points Detected on the Image
+INFO | 8145 | eklem_tracker | Results Matched for New Frame
+INFO | 8145 | eklem_tracker | Getting Joints Dict
+INFO | 8145 | angle_calculator | Getting Angle Dict
+INFO | 8154 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8158 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8160 | color_detetor | Filtering Done & Mask Created
+INFO | 8160 | color_detetor | 8 Points Detected on the Image
+INFO | 8160 | eklem_tracker | Results Matched for New Frame
+INFO | 8160 | eklem_tracker | Getting Joints Dict
+INFO | 8160 | angle_calculator | Getting Angle Dict
+INFO | 8170 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8174 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8176 | color_detetor | Filtering Done & Mask Created
+INFO | 8176 | color_detetor | 8 Points Detected on the Image
+INFO | 8177 | eklem_tracker | Results Matched for New Frame
+INFO | 8177 | eklem_tracker | Getting Joints Dict
+INFO | 8177 | angle_calculator | Getting Angle Dict
+INFO | 8186 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8190 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8192 | color_detetor | Filtering Done & Mask Created
+INFO | 8192 | color_detetor | 8 Points Detected on the Image
+INFO | 8192 | eklem_tracker | Results Matched for New Frame
+INFO | 8192 | eklem_tracker | Getting Joints Dict
+INFO | 8192 | angle_calculator | Getting Angle Dict
+INFO | 8201 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8205 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8207 | color_detetor | Filtering Done & Mask Created
+INFO | 8208 | color_detetor | 8 Points Detected on the Image
+INFO | 8208 | eklem_tracker | Results Matched for New Frame
+INFO | 8208 | eklem_tracker | Getting Joints Dict
+INFO | 8208 | angle_calculator | Getting Angle Dict
+INFO | 8218 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8222 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8223 | color_detetor | Filtering Done & Mask Created
+INFO | 8224 | color_detetor | 8 Points Detected on the Image
+INFO | 8224 | eklem_tracker | Results Matched for New Frame
+INFO | 8224 | eklem_tracker | Getting Joints Dict
+INFO | 8224 | angle_calculator | Getting Angle Dict
+INFO | 8234 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8238 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8240 | color_detetor | Filtering Done & Mask Created
+INFO | 8241 | color_detetor | 8 Points Detected on the Image
+INFO | 8241 | eklem_tracker | Results Matched for New Frame
+INFO | 8241 | eklem_tracker | Getting Joints Dict
+INFO | 8241 | angle_calculator | Getting Angle Dict
+INFO | 8273 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8280 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8282 | color_detetor | Filtering Done & Mask Created
+INFO | 8283 | color_detetor | 8 Points Detected on the Image
+INFO | 8283 | eklem_tracker | Results Matched for New Frame
+INFO | 8283 | eklem_tracker | Getting Joints Dict
+INFO | 8283 | angle_calculator | Getting Angle Dict
+INFO | 8292 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8297 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8298 | color_detetor | Filtering Done & Mask Created
+INFO | 8299 | color_detetor | 8 Points Detected on the Image
+INFO | 8299 | eklem_tracker | Results Matched for New Frame
+INFO | 8299 | eklem_tracker | Getting Joints Dict
+INFO | 8299 | angle_calculator | Getting Angle Dict
+INFO | 8307 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8311 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8312 | color_detetor | Filtering Done & Mask Created
+INFO | 8313 | color_detetor | 8 Points Detected on the Image
+INFO | 8313 | eklem_tracker | Results Matched for New Frame
+INFO | 8313 | eklem_tracker | Getting Joints Dict
+INFO | 8313 | angle_calculator | Getting Angle Dict
+INFO | 8325 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8329 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8331 | color_detetor | Filtering Done & Mask Created
+INFO | 8332 | color_detetor | 8 Points Detected on the Image
+INFO | 8332 | eklem_tracker | Results Matched for New Frame
+INFO | 8332 | eklem_tracker | Getting Joints Dict
+INFO | 8332 | angle_calculator | Getting Angle Dict
+INFO | 8341 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8345 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8347 | color_detetor | Filtering Done & Mask Created
+INFO | 8347 | color_detetor | 8 Points Detected on the Image
+INFO | 8347 | eklem_tracker | Results Matched for New Frame
+INFO | 8347 | eklem_tracker | Getting Joints Dict
+INFO | 8347 | angle_calculator | Getting Angle Dict
+INFO | 8358 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8361 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8363 | color_detetor | Filtering Done & Mask Created
+INFO | 8364 | color_detetor | 8 Points Detected on the Image
+INFO | 8364 | eklem_tracker | Results Matched for New Frame
+INFO | 8364 | eklem_tracker | Getting Joints Dict
+INFO | 8364 | angle_calculator | Getting Angle Dict
+INFO | 8373 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8377 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8379 | color_detetor | Filtering Done & Mask Created
+INFO | 8379 | color_detetor | 8 Points Detected on the Image
+INFO | 8379 | eklem_tracker | Results Matched for New Frame
+INFO | 8379 | eklem_tracker | Getting Joints Dict
+INFO | 8379 | angle_calculator | Getting Angle Dict
+INFO | 8389 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8393 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8395 | color_detetor | Filtering Done & Mask Created
+INFO | 8396 | color_detetor | 8 Points Detected on the Image
+INFO | 8396 | eklem_tracker | Results Matched for New Frame
+INFO | 8396 | eklem_tracker | Getting Joints Dict
+INFO | 8396 | angle_calculator | Getting Angle Dict
+INFO | 8405 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8409 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8411 | color_detetor | Filtering Done & Mask Created
+INFO | 8412 | color_detetor | 8 Points Detected on the Image
+INFO | 8412 | eklem_tracker | Results Matched for New Frame
+INFO | 8412 | eklem_tracker | Getting Joints Dict
+INFO | 8412 | angle_calculator | Getting Angle Dict
+INFO | 8421 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8425 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8427 | color_detetor | Filtering Done & Mask Created
+INFO | 8428 | color_detetor | 8 Points Detected on the Image
+INFO | 8428 | eklem_tracker | Results Matched for New Frame
+INFO | 8428 | eklem_tracker | Getting Joints Dict
+INFO | 8428 | angle_calculator | Getting Angle Dict
+INFO | 8451 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8457 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8459 | color_detetor | Filtering Done & Mask Created
+INFO | 8460 | color_detetor | 8 Points Detected on the Image
+INFO | 8460 | eklem_tracker | Results Matched for New Frame
+INFO | 8460 | eklem_tracker | Getting Joints Dict
+INFO | 8460 | angle_calculator | Getting Angle Dict
+INFO | 8469 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8473 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8475 | color_detetor | Filtering Done & Mask Created
+INFO | 8476 | color_detetor | 8 Points Detected on the Image
+INFO | 8476 | eklem_tracker | Results Matched for New Frame
+INFO | 8476 | eklem_tracker | Getting Joints Dict
+INFO | 8476 | angle_calculator | Getting Angle Dict
+INFO | 8485 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8489 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8491 | color_detetor | Filtering Done & Mask Created
+INFO | 8491 | color_detetor | 8 Points Detected on the Image
+INFO | 8491 | eklem_tracker | Results Matched for New Frame
+INFO | 8491 | eklem_tracker | Getting Joints Dict
+INFO | 8491 | angle_calculator | Getting Angle Dict
+INFO | 8501 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8505 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8507 | color_detetor | Filtering Done & Mask Created
+INFO | 8508 | color_detetor | 8 Points Detected on the Image
+INFO | 8508 | eklem_tracker | Results Matched for New Frame
+INFO | 8508 | eklem_tracker | Getting Joints Dict
+INFO | 8508 | angle_calculator | Getting Angle Dict
+INFO | 8517 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8521 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8523 | color_detetor | Filtering Done & Mask Created
+INFO | 8523 | color_detetor | 8 Points Detected on the Image
+INFO | 8523 | eklem_tracker | Results Matched for New Frame
+INFO | 8523 | eklem_tracker | Getting Joints Dict
+INFO | 8523 | angle_calculator | Getting Angle Dict
+INFO | 8533 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8536 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8538 | color_detetor | Filtering Done & Mask Created
+INFO | 8539 | color_detetor | 8 Points Detected on the Image
+INFO | 8539 | eklem_tracker | Results Matched for New Frame
+INFO | 8539 | eklem_tracker | Getting Joints Dict
+INFO | 8539 | angle_calculator | Getting Angle Dict
+INFO | 8548 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8552 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8554 | color_detetor | Filtering Done & Mask Created
+INFO | 8554 | color_detetor | 8 Points Detected on the Image
+INFO | 8554 | eklem_tracker | Results Matched for New Frame
+INFO | 8554 | eklem_tracker | Getting Joints Dict
+INFO | 8554 | angle_calculator | Getting Angle Dict
+INFO | 8564 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8568 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8571 | color_detetor | Filtering Done & Mask Created
+INFO | 8571 | color_detetor | 8 Points Detected on the Image
+INFO | 8571 | eklem_tracker | Results Matched for New Frame
+INFO | 8572 | eklem_tracker | Getting Joints Dict
+INFO | 8572 | angle_calculator | Getting Angle Dict
+INFO | 8581 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8585 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8587 | color_detetor | Filtering Done & Mask Created
+INFO | 8587 | color_detetor | 8 Points Detected on the Image
+INFO | 8587 | eklem_tracker | Results Matched for New Frame
+INFO | 8587 | eklem_tracker | Getting Joints Dict
+INFO | 8587 | angle_calculator | Getting Angle Dict
+INFO | 8622 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8627 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8630 | color_detetor | Filtering Done & Mask Created
+INFO | 8631 | color_detetor | 8 Points Detected on the Image
+INFO | 8631 | eklem_tracker | Results Matched for New Frame
+INFO | 8631 | eklem_tracker | Getting Joints Dict
+INFO | 8631 | angle_calculator | Getting Angle Dict
+INFO | 8641 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8645 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8647 | color_detetor | Filtering Done & Mask Created
+INFO | 8647 | color_detetor | 8 Points Detected on the Image
+INFO | 8647 | eklem_tracker | Results Matched for New Frame
+INFO | 8647 | eklem_tracker | Getting Joints Dict
+INFO | 8647 | angle_calculator | Getting Angle Dict
+INFO | 8654 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8658 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8660 | color_detetor | Filtering Done & Mask Created
+INFO | 8661 | color_detetor | 8 Points Detected on the Image
+INFO | 8661 | eklem_tracker | Results Matched for New Frame
+INFO | 8661 | eklem_tracker | Getting Joints Dict
+INFO | 8661 | angle_calculator | Getting Angle Dict
+INFO | 8686 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8692 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8694 | color_detetor | Filtering Done & Mask Created
+INFO | 8695 | color_detetor | 8 Points Detected on the Image
+INFO | 8695 | eklem_tracker | Results Matched for New Frame
+INFO | 8695 | eklem_tracker | Getting Joints Dict
+INFO | 8695 | angle_calculator | Getting Angle Dict
+INFO | 8704 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8708 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8710 | color_detetor | Filtering Done & Mask Created
+INFO | 8711 | color_detetor | 8 Points Detected on the Image
+INFO | 8711 | eklem_tracker | Results Matched for New Frame
+INFO | 8711 | eklem_tracker | Getting Joints Dict
+INFO | 8711 | angle_calculator | Getting Angle Dict
+INFO | 8732 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8738 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8741 | color_detetor | Filtering Done & Mask Created
+INFO | 8742 | color_detetor | 8 Points Detected on the Image
+INFO | 8742 | eklem_tracker | Results Matched for New Frame
+INFO | 8742 | eklem_tracker | Getting Joints Dict
+INFO | 8742 | angle_calculator | Getting Angle Dict
+INFO | 8751 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8755 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8757 | color_detetor | Filtering Done & Mask Created
+INFO | 8758 | color_detetor | 8 Points Detected on the Image
+INFO | 8758 | eklem_tracker | Results Matched for New Frame
+INFO | 8758 | eklem_tracker | Getting Joints Dict
+INFO | 8758 | angle_calculator | Getting Angle Dict
+INFO | 8766 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8770 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8772 | color_detetor | Filtering Done & Mask Created
+INFO | 8772 | color_detetor | 8 Points Detected on the Image
+INFO | 8772 | eklem_tracker | Results Matched for New Frame
+INFO | 8772 | eklem_tracker | Getting Joints Dict
+INFO | 8772 | angle_calculator | Getting Angle Dict
+INFO | 8786 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8790 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8792 | color_detetor | Filtering Done & Mask Created
+INFO | 8793 | color_detetor | 8 Points Detected on the Image
+INFO | 8793 | eklem_tracker | Results Matched for New Frame
+INFO | 8793 | eklem_tracker | Getting Joints Dict
+INFO | 8793 | angle_calculator | Getting Angle Dict
+INFO | 8802 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8806 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8808 | color_detetor | Filtering Done & Mask Created
+INFO | 8808 | color_detetor | 8 Points Detected on the Image
+INFO | 8808 | eklem_tracker | Results Matched for New Frame
+INFO | 8808 | eklem_tracker | Getting Joints Dict
+INFO | 8808 | angle_calculator | Getting Angle Dict
+INFO | 8815 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8819 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8821 | color_detetor | Filtering Done & Mask Created
+INFO | 8822 | color_detetor | 8 Points Detected on the Image
+INFO | 8822 | eklem_tracker | Results Matched for New Frame
+INFO | 8822 | eklem_tracker | Getting Joints Dict
+INFO | 8822 | angle_calculator | Getting Angle Dict
+INFO | 8830 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8834 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8835 | color_detetor | Filtering Done & Mask Created
+INFO | 8836 | color_detetor | 8 Points Detected on the Image
+INFO | 8836 | eklem_tracker | Results Matched for New Frame
+INFO | 8836 | eklem_tracker | Getting Joints Dict
+INFO | 8836 | angle_calculator | Getting Angle Dict
+INFO | 8844 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8848 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8850 | color_detetor | Filtering Done & Mask Created
+INFO | 8851 | color_detetor | 8 Points Detected on the Image
+INFO | 8851 | eklem_tracker | Results Matched for New Frame
+INFO | 8851 | eklem_tracker | Getting Joints Dict
+INFO | 8851 | angle_calculator | Getting Angle Dict
+INFO | 8859 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8863 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8865 | color_detetor | Filtering Done & Mask Created
+INFO | 8865 | color_detetor | 8 Points Detected on the Image
+INFO | 8865 | eklem_tracker | Results Matched for New Frame
+INFO | 8865 | eklem_tracker | Getting Joints Dict
+INFO | 8865 | angle_calculator | Getting Angle Dict
+INFO | 8874 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8878 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8879 | color_detetor | Filtering Done & Mask Created
+INFO | 8880 | color_detetor | 8 Points Detected on the Image
+INFO | 8880 | eklem_tracker | Results Matched for New Frame
+INFO | 8880 | eklem_tracker | Getting Joints Dict
+INFO | 8880 | angle_calculator | Getting Angle Dict
+INFO | 8889 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8893 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8895 | color_detetor | Filtering Done & Mask Created
+INFO | 8895 | color_detetor | 8 Points Detected on the Image
+INFO | 8895 | eklem_tracker | Results Matched for New Frame
+INFO | 8895 | eklem_tracker | Getting Joints Dict
+INFO | 8895 | angle_calculator | Getting Angle Dict
+INFO | 8904 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8908 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8910 | color_detetor | Filtering Done & Mask Created
+INFO | 8911 | color_detetor | 8 Points Detected on the Image
+INFO | 8911 | eklem_tracker | Results Matched for New Frame
+INFO | 8911 | eklem_tracker | Getting Joints Dict
+INFO | 8911 | angle_calculator | Getting Angle Dict
+INFO | 8939 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8946 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8948 | color_detetor | Filtering Done & Mask Created
+INFO | 8949 | color_detetor | 8 Points Detected on the Image
+INFO | 8949 | eklem_tracker | Results Matched for New Frame
+INFO | 8950 | eklem_tracker | Getting Joints Dict
+INFO | 8950 | angle_calculator | Getting Angle Dict
+INFO | 8959 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8964 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8966 | color_detetor | Filtering Done & Mask Created
+INFO | 8967 | color_detetor | 8 Points Detected on the Image
+INFO | 8967 | eklem_tracker | Results Matched for New Frame
+INFO | 8967 | eklem_tracker | Getting Joints Dict
+INFO | 8967 | angle_calculator | Getting Angle Dict
+INFO | 8974 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8979 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8981 | color_detetor | Filtering Done & Mask Created
+INFO | 8981 | color_detetor | 8 Points Detected on the Image
+INFO | 8981 | eklem_tracker | Results Matched for New Frame
+INFO | 8982 | eklem_tracker | Getting Joints Dict
+INFO | 8982 | angle_calculator | Getting Angle Dict
+INFO | 8992 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 8996 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 8997 | color_detetor | Filtering Done & Mask Created
+INFO | 8998 | color_detetor | 8 Points Detected on the Image
+INFO | 8998 | eklem_tracker | Results Matched for New Frame
+INFO | 8998 | eklem_tracker | Getting Joints Dict
+INFO | 8998 | angle_calculator | Getting Angle Dict
+INFO | 9029 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9035 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9037 | color_detetor | Filtering Done & Mask Created
+INFO | 9038 | color_detetor | 8 Points Detected on the Image
+INFO | 9038 | eklem_tracker | Results Matched for New Frame
+INFO | 9038 | eklem_tracker | Getting Joints Dict
+INFO | 9038 | angle_calculator | Getting Angle Dict
+INFO | 9047 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9052 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9054 | color_detetor | Filtering Done & Mask Created
+INFO | 9054 | color_detetor | 8 Points Detected on the Image
+INFO | 9055 | eklem_tracker | Results Matched for New Frame
+INFO | 9055 | eklem_tracker | Getting Joints Dict
+INFO | 9055 | angle_calculator | Getting Angle Dict
+INFO | 9062 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9066 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9067 | color_detetor | Filtering Done & Mask Created
+INFO | 9068 | color_detetor | 8 Points Detected on the Image
+INFO | 9068 | eklem_tracker | Results Matched for New Frame
+INFO | 9068 | eklem_tracker | Getting Joints Dict
+INFO | 9068 | angle_calculator | Getting Angle Dict
+INFO | 9075 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9079 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9081 | color_detetor | Filtering Done & Mask Created
+INFO | 9082 | color_detetor | 8 Points Detected on the Image
+INFO | 9082 | eklem_tracker | Results Matched for New Frame
+INFO | 9082 | eklem_tracker | Getting Joints Dict
+INFO | 9082 | angle_calculator | Getting Angle Dict
+INFO | 9101 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9105 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9107 | color_detetor | Filtering Done & Mask Created
+INFO | 9107 | color_detetor | 8 Points Detected on the Image
+INFO | 9107 | eklem_tracker | Results Matched for New Frame
+INFO | 9107 | eklem_tracker | Getting Joints Dict
+INFO | 9107 | angle_calculator | Getting Angle Dict
+INFO | 9116 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9120 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9121 | color_detetor | Filtering Done & Mask Created
+INFO | 9122 | color_detetor | 8 Points Detected on the Image
+INFO | 9122 | eklem_tracker | Results Matched for New Frame
+INFO | 9122 | eklem_tracker | Getting Joints Dict
+INFO | 9122 | angle_calculator | Getting Angle Dict
+INFO | 9131 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9135 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9137 | color_detetor | Filtering Done & Mask Created
+INFO | 9137 | color_detetor | 8 Points Detected on the Image
+INFO | 9137 | eklem_tracker | Results Matched for New Frame
+INFO | 9137 | eklem_tracker | Getting Joints Dict
+INFO | 9137 | angle_calculator | Getting Angle Dict
+INFO | 9145 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9149 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9151 | color_detetor | Filtering Done & Mask Created
+INFO | 9152 | color_detetor | 8 Points Detected on the Image
+INFO | 9152 | eklem_tracker | Results Matched for New Frame
+INFO | 9152 | eklem_tracker | Getting Joints Dict
+INFO | 9152 | angle_calculator | Getting Angle Dict
+INFO | 9162 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9166 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9168 | color_detetor | Filtering Done & Mask Created
+INFO | 9168 | color_detetor | 8 Points Detected on the Image
+INFO | 9168 | eklem_tracker | Results Matched for New Frame
+INFO | 9168 | eklem_tracker | Getting Joints Dict
+INFO | 9168 | angle_calculator | Getting Angle Dict
+INFO | 9176 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9180 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9181 | color_detetor | Filtering Done & Mask Created
+INFO | 9182 | color_detetor | 8 Points Detected on the Image
+INFO | 9182 | eklem_tracker | Results Matched for New Frame
+INFO | 9182 | eklem_tracker | Getting Joints Dict
+INFO | 9182 | angle_calculator | Getting Angle Dict
+INFO | 9195 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9199 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9200 | color_detetor | Filtering Done & Mask Created
+INFO | 9201 | color_detetor | 8 Points Detected on the Image
+INFO | 9201 | eklem_tracker | Results Matched for New Frame
+INFO | 9201 | eklem_tracker | Getting Joints Dict
+INFO | 9201 | angle_calculator | Getting Angle Dict
+INFO | 9208 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9211 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9213 | color_detetor | Filtering Done & Mask Created
+INFO | 9214 | color_detetor | 8 Points Detected on the Image
+INFO | 9214 | eklem_tracker | Results Matched for New Frame
+INFO | 9214 | eklem_tracker | Getting Joints Dict
+INFO | 9214 | angle_calculator | Getting Angle Dict
+INFO | 9225 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9229 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9231 | color_detetor | Filtering Done & Mask Created
+INFO | 9231 | color_detetor | 8 Points Detected on the Image
+INFO | 9231 | eklem_tracker | Results Matched for New Frame
+INFO | 9231 | eklem_tracker | Getting Joints Dict
+INFO | 9231 | angle_calculator | Getting Angle Dict
+INFO | 9239 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9243 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9246 | color_detetor | Filtering Done & Mask Created
+INFO | 9247 | color_detetor | 8 Points Detected on the Image
+INFO | 9247 | eklem_tracker | Results Matched for New Frame
+INFO | 9247 | eklem_tracker | Getting Joints Dict
+INFO | 9247 | angle_calculator | Getting Angle Dict
+INFO | 9255 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9259 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9261 | color_detetor | Filtering Done & Mask Created
+INFO | 9261 | color_detetor | 8 Points Detected on the Image
+INFO | 9261 | eklem_tracker | Results Matched for New Frame
+INFO | 9261 | eklem_tracker | Getting Joints Dict
+INFO | 9261 | angle_calculator | Getting Angle Dict
+INFO | 9273 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9277 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9280 | color_detetor | Filtering Done & Mask Created
+INFO | 9280 | color_detetor | 8 Points Detected on the Image
+INFO | 9281 | eklem_tracker | Results Matched for New Frame
+INFO | 9281 | eklem_tracker | Getting Joints Dict
+INFO | 9281 | angle_calculator | Getting Angle Dict
+INFO | 9289 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9293 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9294 | color_detetor | Filtering Done & Mask Created
+INFO | 9295 | color_detetor | 8 Points Detected on the Image
+INFO | 9295 | eklem_tracker | Results Matched for New Frame
+INFO | 9295 | eklem_tracker | Getting Joints Dict
+INFO | 9295 | angle_calculator | Getting Angle Dict
+INFO | 9305 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9309 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9311 | color_detetor | Filtering Done & Mask Created
+INFO | 9312 | color_detetor | 8 Points Detected on the Image
+INFO | 9312 | eklem_tracker | Results Matched for New Frame
+INFO | 9312 | eklem_tracker | Getting Joints Dict
+INFO | 9312 | angle_calculator | Getting Angle Dict
+INFO | 9323 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9327 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9328 | color_detetor | Filtering Done & Mask Created
+INFO | 9329 | color_detetor | 8 Points Detected on the Image
+INFO | 9329 | eklem_tracker | Results Matched for New Frame
+INFO | 9329 | eklem_tracker | Getting Joints Dict
+INFO | 9329 | angle_calculator | Getting Angle Dict
+INFO | 9337 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9342 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9343 | color_detetor | Filtering Done & Mask Created
+INFO | 9344 | color_detetor | 8 Points Detected on the Image
+INFO | 9344 | eklem_tracker | Results Matched for New Frame
+INFO | 9344 | eklem_tracker | Getting Joints Dict
+INFO | 9344 | angle_calculator | Getting Angle Dict
+INFO | 9353 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9357 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9359 | color_detetor | Filtering Done & Mask Created
+INFO | 9359 | color_detetor | 8 Points Detected on the Image
+INFO | 9359 | eklem_tracker | Results Matched for New Frame
+INFO | 9359 | eklem_tracker | Getting Joints Dict
+INFO | 9359 | angle_calculator | Getting Angle Dict
+INFO | 9368 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9372 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9374 | color_detetor | Filtering Done & Mask Created
+INFO | 9375 | color_detetor | 8 Points Detected on the Image
+INFO | 9375 | eklem_tracker | Results Matched for New Frame
+INFO | 9375 | eklem_tracker | Getting Joints Dict
+INFO | 9375 | angle_calculator | Getting Angle Dict
+INFO | 9383 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9387 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9389 | color_detetor | Filtering Done & Mask Created
+INFO | 9389 | color_detetor | 8 Points Detected on the Image
+INFO | 9390 | eklem_tracker | Results Matched for New Frame
+INFO | 9390 | eklem_tracker | Getting Joints Dict
+INFO | 9390 | angle_calculator | Getting Angle Dict
+INFO | 9399 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9403 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9405 | color_detetor | Filtering Done & Mask Created
+INFO | 9406 | color_detetor | 8 Points Detected on the Image
+INFO | 9406 | eklem_tracker | Results Matched for New Frame
+INFO | 9406 | eklem_tracker | Getting Joints Dict
+INFO | 9406 | angle_calculator | Getting Angle Dict
+INFO | 9416 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9420 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9421 | color_detetor | Filtering Done & Mask Created
+INFO | 9422 | color_detetor | 8 Points Detected on the Image
+INFO | 9422 | eklem_tracker | Results Matched for New Frame
+INFO | 9422 | eklem_tracker | Getting Joints Dict
+INFO | 9422 | angle_calculator | Getting Angle Dict
+INFO | 9431 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9435 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9437 | color_detetor | Filtering Done & Mask Created
+INFO | 9438 | color_detetor | 8 Points Detected on the Image
+INFO | 9438 | eklem_tracker | Results Matched for New Frame
+INFO | 9438 | eklem_tracker | Getting Joints Dict
+INFO | 9438 | angle_calculator | Getting Angle Dict
+INFO | 9447 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9451 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9453 | color_detetor | Filtering Done & Mask Created
+INFO | 9453 | color_detetor | 8 Points Detected on the Image
+INFO | 9454 | eklem_tracker | Results Matched for New Frame
+INFO | 9454 | eklem_tracker | Getting Joints Dict
+INFO | 9454 | angle_calculator | Getting Angle Dict
+INFO | 9462 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9466 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9468 | color_detetor | Filtering Done & Mask Created
+INFO | 9469 | color_detetor | 8 Points Detected on the Image
+INFO | 9469 | eklem_tracker | Results Matched for New Frame
+INFO | 9469 | eklem_tracker | Getting Joints Dict
+INFO | 9469 | angle_calculator | Getting Angle Dict
+INFO | 9477 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9481 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9483 | color_detetor | Filtering Done & Mask Created
+INFO | 9483 | color_detetor | 8 Points Detected on the Image
+INFO | 9483 | eklem_tracker | Results Matched for New Frame
+INFO | 9483 | eklem_tracker | Getting Joints Dict
+INFO | 9484 | angle_calculator | Getting Angle Dict
+INFO | 9493 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9497 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9499 | color_detetor | Filtering Done & Mask Created
+INFO | 9500 | color_detetor | 8 Points Detected on the Image
+INFO | 9500 | eklem_tracker | Results Matched for New Frame
+INFO | 9500 | eklem_tracker | Getting Joints Dict
+INFO | 9500 | angle_calculator | Getting Angle Dict
+INFO | 9511 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9515 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9516 | color_detetor | Filtering Done & Mask Created
+INFO | 9517 | color_detetor | 8 Points Detected on the Image
+INFO | 9517 | eklem_tracker | Results Matched for New Frame
+INFO | 9517 | eklem_tracker | Getting Joints Dict
+INFO | 9517 | angle_calculator | Getting Angle Dict
+INFO | 9526 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9529 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9531 | color_detetor | Filtering Done & Mask Created
+INFO | 9532 | color_detetor | 8 Points Detected on the Image
+INFO | 9532 | eklem_tracker | Results Matched for New Frame
+INFO | 9532 | eklem_tracker | Getting Joints Dict
+INFO | 9532 | angle_calculator | Getting Angle Dict
+INFO | 9540 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9544 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9546 | color_detetor | Filtering Done & Mask Created
+INFO | 9546 | color_detetor | 8 Points Detected on the Image
+INFO | 9546 | eklem_tracker | Results Matched for New Frame
+INFO | 9546 | eklem_tracker | Getting Joints Dict
+INFO | 9547 | angle_calculator | Getting Angle Dict
+INFO | 9555 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9559 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9561 | color_detetor | Filtering Done & Mask Created
+INFO | 9562 | color_detetor | 8 Points Detected on the Image
+INFO | 9562 | eklem_tracker | Results Matched for New Frame
+INFO | 9562 | eklem_tracker | Getting Joints Dict
+INFO | 9562 | angle_calculator | Getting Angle Dict
+INFO | 9572 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9576 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9578 | color_detetor | Filtering Done & Mask Created
+INFO | 9578 | color_detetor | 8 Points Detected on the Image
+INFO | 9578 | eklem_tracker | Results Matched for New Frame
+INFO | 9578 | eklem_tracker | Getting Joints Dict
+INFO | 9578 | angle_calculator | Getting Angle Dict
+INFO | 9587 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9590 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9593 | color_detetor | Filtering Done & Mask Created
+INFO | 9593 | color_detetor | 8 Points Detected on the Image
+INFO | 9593 | eklem_tracker | Results Matched for New Frame
+INFO | 9593 | eklem_tracker | Getting Joints Dict
+INFO | 9593 | angle_calculator | Getting Angle Dict
+INFO | 9602 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9606 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9609 | color_detetor | Filtering Done & Mask Created
+INFO | 9609 | color_detetor | 8 Points Detected on the Image
+INFO | 9610 | eklem_tracker | Results Matched for New Frame
+INFO | 9610 | eklem_tracker | Getting Joints Dict
+INFO | 9610 | angle_calculator | Getting Angle Dict
+INFO | 9619 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9623 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9625 | color_detetor | Filtering Done & Mask Created
+INFO | 9626 | color_detetor | 8 Points Detected on the Image
+INFO | 9626 | eklem_tracker | Results Matched for New Frame
+INFO | 9626 | eklem_tracker | Getting Joints Dict
+INFO | 9626 | angle_calculator | Getting Angle Dict
+INFO | 9634 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9638 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9640 | color_detetor | Filtering Done & Mask Created
+INFO | 9640 | color_detetor | 8 Points Detected on the Image
+INFO | 9640 | eklem_tracker | Results Matched for New Frame
+INFO | 9640 | eklem_tracker | Getting Joints Dict
+INFO | 9640 | angle_calculator | Getting Angle Dict
+INFO | 9650 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9654 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9656 | color_detetor | Filtering Done & Mask Created
+INFO | 9657 | color_detetor | 8 Points Detected on the Image
+INFO | 9657 | eklem_tracker | Results Matched for New Frame
+INFO | 9657 | eklem_tracker | Getting Joints Dict
+INFO | 9657 | angle_calculator | Getting Angle Dict
+INFO | 9666 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9670 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9672 | color_detetor | Filtering Done & Mask Created
+INFO | 9672 | color_detetor | 8 Points Detected on the Image
+INFO | 9672 | eklem_tracker | Results Matched for New Frame
+INFO | 9672 | eklem_tracker | Getting Joints Dict
+INFO | 9672 | angle_calculator | Getting Angle Dict
+INFO | 9682 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9686 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9688 | color_detetor | Filtering Done & Mask Created
+INFO | 9688 | color_detetor | 8 Points Detected on the Image
+INFO | 9689 | eklem_tracker | Results Matched for New Frame
+INFO | 9689 | eklem_tracker | Getting Joints Dict
+INFO | 9689 | angle_calculator | Getting Angle Dict
+INFO | 9700 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9704 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9705 | color_detetor | Filtering Done & Mask Created
+INFO | 9706 | color_detetor | 8 Points Detected on the Image
+INFO | 9706 | eklem_tracker | Results Matched for New Frame
+INFO | 9706 | eklem_tracker | Getting Joints Dict
+INFO | 9706 | angle_calculator | Getting Angle Dict
+INFO | 9715 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9718 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9720 | color_detetor | Filtering Done & Mask Created
+INFO | 9721 | color_detetor | 8 Points Detected on the Image
+INFO | 9721 | eklem_tracker | Results Matched for New Frame
+INFO | 9721 | eklem_tracker | Getting Joints Dict
+INFO | 9721 | angle_calculator | Getting Angle Dict
+INFO | 9730 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9734 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9736 | color_detetor | Filtering Done & Mask Created
+INFO | 9736 | color_detetor | 8 Points Detected on the Image
+INFO | 9736 | eklem_tracker | Results Matched for New Frame
+INFO | 9736 | eklem_tracker | Getting Joints Dict
+INFO | 9736 | angle_calculator | Getting Angle Dict
+INFO | 9743 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9747 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9749 | color_detetor | Filtering Done & Mask Created
+INFO | 9750 | color_detetor | 8 Points Detected on the Image
+INFO | 9750 | eklem_tracker | Results Matched for New Frame
+INFO | 9750 | eklem_tracker | Getting Joints Dict
+INFO | 9750 | angle_calculator | Getting Angle Dict
+INFO | 9760 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9764 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9767 | color_detetor | Filtering Done & Mask Created
+INFO | 9767 | color_detetor | 8 Points Detected on the Image
+INFO | 9767 | eklem_tracker | Results Matched for New Frame
+INFO | 9767 | eklem_tracker | Getting Joints Dict
+INFO | 9767 | angle_calculator | Getting Angle Dict
+INFO | 9777 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9781 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9783 | color_detetor | Filtering Done & Mask Created
+INFO | 9783 | color_detetor | 8 Points Detected on the Image
+INFO | 9783 | eklem_tracker | Results Matched for New Frame
+INFO | 9783 | eklem_tracker | Getting Joints Dict
+INFO | 9784 | angle_calculator | Getting Angle Dict
+INFO | 9792 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9796 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9798 | color_detetor | Filtering Done & Mask Created
+INFO | 9798 | color_detetor | 8 Points Detected on the Image
+INFO | 9798 | eklem_tracker | Results Matched for New Frame
+INFO | 9798 | eklem_tracker | Getting Joints Dict
+INFO | 9798 | angle_calculator | Getting Angle Dict
+INFO | 9808 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9813 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9814 | color_detetor | Filtering Done & Mask Created
+INFO | 9815 | color_detetor | 8 Points Detected on the Image
+INFO | 9815 | eklem_tracker | Results Matched for New Frame
+INFO | 9815 | eklem_tracker | Getting Joints Dict
+INFO | 9815 | angle_calculator | Getting Angle Dict
+INFO | 9824 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9828 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9830 | color_detetor | Filtering Done & Mask Created
+INFO | 9830 | color_detetor | 8 Points Detected on the Image
+INFO | 9830 | eklem_tracker | Results Matched for New Frame
+INFO | 9830 | eklem_tracker | Getting Joints Dict
+INFO | 9830 | angle_calculator | Getting Angle Dict
+INFO | 9840 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9844 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9846 | color_detetor | Filtering Done & Mask Created
+INFO | 9846 | color_detetor | 8 Points Detected on the Image
+INFO | 9847 | eklem_tracker | Results Matched for New Frame
+INFO | 9847 | eklem_tracker | Getting Joints Dict
+INFO | 9847 | angle_calculator | Getting Angle Dict
+INFO | 9856 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9860 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9862 | color_detetor | Filtering Done & Mask Created
+INFO | 9862 | color_detetor | 8 Points Detected on the Image
+INFO | 9862 | eklem_tracker | Results Matched for New Frame
+INFO | 9862 | eklem_tracker | Getting Joints Dict
+INFO | 9862 | angle_calculator | Getting Angle Dict
+INFO | 9872 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9876 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9879 | color_detetor | Filtering Done & Mask Created
+INFO | 9880 | color_detetor | 8 Points Detected on the Image
+INFO | 9880 | eklem_tracker | Results Matched for New Frame
+INFO | 9880 | eklem_tracker | Getting Joints Dict
+INFO | 9880 | angle_calculator | Getting Angle Dict
+INFO | 9891 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9895 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9896 | color_detetor | Filtering Done & Mask Created
+INFO | 9897 | color_detetor | 8 Points Detected on the Image
+INFO | 9897 | eklem_tracker | Results Matched for New Frame
+INFO | 9897 | eklem_tracker | Getting Joints Dict
+INFO | 9897 | angle_calculator | Getting Angle Dict
+INFO | 9932 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9938 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9941 | color_detetor | Filtering Done & Mask Created
+INFO | 9942 | color_detetor | 8 Points Detected on the Image
+INFO | 9942 | eklem_tracker | Results Matched for New Frame
+INFO | 9942 | eklem_tracker | Getting Joints Dict
+INFO | 9942 | angle_calculator | Getting Angle Dict
+INFO | 9952 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9956 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9958 | color_detetor | Filtering Done & Mask Created
+INFO | 9958 | color_detetor | 8 Points Detected on the Image
+INFO | 9958 | eklem_tracker | Results Matched for New Frame
+INFO | 9958 | eklem_tracker | Getting Joints Dict
+INFO | 9958 | angle_calculator | Getting Angle Dict
+INFO | 9966 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9969 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 9971 | color_detetor | Filtering Done & Mask Created
+INFO | 9972 | color_detetor | 8 Points Detected on the Image
+INFO | 9972 | eklem_tracker | Results Matched for New Frame
+INFO | 9972 | eklem_tracker | Getting Joints Dict
+INFO | 9972 | angle_calculator | Getting Angle Dict
+INFO | 9993 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 9998 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10000 | color_detetor | Filtering Done & Mask Created
+INFO | 10001 | color_detetor | 8 Points Detected on the Image
+INFO | 10001 | eklem_tracker | Results Matched for New Frame
+INFO | 10001 | eklem_tracker | Getting Joints Dict
+INFO | 10001 | angle_calculator | Getting Angle Dict
+INFO | 10015 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10019 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10021 | color_detetor | Filtering Done & Mask Created
+INFO | 10022 | color_detetor | 8 Points Detected on the Image
+INFO | 10022 | eklem_tracker | Results Matched for New Frame
+INFO | 10022 | eklem_tracker | Getting Joints Dict
+INFO | 10022 | angle_calculator | Getting Angle Dict
+INFO | 10031 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10035 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10037 | color_detetor | Filtering Done & Mask Created
+INFO | 10037 | color_detetor | 8 Points Detected on the Image
+INFO | 10037 | eklem_tracker | Results Matched for New Frame
+INFO | 10037 | eklem_tracker | Getting Joints Dict
+INFO | 10037 | angle_calculator | Getting Angle Dict
+INFO | 10048 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10052 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10053 | color_detetor | Filtering Done & Mask Created
+INFO | 10054 | color_detetor | 8 Points Detected on the Image
+INFO | 10054 | eklem_tracker | Results Matched for New Frame
+INFO | 10054 | eklem_tracker | Getting Joints Dict
+INFO | 10054 | angle_calculator | Getting Angle Dict
+INFO | 10063 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10067 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10069 | color_detetor | Filtering Done & Mask Created
+INFO | 10069 | color_detetor | 8 Points Detected on the Image
+INFO | 10069 | eklem_tracker | Results Matched for New Frame
+INFO | 10069 | eklem_tracker | Getting Joints Dict
+INFO | 10069 | angle_calculator | Getting Angle Dict
+INFO | 10079 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10083 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10085 | color_detetor | Filtering Done & Mask Created
+INFO | 10085 | color_detetor | 8 Points Detected on the Image
+INFO | 10085 | eklem_tracker | Results Matched for New Frame
+INFO | 10086 | eklem_tracker | Getting Joints Dict
+INFO | 10086 | angle_calculator | Getting Angle Dict
+INFO | 10095 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10099 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10101 | color_detetor | Filtering Done & Mask Created
+INFO | 10101 | color_detetor | 8 Points Detected on the Image
+INFO | 10101 | eklem_tracker | Results Matched for New Frame
+INFO | 10101 | eklem_tracker | Getting Joints Dict
+INFO | 10101 | angle_calculator | Getting Angle Dict
+INFO | 10110 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10114 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10116 | color_detetor | Filtering Done & Mask Created
+INFO | 10116 | color_detetor | 8 Points Detected on the Image
+INFO | 10117 | eklem_tracker | Results Matched for New Frame
+INFO | 10117 | eklem_tracker | Getting Joints Dict
+INFO | 10117 | angle_calculator | Getting Angle Dict
+INFO | 10128 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10132 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10134 | color_detetor | Filtering Done & Mask Created
+INFO | 10134 | color_detetor | 8 Points Detected on the Image
+INFO | 10134 | eklem_tracker | Results Matched for New Frame
+INFO | 10134 | eklem_tracker | Getting Joints Dict
+INFO | 10134 | angle_calculator | Getting Angle Dict
+INFO | 10142 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10146 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10147 | color_detetor | Filtering Done & Mask Created
+INFO | 10148 | color_detetor | 8 Points Detected on the Image
+INFO | 10148 | eklem_tracker | Results Matched for New Frame
+INFO | 10148 | eklem_tracker | Getting Joints Dict
+INFO | 10148 | angle_calculator | Getting Angle Dict
+INFO | 10157 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10161 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10163 | color_detetor | Filtering Done & Mask Created
+INFO | 10163 | color_detetor | 8 Points Detected on the Image
+INFO | 10163 | eklem_tracker | Results Matched for New Frame
+INFO | 10163 | eklem_tracker | Getting Joints Dict
+INFO | 10163 | angle_calculator | Getting Angle Dict
+INFO | 10173 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10177 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10179 | color_detetor | Filtering Done & Mask Created
+INFO | 10179 | color_detetor | 8 Points Detected on the Image
+INFO | 10180 | eklem_tracker | Results Matched for New Frame
+INFO | 10180 | eklem_tracker | Getting Joints Dict
+INFO | 10180 | angle_calculator | Getting Angle Dict
+INFO | 10189 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10193 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10195 | color_detetor | Filtering Done & Mask Created
+INFO | 10195 | color_detetor | 8 Points Detected on the Image
+INFO | 10195 | eklem_tracker | Results Matched for New Frame
+INFO | 10196 | eklem_tracker | Getting Joints Dict
+INFO | 10196 | angle_calculator | Getting Angle Dict
+INFO | 10205 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10209 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10211 | color_detetor | Filtering Done & Mask Created
+INFO | 10212 | color_detetor | 8 Points Detected on the Image
+INFO | 10212 | eklem_tracker | Results Matched for New Frame
+INFO | 10212 | eklem_tracker | Getting Joints Dict
+INFO | 10212 | angle_calculator | Getting Angle Dict
+INFO | 10220 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10224 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10226 | color_detetor | Filtering Done & Mask Created
+INFO | 10226 | color_detetor | 8 Points Detected on the Image
+INFO | 10226 | eklem_tracker | Results Matched for New Frame
+INFO | 10226 | eklem_tracker | Getting Joints Dict
+INFO | 10226 | angle_calculator | Getting Angle Dict
+INFO | 10235 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10239 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10241 | color_detetor | Filtering Done & Mask Created
+INFO | 10242 | color_detetor | 8 Points Detected on the Image
+INFO | 10242 | eklem_tracker | Results Matched for New Frame
+INFO | 10242 | eklem_tracker | Getting Joints Dict
+INFO | 10242 | angle_calculator | Getting Angle Dict
+INFO | 10251 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10255 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10257 | color_detetor | Filtering Done & Mask Created
+INFO | 10257 | color_detetor | 8 Points Detected on the Image
+INFO | 10257 | eklem_tracker | Results Matched for New Frame
+INFO | 10257 | eklem_tracker | Getting Joints Dict
+INFO | 10257 | angle_calculator | Getting Angle Dict
+INFO | 10267 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10271 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10273 | color_detetor | Filtering Done & Mask Created
+INFO | 10274 | color_detetor | 8 Points Detected on the Image
+INFO | 10274 | eklem_tracker | Results Matched for New Frame
+INFO | 10274 | eklem_tracker | Getting Joints Dict
+INFO | 10274 | angle_calculator | Getting Angle Dict
+INFO | 10283 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10287 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10289 | color_detetor | Filtering Done & Mask Created
+INFO | 10289 | color_detetor | 8 Points Detected on the Image
+INFO | 10289 | eklem_tracker | Results Matched for New Frame
+INFO | 10290 | eklem_tracker | Getting Joints Dict
+INFO | 10290 | angle_calculator | Getting Angle Dict
+INFO | 10299 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10303 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10305 | color_detetor | Filtering Done & Mask Created
+INFO | 10306 | color_detetor | 8 Points Detected on the Image
+INFO | 10306 | eklem_tracker | Results Matched for New Frame
+INFO | 10306 | eklem_tracker | Getting Joints Dict
+INFO | 10306 | angle_calculator | Getting Angle Dict
+INFO | 10317 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10321 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10322 | color_detetor | Filtering Done & Mask Created
+INFO | 10323 | color_detetor | 8 Points Detected on the Image
+INFO | 10323 | eklem_tracker | Results Matched for New Frame
+INFO | 10323 | eklem_tracker | Getting Joints Dict
+INFO | 10323 | angle_calculator | Getting Angle Dict
+INFO | 10355 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10360 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10364 | color_detetor | Filtering Done & Mask Created
+INFO | 10364 | color_detetor | 8 Points Detected on the Image
+INFO | 10364 | eklem_tracker | Results Matched for New Frame
+INFO | 10364 | eklem_tracker | Getting Joints Dict
+INFO | 10364 | angle_calculator | Getting Angle Dict
+INFO | 10373 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10378 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10379 | color_detetor | Filtering Done & Mask Created
+INFO | 10380 | color_detetor | 8 Points Detected on the Image
+INFO | 10380 | eklem_tracker | Results Matched for New Frame
+INFO | 10380 | eklem_tracker | Getting Joints Dict
+INFO | 10380 | angle_calculator | Getting Angle Dict
+INFO | 10387 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10391 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10393 | color_detetor | Filtering Done & Mask Created
+INFO | 10393 | color_detetor | 8 Points Detected on the Image
+INFO | 10393 | eklem_tracker | Results Matched for New Frame
+INFO | 10393 | eklem_tracker | Getting Joints Dict
+INFO | 10393 | angle_calculator | Getting Angle Dict
+INFO | 10418 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10425 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10427 | color_detetor | Filtering Done & Mask Created
+INFO | 10428 | color_detetor | 8 Points Detected on the Image
+INFO | 10428 | eklem_tracker | Results Matched for New Frame
+INFO | 10428 | eklem_tracker | Getting Joints Dict
+INFO | 10428 | angle_calculator | Getting Angle Dict
+INFO | 10437 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10442 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10444 | color_detetor | Filtering Done & Mask Created
+INFO | 10444 | color_detetor | 8 Points Detected on the Image
+INFO | 10444 | eklem_tracker | Results Matched for New Frame
+INFO | 10444 | eklem_tracker | Getting Joints Dict
+INFO | 10444 | angle_calculator | Getting Angle Dict
+INFO | 10452 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10456 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10457 | color_detetor | Filtering Done & Mask Created
+INFO | 10458 | color_detetor | 8 Points Detected on the Image
+INFO | 10458 | eklem_tracker | Results Matched for New Frame
+INFO | 10458 | eklem_tracker | Getting Joints Dict
+INFO | 10458 | angle_calculator | Getting Angle Dict
+INFO | 10473 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10477 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10478 | color_detetor | Filtering Done & Mask Created
+INFO | 10479 | color_detetor | 8 Points Detected on the Image
+INFO | 10479 | eklem_tracker | Results Matched for New Frame
+INFO | 10479 | eklem_tracker | Getting Joints Dict
+INFO | 10479 | angle_calculator | Getting Angle Dict
+INFO | 10488 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10492 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10494 | color_detetor | Filtering Done & Mask Created
+INFO | 10494 | color_detetor | 8 Points Detected on the Image
+INFO | 10494 | eklem_tracker | Results Matched for New Frame
+INFO | 10494 | eklem_tracker | Getting Joints Dict
+INFO | 10494 | angle_calculator | Getting Angle Dict
+INFO | 10504 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10508 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10510 | color_detetor | Filtering Done & Mask Created
+INFO | 10511 | color_detetor | 8 Points Detected on the Image
+INFO | 10511 | eklem_tracker | Results Matched for New Frame
+INFO | 10511 | eklem_tracker | Getting Joints Dict
+INFO | 10511 | angle_calculator | Getting Angle Dict
+INFO | 10520 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10524 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10526 | color_detetor | Filtering Done & Mask Created
+INFO | 10526 | color_detetor | 8 Points Detected on the Image
+INFO | 10526 | eklem_tracker | Results Matched for New Frame
+INFO | 10526 | eklem_tracker | Getting Joints Dict
+INFO | 10526 | angle_calculator | Getting Angle Dict
+INFO | 10535 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10539 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10541 | color_detetor | Filtering Done & Mask Created
+INFO | 10542 | color_detetor | 8 Points Detected on the Image
+INFO | 10542 | eklem_tracker | Results Matched for New Frame
+INFO | 10542 | eklem_tracker | Getting Joints Dict
+INFO | 10542 | angle_calculator | Getting Angle Dict
+INFO | 10552 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10556 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10557 | color_detetor | Filtering Done & Mask Created
+INFO | 10558 | color_detetor | 8 Points Detected on the Image
+INFO | 10558 | eklem_tracker | Results Matched for New Frame
+INFO | 10558 | eklem_tracker | Getting Joints Dict
+INFO | 10558 | angle_calculator | Getting Angle Dict
+INFO | 10566 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10570 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10572 | color_detetor | Filtering Done & Mask Created
+INFO | 10573 | color_detetor | 8 Points Detected on the Image
+INFO | 10573 | eklem_tracker | Results Matched for New Frame
+INFO | 10573 | eklem_tracker | Getting Joints Dict
+INFO | 10573 | angle_calculator | Getting Angle Dict
+INFO | 10582 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10586 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10588 | color_detetor | Filtering Done & Mask Created
+INFO | 10588 | color_detetor | 8 Points Detected on the Image
+INFO | 10588 | eklem_tracker | Results Matched for New Frame
+INFO | 10588 | eklem_tracker | Getting Joints Dict
+INFO | 10588 | angle_calculator | Getting Angle Dict
+INFO | 10598 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10602 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10604 | color_detetor | Filtering Done & Mask Created
+INFO | 10604 | color_detetor | 8 Points Detected on the Image
+INFO | 10604 | eklem_tracker | Results Matched for New Frame
+INFO | 10604 | eklem_tracker | Getting Joints Dict
+INFO | 10605 | angle_calculator | Getting Angle Dict
+INFO | 10614 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10618 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10620 | color_detetor | Filtering Done & Mask Created
+INFO | 10620 | color_detetor | 8 Points Detected on the Image
+INFO | 10620 | eklem_tracker | Results Matched for New Frame
+INFO | 10620 | eklem_tracker | Getting Joints Dict
+INFO | 10620 | angle_calculator | Getting Angle Dict
+INFO | 10630 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10634 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10636 | color_detetor | Filtering Done & Mask Created
+INFO | 10637 | color_detetor | 8 Points Detected on the Image
+INFO | 10637 | eklem_tracker | Results Matched for New Frame
+INFO | 10637 | eklem_tracker | Getting Joints Dict
+INFO | 10637 | angle_calculator | Getting Angle Dict
+INFO | 10646 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10650 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10652 | color_detetor | Filtering Done & Mask Created
+INFO | 10652 | color_detetor | 8 Points Detected on the Image
+INFO | 10652 | eklem_tracker | Results Matched for New Frame
+INFO | 10652 | eklem_tracker | Getting Joints Dict
+INFO | 10652 | angle_calculator | Getting Angle Dict
+INFO | 10662 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10666 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10668 | color_detetor | Filtering Done & Mask Created
+INFO | 10669 | color_detetor | 8 Points Detected on the Image
+INFO | 10669 | eklem_tracker | Results Matched for New Frame
+INFO | 10669 | eklem_tracker | Getting Joints Dict
+INFO | 10669 | angle_calculator | Getting Angle Dict
+INFO | 10677 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10681 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10683 | color_detetor | Filtering Done & Mask Created
+INFO | 10683 | color_detetor | 8 Points Detected on the Image
+INFO | 10683 | eklem_tracker | Results Matched for New Frame
+INFO | 10683 | eklem_tracker | Getting Joints Dict
+INFO | 10684 | angle_calculator | Getting Angle Dict
+INFO | 10692 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10696 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10698 | color_detetor | Filtering Done & Mask Created
+INFO | 10699 | color_detetor | 8 Points Detected on the Image
+INFO | 10699 | eklem_tracker | Results Matched for New Frame
+INFO | 10699 | eklem_tracker | Getting Joints Dict
+INFO | 10699 | angle_calculator | Getting Angle Dict
+INFO | 10707 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10711 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10713 | color_detetor | Filtering Done & Mask Created
+INFO | 10713 | color_detetor | 8 Points Detected on the Image
+INFO | 10713 | eklem_tracker | Results Matched for New Frame
+INFO | 10713 | eklem_tracker | Getting Joints Dict
+INFO | 10713 | angle_calculator | Getting Angle Dict
+INFO | 10722 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10726 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10728 | color_detetor | Filtering Done & Mask Created
+INFO | 10729 | color_detetor | 8 Points Detected on the Image
+INFO | 10729 | eklem_tracker | Results Matched for New Frame
+INFO | 10729 | eklem_tracker | Getting Joints Dict
+INFO | 10729 | angle_calculator | Getting Angle Dict
+INFO | 10740 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10744 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10745 | color_detetor | Filtering Done & Mask Created
+INFO | 10746 | color_detetor | 8 Points Detected on the Image
+INFO | 10746 | eklem_tracker | Results Matched for New Frame
+INFO | 10746 | eklem_tracker | Getting Joints Dict
+INFO | 10746 | angle_calculator | Getting Angle Dict
+INFO | 10755 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10759 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10760 | color_detetor | Filtering Done & Mask Created
+INFO | 10761 | color_detetor | 8 Points Detected on the Image
+INFO | 10761 | eklem_tracker | Results Matched for New Frame
+INFO | 10761 | eklem_tracker | Getting Joints Dict
+INFO | 10761 | angle_calculator | Getting Angle Dict
+INFO | 10770 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10774 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10776 | color_detetor | Filtering Done & Mask Created
+INFO | 10776 | color_detetor | 8 Points Detected on the Image
+INFO | 10777 | eklem_tracker | Results Matched for New Frame
+INFO | 10777 | eklem_tracker | Getting Joints Dict
+INFO | 10777 | angle_calculator | Getting Angle Dict
+INFO | 10786 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10790 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10792 | color_detetor | Filtering Done & Mask Created
+INFO | 10793 | color_detetor | 8 Points Detected on the Image
+INFO | 10793 | eklem_tracker | Results Matched for New Frame
+INFO | 10793 | eklem_tracker | Getting Joints Dict
+INFO | 10793 | angle_calculator | Getting Angle Dict
+INFO | 10803 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10807 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10808 | color_detetor | Filtering Done & Mask Created
+INFO | 10809 | color_detetor | 8 Points Detected on the Image
+INFO | 10809 | eklem_tracker | Results Matched for New Frame
+INFO | 10809 | eklem_tracker | Getting Joints Dict
+INFO | 10809 | angle_calculator | Getting Angle Dict
+INFO | 10818 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10822 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10824 | color_detetor | Filtering Done & Mask Created
+INFO | 10825 | color_detetor | 8 Points Detected on the Image
+INFO | 10825 | eklem_tracker | Results Matched for New Frame
+INFO | 10825 | eklem_tracker | Getting Joints Dict
+INFO | 10825 | angle_calculator | Getting Angle Dict
+INFO | 10834 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10837 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10840 | color_detetor | Filtering Done & Mask Created
+INFO | 10840 | color_detetor | 8 Points Detected on the Image
+INFO | 10840 | eklem_tracker | Results Matched for New Frame
+INFO | 10840 | eklem_tracker | Getting Joints Dict
+INFO | 10840 | angle_calculator | Getting Angle Dict
+INFO | 10850 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10854 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10855 | color_detetor | Filtering Done & Mask Created
+INFO | 10856 | color_detetor | 8 Points Detected on the Image
+INFO | 10856 | eklem_tracker | Results Matched for New Frame
+INFO | 10856 | eklem_tracker | Getting Joints Dict
+INFO | 10856 | angle_calculator | Getting Angle Dict
+INFO | 10880 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10884 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10886 | color_detetor | Filtering Done & Mask Created
+INFO | 10886 | color_detetor | 8 Points Detected on the Image
+INFO | 10886 | eklem_tracker | Results Matched for New Frame
+INFO | 10886 | eklem_tracker | Getting Joints Dict
+INFO | 10886 | angle_calculator | Getting Angle Dict
+INFO | 10896 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10899 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10901 | color_detetor | Filtering Done & Mask Created
+INFO | 10901 | color_detetor | 8 Points Detected on the Image
+INFO | 10902 | eklem_tracker | Results Matched for New Frame
+INFO | 10902 | eklem_tracker | Getting Joints Dict
+INFO | 10902 | angle_calculator | Getting Angle Dict
+INFO | 10911 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10915 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10917 | color_detetor | Filtering Done & Mask Created
+INFO | 10917 | color_detetor | 8 Points Detected on the Image
+INFO | 10917 | eklem_tracker | Results Matched for New Frame
+INFO | 10917 | eklem_tracker | Getting Joints Dict
+INFO | 10917 | angle_calculator | Getting Angle Dict
+INFO | 10926 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10930 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10932 | color_detetor | Filtering Done & Mask Created
+INFO | 10932 | color_detetor | 8 Points Detected on the Image
+INFO | 10932 | eklem_tracker | Results Matched for New Frame
+INFO | 10932 | eklem_tracker | Getting Joints Dict
+INFO | 10933 | angle_calculator | Getting Angle Dict
+INFO | 10943 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10947 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10948 | color_detetor | Filtering Done & Mask Created
+INFO | 10949 | color_detetor | 8 Points Detected on the Image
+INFO | 10949 | eklem_tracker | Results Matched for New Frame
+INFO | 10949 | eklem_tracker | Getting Joints Dict
+INFO | 10949 | angle_calculator | Getting Angle Dict
+INFO | 10958 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10962 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10963 | color_detetor | Filtering Done & Mask Created
+INFO | 10964 | color_detetor | 8 Points Detected on the Image
+INFO | 10964 | eklem_tracker | Results Matched for New Frame
+INFO | 10964 | eklem_tracker | Getting Joints Dict
+INFO | 10964 | angle_calculator | Getting Angle Dict
+INFO | 10973 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10977 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10979 | color_detetor | Filtering Done & Mask Created
+INFO | 10979 | color_detetor | 8 Points Detected on the Image
+INFO | 10979 | eklem_tracker | Results Matched for New Frame
+INFO | 10979 | eklem_tracker | Getting Joints Dict
+INFO | 10979 | angle_calculator | Getting Angle Dict
+INFO | 10989 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 10993 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 10995 | color_detetor | Filtering Done & Mask Created
+INFO | 10996 | color_detetor | 8 Points Detected on the Image
+INFO | 10996 | eklem_tracker | Results Matched for New Frame
+INFO | 10996 | eklem_tracker | Getting Joints Dict
+INFO | 10996 | angle_calculator | Getting Angle Dict
+INFO | 11005 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11010 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11011 | color_detetor | Filtering Done & Mask Created
+INFO | 11012 | color_detetor | 8 Points Detected on the Image
+INFO | 11012 | eklem_tracker | Results Matched for New Frame
+INFO | 11012 | eklem_tracker | Getting Joints Dict
+INFO | 11012 | angle_calculator | Getting Angle Dict
+INFO | 11021 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11025 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11027 | color_detetor | Filtering Done & Mask Created
+INFO | 11028 | color_detetor | 8 Points Detected on the Image
+INFO | 11028 | eklem_tracker | Results Matched for New Frame
+INFO | 11028 | eklem_tracker | Getting Joints Dict
+INFO | 11028 | angle_calculator | Getting Angle Dict
+INFO | 11037 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11041 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11043 | color_detetor | Filtering Done & Mask Created
+INFO | 11043 | color_detetor | 8 Points Detected on the Image
+INFO | 11043 | eklem_tracker | Results Matched for New Frame
+INFO | 11043 | eklem_tracker | Getting Joints Dict
+INFO | 11044 | angle_calculator | Getting Angle Dict
+INFO | 11053 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11058 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11060 | color_detetor | Filtering Done & Mask Created
+INFO | 11061 | color_detetor | 8 Points Detected on the Image
+INFO | 11061 | eklem_tracker | Results Matched for New Frame
+INFO | 11061 | eklem_tracker | Getting Joints Dict
+INFO | 11061 | angle_calculator | Getting Angle Dict
+INFO | 11069 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11073 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11075 | color_detetor | Filtering Done & Mask Created
+INFO | 11075 | color_detetor | 8 Points Detected on the Image
+INFO | 11075 | eklem_tracker | Results Matched for New Frame
+INFO | 11075 | eklem_tracker | Getting Joints Dict
+INFO | 11075 | angle_calculator | Getting Angle Dict
+INFO | 11085 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11089 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11091 | color_detetor | Filtering Done & Mask Created
+INFO | 11092 | color_detetor | 8 Points Detected on the Image
+INFO | 11092 | eklem_tracker | Results Matched for New Frame
+INFO | 11092 | eklem_tracker | Getting Joints Dict
+INFO | 11092 | angle_calculator | Getting Angle Dict
+INFO | 11101 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11105 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11107 | color_detetor | Filtering Done & Mask Created
+INFO | 11107 | color_detetor | 8 Points Detected on the Image
+INFO | 11107 | eklem_tracker | Results Matched for New Frame
+INFO | 11107 | eklem_tracker | Getting Joints Dict
+INFO | 11107 | angle_calculator | Getting Angle Dict
+INFO | 11117 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11121 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11123 | color_detetor | Filtering Done & Mask Created
+INFO | 11124 | color_detetor | 8 Points Detected on the Image
+INFO | 11124 | eklem_tracker | Results Matched for New Frame
+INFO | 11124 | eklem_tracker | Getting Joints Dict
+INFO | 11124 | angle_calculator | Getting Angle Dict
+INFO | 11135 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11139 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11140 | color_detetor | Filtering Done & Mask Created
+INFO | 11141 | color_detetor | 8 Points Detected on the Image
+INFO | 11141 | eklem_tracker | Results Matched for New Frame
+INFO | 11141 | eklem_tracker | Getting Joints Dict
+INFO | 11141 | angle_calculator | Getting Angle Dict
+INFO | 11164 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11169 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11171 | color_detetor | Filtering Done & Mask Created
+INFO | 11171 | color_detetor | 8 Points Detected on the Image
+INFO | 11171 | eklem_tracker | Results Matched for New Frame
+INFO | 11171 | eklem_tracker | Getting Joints Dict
+INFO | 11171 | angle_calculator | Getting Angle Dict
+INFO | 11203 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11210 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11212 | color_detetor | Filtering Done & Mask Created
+INFO | 11213 | color_detetor | 8 Points Detected on the Image
+INFO | 11213 | eklem_tracker | Results Matched for New Frame
+INFO | 11213 | eklem_tracker | Getting Joints Dict
+INFO | 11213 | angle_calculator | Getting Angle Dict
+INFO | 11222 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11226 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11228 | color_detetor | Filtering Done & Mask Created
+INFO | 11229 | color_detetor | 8 Points Detected on the Image
+INFO | 11229 | eklem_tracker | Results Matched for New Frame
+INFO | 11229 | eklem_tracker | Getting Joints Dict
+INFO | 11229 | angle_calculator | Getting Angle Dict
+INFO | 11237 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11241 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11242 | color_detetor | Filtering Done & Mask Created
+INFO | 11243 | color_detetor | 8 Points Detected on the Image
+INFO | 11243 | eklem_tracker | Results Matched for New Frame
+INFO | 11243 | eklem_tracker | Getting Joints Dict
+INFO | 11243 | angle_calculator | Getting Angle Dict
+INFO | 11256 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11260 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11262 | color_detetor | Filtering Done & Mask Created
+INFO | 11263 | color_detetor | 8 Points Detected on the Image
+INFO | 11263 | eklem_tracker | Results Matched for New Frame
+INFO | 11263 | eklem_tracker | Getting Joints Dict
+INFO | 11263 | angle_calculator | Getting Angle Dict
+INFO | 11272 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11276 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11278 | color_detetor | Filtering Done & Mask Created
+INFO | 11278 | color_detetor | 8 Points Detected on the Image
+INFO | 11279 | eklem_tracker | Results Matched for New Frame
+INFO | 11279 | eklem_tracker | Getting Joints Dict
+INFO | 11279 | angle_calculator | Getting Angle Dict
+INFO | 11290 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11294 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11295 | color_detetor | Filtering Done & Mask Created
+INFO | 11296 | color_detetor | 8 Points Detected on the Image
+INFO | 11296 | eklem_tracker | Results Matched for New Frame
+INFO | 11296 | eklem_tracker | Getting Joints Dict
+INFO | 11296 | angle_calculator | Getting Angle Dict
+INFO | 11305 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11309 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11310 | color_detetor | Filtering Done & Mask Created
+INFO | 11311 | color_detetor | 8 Points Detected on the Image
+INFO | 11311 | eklem_tracker | Results Matched for New Frame
+INFO | 11311 | eklem_tracker | Getting Joints Dict
+INFO | 11311 | angle_calculator | Getting Angle Dict
+INFO | 11343 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11349 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11352 | color_detetor | Filtering Done & Mask Created
+INFO | 11353 | color_detetor | 8 Points Detected on the Image
+INFO | 11353 | eklem_tracker | Results Matched for New Frame
+INFO | 11353 | eklem_tracker | Getting Joints Dict
+INFO | 11353 | angle_calculator | Getting Angle Dict
+INFO | 11362 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11367 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11368 | color_detetor | Filtering Done & Mask Created
+INFO | 11369 | color_detetor | 8 Points Detected on the Image
+INFO | 11369 | eklem_tracker | Results Matched for New Frame
+INFO | 11369 | eklem_tracker | Getting Joints Dict
+INFO | 11369 | angle_calculator | Getting Angle Dict
+INFO | 11376 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11380 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11382 | color_detetor | Filtering Done & Mask Created
+INFO | 11383 | color_detetor | 8 Points Detected on the Image
+INFO | 11383 | eklem_tracker | Results Matched for New Frame
+INFO | 11383 | eklem_tracker | Getting Joints Dict
+INFO | 11383 | angle_calculator | Getting Angle Dict
+INFO | 11398 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11402 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11403 | color_detetor | Filtering Done & Mask Created
+INFO | 11404 | color_detetor | 8 Points Detected on the Image
+INFO | 11404 | eklem_tracker | Results Matched for New Frame
+INFO | 11404 | eklem_tracker | Getting Joints Dict
+INFO | 11404 | angle_calculator | Getting Angle Dict
+INFO | 11438 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11444 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11447 | color_detetor | Filtering Done & Mask Created
+INFO | 11448 | color_detetor | 8 Points Detected on the Image
+INFO | 11448 | eklem_tracker | Results Matched for New Frame
+INFO | 11448 | eklem_tracker | Getting Joints Dict
+INFO | 11448 | angle_calculator | Getting Angle Dict
+INFO | 11458 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11462 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11464 | color_detetor | Filtering Done & Mask Created
+INFO | 11464 | color_detetor | 8 Points Detected on the Image
+INFO | 11464 | eklem_tracker | Results Matched for New Frame
+INFO | 11464 | eklem_tracker | Getting Joints Dict
+INFO | 11464 | angle_calculator | Getting Angle Dict
+INFO | 11471 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11475 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11477 | color_detetor | Filtering Done & Mask Created
+INFO | 11478 | color_detetor | 8 Points Detected on the Image
+INFO | 11478 | eklem_tracker | Results Matched for New Frame
+INFO | 11478 | eklem_tracker | Getting Joints Dict
+INFO | 11478 | angle_calculator | Getting Angle Dict
+INFO | 11490 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11495 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11496 | color_detetor | Filtering Done & Mask Created
+INFO | 11497 | color_detetor | 8 Points Detected on the Image
+INFO | 11497 | eklem_tracker | Results Matched for New Frame
+INFO | 11497 | eklem_tracker | Getting Joints Dict
+INFO | 11497 | angle_calculator | Getting Angle Dict
+INFO | 11506 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11510 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11512 | color_detetor | Filtering Done & Mask Created
+INFO | 11512 | color_detetor | 8 Points Detected on the Image
+INFO | 11513 | eklem_tracker | Results Matched for New Frame
+INFO | 11513 | eklem_tracker | Getting Joints Dict
+INFO | 11513 | angle_calculator | Getting Angle Dict
+INFO | 11522 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11526 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11528 | color_detetor | Filtering Done & Mask Created
+INFO | 11528 | color_detetor | 8 Points Detected on the Image
+INFO | 11528 | eklem_tracker | Results Matched for New Frame
+INFO | 11529 | eklem_tracker | Getting Joints Dict
+INFO | 11529 | angle_calculator | Getting Angle Dict
+INFO | 11538 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11542 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11544 | color_detetor | Filtering Done & Mask Created
+INFO | 11545 | color_detetor | 8 Points Detected on the Image
+INFO | 11545 | eklem_tracker | Results Matched for New Frame
+INFO | 11545 | eklem_tracker | Getting Joints Dict
+INFO | 11545 | angle_calculator | Getting Angle Dict
+INFO | 11554 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11558 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11560 | color_detetor | Filtering Done & Mask Created
+INFO | 11560 | color_detetor | 8 Points Detected on the Image
+INFO | 11560 | eklem_tracker | Results Matched for New Frame
+INFO | 11561 | eklem_tracker | Getting Joints Dict
+INFO | 11561 | angle_calculator | Getting Angle Dict
+INFO | 11570 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11573 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11575 | color_detetor | Filtering Done & Mask Created
+INFO | 11576 | color_detetor | 8 Points Detected on the Image
+INFO | 11576 | eklem_tracker | Results Matched for New Frame
+INFO | 11576 | eklem_tracker | Getting Joints Dict
+INFO | 11576 | angle_calculator | Getting Angle Dict
+INFO | 11585 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11589 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11591 | color_detetor | Filtering Done & Mask Created
+INFO | 11591 | color_detetor | 8 Points Detected on the Image
+INFO | 11591 | eklem_tracker | Results Matched for New Frame
+INFO | 11591 | eklem_tracker | Getting Joints Dict
+INFO | 11591 | angle_calculator | Getting Angle Dict
+INFO | 11601 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11605 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11607 | color_detetor | Filtering Done & Mask Created
+INFO | 11608 | color_detetor | 8 Points Detected on the Image
+INFO | 11608 | eklem_tracker | Results Matched for New Frame
+INFO | 11608 | eklem_tracker | Getting Joints Dict
+INFO | 11608 | angle_calculator | Getting Angle Dict
+INFO | 11619 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11623 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11625 | color_detetor | Filtering Done & Mask Created
+INFO | 11625 | color_detetor | 8 Points Detected on the Image
+INFO | 11625 | eklem_tracker | Results Matched for New Frame
+INFO | 11625 | eklem_tracker | Getting Joints Dict
+INFO | 11625 | angle_calculator | Getting Angle Dict
+INFO | 11661 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11665 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11667 | color_detetor | Filtering Done & Mask Created
+INFO | 11668 | color_detetor | 8 Points Detected on the Image
+INFO | 11668 | eklem_tracker | Results Matched for New Frame
+INFO | 11668 | eklem_tracker | Getting Joints Dict
+INFO | 11668 | angle_calculator | Getting Angle Dict
+INFO | 11681 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11686 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11687 | color_detetor | Filtering Done & Mask Created
+INFO | 11688 | color_detetor | 8 Points Detected on the Image
+INFO | 11688 | eklem_tracker | Results Matched for New Frame
+INFO | 11688 | eklem_tracker | Getting Joints Dict
+INFO | 11688 | angle_calculator | Getting Angle Dict
+INFO | 11697 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11701 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11702 | color_detetor | Filtering Done & Mask Created
+INFO | 11703 | color_detetor | 8 Points Detected on the Image
+INFO | 11703 | eklem_tracker | Results Matched for New Frame
+INFO | 11703 | eklem_tracker | Getting Joints Dict
+INFO | 11703 | angle_calculator | Getting Angle Dict
+INFO | 11712 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11716 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11717 | color_detetor | Filtering Done & Mask Created
+INFO | 11718 | color_detetor | 8 Points Detected on the Image
+INFO | 11718 | eklem_tracker | Results Matched for New Frame
+INFO | 11718 | eklem_tracker | Getting Joints Dict
+INFO | 11718 | angle_calculator | Getting Angle Dict
+INFO | 11726 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11730 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11732 | color_detetor | Filtering Done & Mask Created
+INFO | 11732 | color_detetor | 8 Points Detected on the Image
+INFO | 11733 | eklem_tracker | Results Matched for New Frame
+INFO | 11733 | eklem_tracker | Getting Joints Dict
+INFO | 11733 | angle_calculator | Getting Angle Dict
+INFO | 11752 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11759 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11761 | color_detetor | Filtering Done & Mask Created
+INFO | 11762 | color_detetor | 8 Points Detected on the Image
+INFO | 11762 | eklem_tracker | Results Matched for New Frame
+INFO | 11762 | eklem_tracker | Getting Joints Dict
+INFO | 11762 | angle_calculator | Getting Angle Dict
+INFO | 11772 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11777 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11778 | color_detetor | Filtering Done & Mask Created
+INFO | 11779 | color_detetor | 8 Points Detected on the Image
+INFO | 11779 | eklem_tracker | Results Matched for New Frame
+INFO | 11779 | eklem_tracker | Getting Joints Dict
+INFO | 11779 | angle_calculator | Getting Angle Dict
+INFO | 11786 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11790 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11792 | color_detetor | Filtering Done & Mask Created
+INFO | 11792 | color_detetor | 8 Points Detected on the Image
+INFO | 11792 | eklem_tracker | Results Matched for New Frame
+INFO | 11792 | eklem_tracker | Getting Joints Dict
+INFO | 11792 | angle_calculator | Getting Angle Dict
+INFO | 11805 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11809 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11811 | color_detetor | Filtering Done & Mask Created
+INFO | 11811 | color_detetor | 8 Points Detected on the Image
+INFO | 11812 | eklem_tracker | Results Matched for New Frame
+INFO | 11812 | eklem_tracker | Getting Joints Dict
+INFO | 11812 | angle_calculator | Getting Angle Dict
+INFO | 11821 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11825 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11827 | color_detetor | Filtering Done & Mask Created
+INFO | 11827 | color_detetor | 8 Points Detected on the Image
+INFO | 11827 | eklem_tracker | Results Matched for New Frame
+INFO | 11827 | eklem_tracker | Getting Joints Dict
+INFO | 11827 | angle_calculator | Getting Angle Dict
+INFO | 11837 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11841 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11842 | color_detetor | Filtering Done & Mask Created
+INFO | 11843 | color_detetor | 8 Points Detected on the Image
+INFO | 11843 | eklem_tracker | Results Matched for New Frame
+INFO | 11843 | eklem_tracker | Getting Joints Dict
+INFO | 11843 | angle_calculator | Getting Angle Dict
+INFO | 11867 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11874 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11876 | color_detetor | Filtering Done & Mask Created
+INFO | 11877 | color_detetor | 8 Points Detected on the Image
+INFO | 11877 | eklem_tracker | Results Matched for New Frame
+INFO | 11877 | eklem_tracker | Getting Joints Dict
+INFO | 11877 | angle_calculator | Getting Angle Dict
+INFO | 11887 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11891 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11893 | color_detetor | Filtering Done & Mask Created
+INFO | 11893 | color_detetor | 8 Points Detected on the Image
+INFO | 11893 | eklem_tracker | Results Matched for New Frame
+INFO | 11894 | eklem_tracker | Getting Joints Dict
+INFO | 11894 | angle_calculator | Getting Angle Dict
+INFO | 11901 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11904 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11906 | color_detetor | Filtering Done & Mask Created
+INFO | 11906 | color_detetor | 8 Points Detected on the Image
+INFO | 11907 | eklem_tracker | Results Matched for New Frame
+INFO | 11907 | eklem_tracker | Getting Joints Dict
+INFO | 11907 | angle_calculator | Getting Angle Dict
+INFO | 11917 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11921 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11923 | color_detetor | Filtering Done & Mask Created
+INFO | 11923 | color_detetor | 8 Points Detected on the Image
+INFO | 11923 | eklem_tracker | Results Matched for New Frame
+INFO | 11923 | eklem_tracker | Getting Joints Dict
+INFO | 11924 | angle_calculator | Getting Angle Dict
+INFO | 11932 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11936 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11938 | color_detetor | Filtering Done & Mask Created
+INFO | 11938 | color_detetor | 8 Points Detected on the Image
+INFO | 11938 | eklem_tracker | Results Matched for New Frame
+INFO | 11938 | eklem_tracker | Getting Joints Dict
+INFO | 11938 | angle_calculator | Getting Angle Dict
+INFO | 11948 | keypoint | Frame Saved.
+
+
+
+
+
+INFO | 11952 | keypoint | Frame read and resized to (720, 1280, 3).
+INFO | 11954 | color_detetor | Filtering Done & Mask Created
+INFO | 11954 | color_detetor | 8 Points Detected on the Image
+INFO | 11955 | eklem_tracker | Results Matched for New Frame
+INFO | 11955 | eklem_tracker | Getting Joints Dict
+INFO | 11955 | angle_calculator | Getting Angle Dict
+INFO | 11964 | keypoint | Frame Saved.
+
+
+
+
+

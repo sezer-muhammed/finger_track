@@ -16,7 +16,7 @@ class AngleCalculator():
             angle_name = f"{keys[i]}"
             angle = self.__calculate_angle(joints[keys[i-1]], joints[keys[i]], joints[keys[i+1]])
             angles[angle_name] = angle
-        self.__all_angles.append(angles)
+        self.__all_angles.append(angles.copy())
         self.logger.info(f"Getting Angle Dict")
         return angles
         
